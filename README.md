@@ -28,9 +28,13 @@ We employed our computational framework to analyze a selected set of health, env
 
 ## References:
 </p>[1] Murilo Borges Ribeiro; Kelly Rosa Braghetto. A Data Integration Architecture for Smart Cities. Proceedings of the 36th Brazilian Symposium on Databases 2021, 205–216. https://doi.org/10.5753/sbbd.2021.17878<br>
+
 [2] Eurostat, "Nomenclature of territorial units for statistics". Eurostat; Luxembourg, 1995.<br>
+
 [3] European Commission, “Eurostat.” https://ec.europa.eu/eurostat/, 2023.<br>
+
 [4] “EEA: European Air Quality Portal.” https://aqportal.discomap.eea.europa.eu/, 2023.<br>
+
 [5] Mladen Adamovic, “Numbeo: Cost of Living.” https://www.numbeo.com/, 2023.</p>
 
 ## Acknowledgments
