@@ -1,0 +1,121 @@
+id;name;description
+0;Åland;FI2 in the EuroStat DB according to NUTS2, but it might also have other titles
+1;Liechtenstein;LI in the EuroStat DB according to NUTS2, but it might also have other titles
+2;Ciudad de Ceuta;ES63 in the EuroStat DB according to NUTS2, but it might also have other titles
+3;Ciudad de Melilla;ES64 in the EuroStat DB according to NUTS2, but it might also have other titles
+4;Valle d'Aosta/Vallée d'Aoste;ITC2 in the EuroStat DB according to NUTS2, but it might also have other titles
+5;Voreio Aigaio;EL41 in the EuroStat DB according to NUTS2, but it might also have other titles
+6;Ionia Nisia;EL62 in the EuroStat DB according to NUTS2, but it might also have other titles
+7;Região Autónoma dos Açores (PT);PT2 in the EuroStat DB according to NUTS2, but it might also have other titles
+8;Região Autónoma da Madeira (PT);PT3 in the EuroStat DB according to NUTS2, but it might also have other titles
+9;Dytiki Makedonia;EL53 in the EuroStat DB according to NUTS2, but it might also have other titles
+10;Molise;ITF2 in the EuroStat DB according to NUTS2, but it might also have other titles
+11;Prov. Luxembourg (BE);BE34 in the EuroStat DB according to NUTS2, but it might also have other titles
+12;Burgenland (AT);AT11 in the EuroStat DB according to NUTS2, but it might also have other titles
+13;Mayotte;FRY5 in the EuroStat DB according to NUTS2, but it might also have other titles
+14;La Rioja;ES23 in the EuroStat DB according to NUTS2, but it might also have other titles
+15;Ipeiros;EL54 in the EuroStat DB according to NUTS2, but it might also have other titles
+16;Notio Aigaio;EL42 in the EuroStat DB according to NUTS2, but it might also have other titles
+17;Corse;FRM in the EuroStat DB according to NUTS2, but it might also have other titles
+18;Ticino;CH07 in the EuroStat DB according to NUTS2, but it might also have other titles
+19;Martinique;FRY2 in the EuroStat DB according to NUTS2, but it might also have other titles
+20;Zeeland;NL34 in the EuroStat DB according to NUTS2, but it might also have other titles
+21;Vorarlberg;AT34 in the EuroStat DB according to NUTS2, but it might also have other titles
+22;Guadeloupe;FRY1 in the EuroStat DB according to NUTS2, but it might also have other titles
+23;Prov. Brabant wallon;BE31 in the EuroStat DB according to NUTS2, but it might also have other titles
+24;Flevoland;NL23 in the EuroStat DB according to NUTS2, but it might also have other titles
+25;Algarve;PT15 in the EuroStat DB according to NUTS2, but it might also have other titles
+26;Drenthe;NL13 in the EuroStat DB according to NUTS2, but it might also have other titles
+27;Prov. Namur;BE35 in the EuroStat DB according to NUTS2, but it might also have other titles
+28;Malta;MT in the EuroStat DB according to NUTS2, but it might also have other titles
+29;Provincia Autonoma di Bolzano/Bozen;ITH1 in the EuroStat DB according to NUTS2, but it might also have other titles
+30;Trier;DEB2 in the EuroStat DB according to NUTS2, but it might also have other titles
+31;Provincia Autonoma di Trento;ITH2 in the EuroStat DB according to NUTS2, but it might also have other titles
+32;Salzburg;AT32 in the EuroStat DB according to NUTS2, but it might also have other titles
+33;Kärnten;AT21 in the EuroStat DB according to NUTS2, but it might also have other titles
+34;Cantabria;ES13 in the EuroStat DB according to NUTS2, but it might also have other titles
+35;Groningen;NL11 in the EuroStat DB according to NUTS2, but it might also have other titles
+36;Nordjylland;DK05 in the EuroStat DB according to NUTS2, but it might also have other titles
+37;Kriti;EL43 in the EuroStat DB according to NUTS2, but it might also have other titles
+38;Luxembourg;LU in the EuroStat DB according to NUTS2, but it might also have other titles
+39;Friesland (NL);NL12 in the EuroStat DB according to NUTS2, but it might also have other titles
+40;Bremen;DE5 in the EuroStat DB according to NUTS2, but it might also have other titles
+41;Bratislavský kraj;SK01 in the EuroStat DB according to NUTS2, but it might also have other titles
+42;Grad Zagreb;HR05 in the EuroStat DB according to NUTS2, but it might also have other titles
+43;Sjeverna Hrvatska;HR06 in the EuroStat DB according to NUTS2, but it might also have other titles
+44;Sostines regionas;LT01 in the EuroStat DB according to NUTS2, but it might also have other titles
+45;Zentralschweiz;CH06 in the EuroStat DB according to NUTS2, but it might also have other titles
+46;Sjælland;DK02 in the EuroStat DB according to NUTS2, but it might also have other titles
+47;Umbria;ITI2 in the EuroStat DB according to NUTS2, but it might also have other titles
+48;La Réunion;FRY4 in the EuroStat DB according to NUTS2, but it might also have other titles
+49;Prov. Limburg (BE);BE22 in the EuroStat DB according to NUTS2, but it might also have other titles
+50;Cyprus;CY in the EuroStat DB according to NUTS2, but it might also have other titles
+51;Kypros;CY0 in the EuroStat DB according to NUTS2, but it might also have other titles
+52;Opolskie;PL52 in the EuroStat DB according to NUTS2, but it might also have other titles
+53;Saarland;DEC in the EuroStat DB according to NUTS2, but it might also have other titles
+54;Zahodna Slovenija;SI04 in the EuroStat DB according to NUTS2, but it might also have other titles
+55;Gießen;DE72 in the EuroStat DB according to NUTS2, but it might also have other titles
+56;Leipzig;DED5 in the EuroStat DB according to NUTS2, but it might also have other titles
+57;Oberfranken;DE24 in the EuroStat DB according to NUTS2, but it might also have other titles
+58;Severozápad;CZ04 in the EuroStat DB according to NUTS2, but it might also have other titles
+59;Prov. Liège;BE33 in the EuroStat DB according to NUTS2, but it might also have other titles
+60;Oberpfalz;DE23 in the EuroStat DB according to NUTS2, but it might also have other titles
+61;Limburg (NL);NL42 in the EuroStat DB according to NUTS2, but it might also have other titles
+62;Overijssel;NL21 in the EuroStat DB according to NUTS2, but it might also have other titles
+63;Prov. Vlaams-Brabant;BE24 in the EuroStat DB according to NUTS2, but it might also have other titles
+64;Moravskoslezsko;CZ08 in the EuroStat DB according to NUTS2, but it might also have other titles
+65;Nordwestschweiz;CH03 in the EuroStat DB according to NUTS2, but it might also have other titles
+66;Friuli-Venezia Giulia;ITH4 in the EuroStat DB according to NUTS2, but it might also have other titles
+67;Strední Morava;CZ07 in the EuroStat DB according to NUTS2, but it might also have other titles
+68;Prov. West-Vlaanderen;BE25 in the EuroStat DB according to NUTS2, but it might also have other titles
+69;Kassel;DE73 in the EuroStat DB according to NUTS2, but it might also have other titles
+70;Illes Balears;ES53 in the EuroStat DB according to NUTS2, but it might also have other titles
+71;Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1 in the EuroStat DB according to NUTS2, but it might also have other titles
+72;Praha;CZ01 in the EuroStat DB according to NUTS2, but it might also have other titles
+73;Unterfranken;DE26 in the EuroStat DB according to NUTS2, but it might also have other titles
+74;Pest;HU12 in the EuroStat DB according to NUTS2, but it might also have other titles
+75;Prov. Hainaut;BE32 in the EuroStat DB according to NUTS2, but it might also have other titles
+76;Utrecht;NL31 in the EuroStat DB according to NUTS2, but it might also have other titles
+77;Chemnitz;DED4 in the EuroStat DB according to NUTS2, but it might also have other titles
+78;Marche;ITI3 in the EuroStat DB according to NUTS2, but it might also have other titles
+79;Koblenz;DEB1 in the EuroStat DB according to NUTS2, but it might also have other titles
+80;Liguria;ITC3 in the EuroStat DB according to NUTS2, but it might also have other titles
+81;Prov. Oost-Vlaanderen;BE23 in the EuroStat DB according to NUTS2, but it might also have other titles
+82;Zürich;CH04 in the EuroStat DB according to NUTS2, but it might also have other titles
+83;Dresden;DED2 in the EuroStat DB according to NUTS2, but it might also have other titles
+84;Braunschweig;DE91 in the EuroStat DB according to NUTS2, but it might also have other titles
+85;Région lémanique;CH01 in the EuroStat DB according to NUTS2, but it might also have other titles
+86;Budapest;HU11 in the EuroStat DB according to NUTS2, but it might also have other titles
+87;Helsinki-Uusimaa;FI1B in the EuroStat DB according to NUTS2, but it might also have other titles
+88;Noord-Nederland;NL1 in the EuroStat DB according to NUTS2, but it might also have other titles
+89;Mittelfranken;DE25 in the EuroStat DB according to NUTS2, but it might also have other titles
+90;Hamburg;DE6 in the EuroStat DB according to NUTS2, but it might also have other titles
+91;Hovedstaden;DK01 in the EuroStat DB according to NUTS2, but it might also have other titles
+92;Tübingen;DE14 in the EuroStat DB according to NUTS2, but it might also have other titles
+93;Prov. Antwerpen;BE21 in the EuroStat DB according to NUTS2, but it might also have other titles
+94;Schwaben;DE27 in the EuroStat DB according to NUTS2, but it might also have other titles
+95;Alsace;FRF1 in the EuroStat DB according to NUTS2, but it might also have other titles
+96;Wien;AT13 in the EuroStat DB according to NUTS2, but it might also have other titles
+97;Detmold;DEA4 in the EuroStat DB according to NUTS2, but it might also have other titles
+98;Rheinhessen-Pfalz;DEB3 in the EuroStat DB according to NUTS2, but it might also have other titles
+99;Gelderland;NL22 in the EuroStat DB according to NUTS2, but it might also have other titles
+100;Hannover;DE92 in the EuroStat DB according to NUTS2, but it might also have other titles
+101;País Vasco;ES21 in the EuroStat DB according to NUTS2, but it might also have other titles
+102;Canarias;ES7 in the EuroStat DB according to NUTS2, but it might also have other titles
+103;Bucuresti - Ilfov;RO32 in the EuroStat DB according to NUTS2, but it might also have other titles
+104;Freiburg;DE13 in the EuroStat DB according to NUTS2, but it might also have other titles
+105;Stockholm;SE11 in the EuroStat DB according to NUTS2, but it might also have other titles
+106;Noord-Brabant;NL41 in the EuroStat DB according to NUTS2, but it might also have other titles
+107;Münster;DEA3 in the EuroStat DB according to NUTS2, but it might also have other titles
+108;Karlsruhe;DE12 in the EuroStat DB according to NUTS2, but it might also have other titles
+109;Área Metropolitana de Lisboa;PT17 in the EuroStat DB according to NUTS2, but it might also have other titles
+110;Noord-Holland;NL32 in the EuroStat DB according to NUTS2, but it might also have other titles
+111;Közép-Magyarország;HU1 in the EuroStat DB according to NUTS2, but it might also have other titles
+112;Warszawski stoleczny;PL91 in the EuroStat DB according to NUTS2, but it might also have other titles
+113;Arnsberg;DEA5 in the EuroStat DB according to NUTS2, but it might also have other titles
+114;Berlin;DE3 in the EuroStat DB according to NUTS2, but it might also have other titles
+115;Zuid-Nederland;NL4 in the EuroStat DB according to NUTS2, but it might also have other titles
+116;Zuid-Holland;NL33 in the EuroStat DB according to NUTS2, but it might also have other titles
+117;Attiki;EL3 in the EuroStat DB according to NUTS2, but it might also have other titles
+118;Darmstadt;DE71 in the EuroStat DB according to NUTS2, but it might also have other titles
+119;Köln;DEA2 in the EuroStat DB according to NUTS2, but it might also have other titles
