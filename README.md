@@ -17,7 +17,7 @@ To accomplish this mission, our first step was to identify open-source databases
 ## Proof of concept
 We employed our computational framework to analyze a selected set of health, environmental, and urban datasets from corresponding sources – Eurostat [3], European Environment Agency (EEA) [4], and Numbeo [5]. Our integrative analysis focused on 120 European cities with surface area small enough to neglect the heterogeneity of the urban environment. The initial findings indicate modest correlations or no correlations between environmental factors and health outcomes - see *Fig. 1*. We are actively striving to optimize our statistical analysis by exploring alternative regression analysis methods and introducing new variables into our models. However, it is worth noting that our existing framework can be readily extended to any other location with accessible datasets, allowing for broader application and analysis.
 
-<img src="Figure_correlations_2.png">
+<img src="Figure_correlations_2.png" width=600>
 
 ## How you can use it?
 
