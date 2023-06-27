@@ -18,7 +18,8 @@ To accomplish this mission, our first step was to identify open-source databases
 We employed our computational framework to analyze a selected set of health, environmental, and urban datasets from corresponding sources – Eurostat [3], European Environment Agency (EEA) [4], and Numbeo [5]. Our integrative analysis focused on 120 European cities with surface area small enough to neglect the heterogeneity of the urban environment. The initial findings indicate modest correlations or no correlations between environmental factors and health outcomes - see *Figure 1*. We are actively striving to optimize our statistical analysis by exploring alternative regression analysis methods and introducing new variables into our models. However, it is worth noting that our existing framework can be readily extended to any other location with accessible datasets, allowing for broader application and analysis.
 
 <img src="Figure_correlations_2.png" width=400>
-*Figure 1*: Example of a plot from the inference framework: correlation of nitric oxide (NO) with a standardised mortality rate of chronic lower respiratory disease. R² = coefficient of determination.
+
+<small>*Figure 1:* Example of a plot from the inference framework: correlation of nitric oxide (NO) with a standardised mortality rate of chronic lower respiratory disease. R² = coefficient of determination.</small>
 
 ## How you can use it?
 
