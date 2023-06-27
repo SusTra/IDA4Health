@@ -17,23 +17,21 @@ To accomplish this mission, our first step was to identify open-source databases
 ## Proof of concept
 We employed our computational framework to analyze a selected set of health, environmental, and urban datasets from corresponding sources – Eurostat [3], European Environment Agency (EEA) [4], and Numbeo [5]. Our integrative analysis focused on 120 European cities with surface area small enough to neglect the heterogeneity of the urban environment. The initial findings indicate modest correlations or no correlations between environmental factors and health outcomes - see *Figure 1*. We are actively striving to optimize our statistical analysis by exploring alternative regression analysis methods and introducing new variables into our models. However, it is worth noting that our existing framework can be readily extended to any other location with accessible datasets, allowing for broader application and analysis.
 
-<figure>
 <img src="Figure_correlations_2.png" width=400>
-<figcaption>Figure 1: Example of a plot from the inference framework: 
-  correlation of nitric oxide (NO) with a standardised mortality rate of 
-  chronic lower respiratory disease. R² = coefficient of determination.</figcaption>
-</figure>
+<p><sub>Figure 1: Example of a plot from the inference framework:<br> 
+  correlation of nitric oxide (NO) with a standardised mortality rate of<br> 
+  chronic lower respiratory disease. R² = coefficient of determination.</sub></p>
 
 ## How you can use it?
 
 ## Access to the pilot app
 
 ## References:
-\ [1] Murilo Borges Ribeiro; Kelly Rosa Braghetto. A Data Integration Architecture for Smart Cities. Proceedings of the 36th Brazilian Symposium on Databases 2021, 205–216. https://doi.org/10.5753/sbbd.2021.17878
-\ [2] Eurostat, "Nomenclature of territorial units for statistics". Eurostat; Luxembourg, 1995.
-\ [3] European Commission, “Eurostat.” https://ec.europa.eu/eurostat/, 2023.
-\ [4] “EEA: European Air Quality Portal.” https://aqportal.discomap.eea.europa.eu/, 2023.
-\ [5] Mladen Adamovic, “Numbeo: Cost of Living.” https://www.numbeo.com/, 2023.
+</p>[1] Murilo Borges Ribeiro; Kelly Rosa Braghetto. A Data Integration Architecture for Smart Cities. Proceedings of the 36th Brazilian Symposium on Databases 2021, 205–216. https://doi.org/10.5753/sbbd.2021.17878<br>
+[2] Eurostat, "Nomenclature of territorial units for statistics". Eurostat; Luxembourg, 1995.<br>
+[3] European Commission, “Eurostat.” https://ec.europa.eu/eurostat/, 2023.<br>
+[4] “EEA: European Air Quality Portal.” https://aqportal.discomap.eea.europa.eu/, 2023.<br>
+[5] Mladen Adamovic, “Numbeo: Cost of Living.” https://www.numbeo.com/, 2023.</p>
 
 ## Acknowledgments
 
