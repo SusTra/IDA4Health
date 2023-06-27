@@ -19,7 +19,7 @@ We employed our computational framework to analyze a selected set of health, env
 
 <img src="Figure_correlations_2.png" width=400>
 
-<small>*Figure 1:* Example of a plot from the inference framework: correlation of nitric oxide (NO) with a standardised mortality rate of chronic lower respiratory disease. R² = coefficient of determination.</small>
+^*Figure 1:* Example of a plot from the inference framework: correlation of nitric oxide (NO) with a standardised mortality rate of chronic lower respiratory disease. R² = coefficient of determination.^
 
 ## How you can use it?
 
