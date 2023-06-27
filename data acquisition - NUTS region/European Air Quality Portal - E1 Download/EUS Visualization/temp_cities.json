@@ -1,0 +1,8230 @@
+[
+    [
+        "Durazzo",
+        "Durrës"
+    ],
+    [
+        "Durazzo",
+        "Durrës"
+    ],
+    [
+        "Tirana",
+        "Tiranë"
+    ],
+    [
+        "Tirana",
+        "Tiranë"
+    ],
+    [
+        "Algiers",
+        "Al-Jazā'ir (الجَزائر)"
+    ],
+    [
+        "Algiers",
+        "AlJazāir الجزائر"
+    ],
+    [
+        "Constantine",
+        "Qusanṭīnah (قسنطينة)"
+    ],
+    [
+        "Constantine",
+        "Qusanṭīnah قسنطينة"
+    ],
+    [
+        "Oran",
+        "Wahrān (وَهران)"
+    ],
+    [
+        "Oran",
+        "Wahrān وهران"
+    ],
+    [
+        "Ararat Plain",
+        "Araratyan dasht (Արարատյան դաշտ)"
+    ],
+    [
+        "Ararat Plain",
+        "Araratyan dasht Արարատյան դաշտ"
+    ],
+    [
+        "Iğdır Ovası",
+        "Turkish"
+    ],
+    [
+        "Iğdır Ovası",
+        "Turkish"
+    ],
+    [
+        "Yerevan",
+        "Erevan (Երևան/ Երեւան)"
+    ],
+    [
+        "Yerevan",
+        "Erevan Երևան Երեւան"
+    ],
+    [
+        "Ayers Rock",
+        "Uluru"
+    ],
+    [
+        "Ayers Rock",
+        "Uluru"
+    ],
+    [
+        "Rose Hill",
+        "Parramatta"
+    ],
+    [
+        "Rose Hill",
+        "Parramatta"
+    ],
+    [
+        "Tasmania",
+        "Lutruwita"
+    ],
+    [
+        "Tasmania",
+        "Lutruwita"
+    ],
+    [
+        "Ammergau Alps",
+        "Ammergebirge"
+    ],
+    [
+        "Ammergau Alps",
+        "Ammergebirge"
+    ],
+    [
+        "Bavarian Prealps",
+        "Bayerische Voralpen"
+    ],
+    [
+        "Bavarian Prealps",
+        "Bayerische Voralpen"
+    ],
+    [
+        "Brenner Pass",
+        "Brennerpass"
+    ],
+    [
+        "Brenner Pass",
+        "Brennerpass"
+    ],
+    [
+        "Carinthia",
+        "Kärnten"
+    ],
+    [
+        "Carinthia",
+        "Kärnten"
+    ],
+    [
+        "Carpathian Basin",
+        "Karpatenbecken"
+    ],
+    [
+        "Carpathian Basin",
+        "Karpatenbecken"
+    ],
+    [
+        "Danube river",
+        "Donau"
+    ],
+    [
+        "Danube river",
+        "Donau"
+    ],
+    [
+        "Drava",
+        "Drau"
+    ],
+    [
+        "Drava",
+        "Drau"
+    ],
+    [
+        "Drave",
+        "Drau"
+    ],
+    [
+        "Drave",
+        "Drau"
+    ],
+    [
+        "Lake Constance",
+        "Bodensee"
+    ],
+    [
+        "Lake Constance",
+        "Bodensee"
+    ],
+    [
+        "Northern Limestone Alps",
+        "Nördliche Kalkalpen"
+    ],
+    [
+        "Northern Limestone Alps",
+        "Nördliche Kalkalpen"
+    ],
+    [
+        "Southern Limestone Alps",
+        "Südliche Kalkalpen"
+    ],
+    [
+        "Southern Limestone Alps",
+        "Südliche Kalkalpen"
+    ],
+    [
+        "Styria",
+        "Steiermark"
+    ],
+    [
+        "Styria",
+        "Steiermark"
+    ],
+    [
+        "Tyrol",
+        "Tirol"
+    ],
+    [
+        "Tyrol",
+        "Tirol"
+    ],
+    [
+        "Vienna",
+        "Wien"
+    ],
+    [
+        "Vienna",
+        "Wien"
+    ],
+    [
+        "Wetterstein",
+        "Wettersteingebirge"
+    ],
+    [
+        "Wetterstein",
+        "Wettersteingebirge"
+    ],
+    [
+        "Baku",
+        "Bakı"
+    ],
+    [
+        "Baku",
+        "Bakı"
+    ],
+    [
+        "Barda",
+        "Bərdə"
+    ],
+    [
+        "Barda",
+        "Bərdə"
+    ],
+    [
+        "Caucasus",
+        "Qafqaz"
+    ],
+    [
+        "Caucasus",
+        "Qafqaz"
+    ],
+    [
+        "Ganja",
+        "Gəncə"
+    ],
+    [
+        "Ganja",
+        "Gəncə"
+    ],
+    [
+        "Lachin",
+        "Laçın"
+    ],
+    [
+        "Lachin",
+        "Laçın"
+    ],
+    [
+        "Sumgait",
+        "Sumqayıt"
+    ],
+    [
+        "Sumgait",
+        "Sumqayıt"
+    ],
+    [
+        "Antwerp",
+        "Antwerpen"
+    ],
+    [
+        "Antwerp",
+        "Antwerpen"
+    ],
+    [
+        "Bruges",
+        "Brugge"
+    ],
+    [
+        "Bruges",
+        "Brugge"
+    ],
+    [
+        "Brussels",
+        "Brussel"
+    ],
+    [
+        "Brussels",
+        "Brussel"
+    ],
+    [
+        "Bruxelles",
+        "French"
+    ],
+    [
+        "Bruxelles",
+        "French"
+    ],
+    [
+        "Courtrai",
+        "Kortrijk"
+    ],
+    [
+        "Courtrai",
+        "Kortrijk"
+    ],
+    [
+        "Filford",
+        "Vilvoorde"
+    ],
+    [
+        "Filford",
+        "Vilvoorde"
+    ],
+    [
+        "Flanders",
+        "Vlaanderen"
+    ],
+    [
+        "Flanders",
+        "Vlaanderen"
+    ],
+    [
+        "Gaunt",
+        "Gent"
+    ],
+    [
+        "Gaunt",
+        "Gent"
+    ],
+    [
+        "Ghent",
+        "Gent"
+    ],
+    [
+        "Ghent",
+        "Gent"
+    ],
+    [
+        "Louvain",
+        "Leuven"
+    ],
+    [
+        "Louvain",
+        "Leuven"
+    ],
+    [
+        "Mechlin",
+        "Mechelen"
+    ],
+    [
+        "Mechlin",
+        "Mechelen"
+    ],
+    [
+        "Ostend",
+        "Oostende"
+    ],
+    [
+        "Ostend",
+        "Oostende"
+    ],
+    [
+        "Wallonia",
+        "Wallonie"
+    ],
+    [
+        "Wallonia",
+        "Wallonie"
+    ],
+    [
+        "Ypres",
+        "Ieper"
+    ],
+    [
+        "Ypres",
+        "Ieper"
+    ],
+    [
+        "Bosnia",
+        "Bosna (Босна)"
+    ],
+    [
+        "Bosnia",
+        "Bosna Босна"
+    ],
+    [
+        "Herzegovina",
+        "Hercegovina (Херцеговина)"
+    ],
+    [
+        "Herzegovina",
+        "Hercegovina Херцеговина"
+    ],
+    [
+        "Narenta",
+        "Neretva (Неретва)"
+    ],
+    [
+        "Narenta",
+        "Neretva Неретва"
+    ],
+    [
+        "Balkan Mountains",
+        "Stara Planina (Стара Планина)"
+    ],
+    [
+        "Balkan Mountains",
+        "Stara Planina Стара Планина"
+    ],
+    [
+        "Danube river",
+        "Dunav (Дунав)"
+    ],
+    [
+        "Danube river",
+        "Dunav Дунав"
+    ],
+    [
+        "Philippopolis",
+        "Plovdiv (Пловдив)"
+    ],
+    [
+        "Philippopolis",
+        "Plovdiv Пловдив"
+    ],
+    [
+        "Rhodope Mountains",
+        "Rodopi (Родопи)"
+    ],
+    [
+        "Rhodope Mountains",
+        "Rodopi Родопи"
+    ],
+    [
+        "Sofia",
+        "Sofiya (София)"
+    ],
+    [
+        "Sofia",
+        "Sofiya София"
+    ],
+    [
+        "Southern Dobruja",
+        "Dobrudzha (Добруджа)"
+    ],
+    [
+        "Southern Dobruja",
+        "Dobrudzha Добруджа"
+    ],
+    [
+        "Thrace",
+        "Trakiya (Тракия)"
+    ],
+    [
+        "Thrace",
+        "Trakiya Тракия"
+    ],
+    [
+        "Arctic Red River",
+        "Tsiigehtchic"
+    ],
+    [
+        "Arctic Red River",
+        "Tsiigehtchic"
+    ],
+    [
+        "Big Trout Lake",
+        "Kitchenuhmaykoosib"
+    ],
+    [
+        "Big Trout Lake",
+        "Kitchenuhmaykoosib"
+    ],
+    [
+        "Cambridge Bay",
+        "Iqaluktuuttiaq"
+    ],
+    [
+        "Cambridge Bay",
+        "Iqaluktuuttiaq"
+    ],
+    [
+        "Chesterfield Inlet",
+        "Igluligaarjuk (ᐃᒡᓗᓕᒑᕐᔪᒃ)"
+    ],
+    [
+        "Chesterfield Inlet",
+        "Igluligaarjuk ᐃᒡᓗᓕᒑᕐᔪᒃ"
+    ],
+    [
+        "Fort Franklin",
+        "Délįnę"
+    ],
+    [
+        "Fort Franklin",
+        "Délįnę"
+    ],
+    [
+        "Fort Hope",
+        "Eabametoong"
+    ],
+    [
+        "Fort Hope",
+        "Eabametoong"
+    ],
+    [
+        "Fort Norman",
+        "Tulita"
+    ],
+    [
+        "Fort Norman",
+        "Tulita"
+    ],
+    [
+        "Fraserville",
+        "Rivière-du-Loup"
+    ],
+    [
+        "Fraserville",
+        "RivièreduLoup"
+    ],
+    [
+        "Frobisher Bay",
+        "Iqaluit (ᐃᖃᓗᐃᑦ)"
+    ],
+    [
+        "Frobisher Bay",
+        "Iqaluit ᐃᖃᓗᐃᑦ"
+    ],
+    [
+        "Gjoa Haven",
+        "Uqsuqtuuq (ᐅᖅᓱᖅᑑᖅ)"
+    ],
+    [
+        "Gjoa Haven",
+        "Uqsuqtuuq ᐅᖅᓱᖅᑑᖅ"
+    ],
+    [
+        "Holman",
+        "Ulukhaktok"
+    ],
+    [
+        "Holman",
+        "Ulukhaktok"
+    ],
+    [
+        "Harrington Lake",
+        "Lac Mousseau"
+    ],
+    [
+        "Harrington Lake",
+        "Lac Mousseau"
+    ],
+    [
+        "Iroquois River",
+        "Rivière Richelieu"
+    ],
+    [
+        "Iroquois River",
+        "Rivière Richelieu"
+    ],
+    [
+        "Island of Orleans",
+        "Île d'Orléans"
+    ],
+    [
+        "Island of Orleans",
+        "Île dOrléans"
+    ],
+    [
+        "Lansdowne House",
+        "Neskantaga"
+    ],
+    [
+        "Lansdowne House",
+        "Neskantaga"
+    ],
+    [
+        "Mount Royal",
+        "Mont-Royal"
+    ],
+    [
+        "Mount Royal",
+        "MontRoyal"
+    ],
+    [
+        "Quebec City",
+        "Québec"
+    ],
+    [
+        "Quebec City",
+        "Québec"
+    ],
+    [
+        "Queen Charlotte Island",
+        "Haida Gwaii"
+    ],
+    [
+        "Queen Charlotte Island",
+        "Haida Gwaii"
+    ],
+    [
+        "Rankin Inlet",
+        "Kangiqliniq (ᑲᖏᕿᓂᖅ)"
+    ],
+    [
+        "Rankin Inlet",
+        "Kangiqliniq ᑲᖏᕿᓂᖅ"
+    ],
+    [
+        "Saint Andrew",
+        "Saint-André-d'Argenteuil"
+    ],
+    [
+        "Saint Andrew",
+        "SaintAndrédArgenteuil"
+    ],
+    [
+        "Saint John",
+        "Saint-Jean-sur-Richelieu"
+    ],
+    [
+        "Saint John",
+        "SaintJeansurRichelieu"
+    ],
+    [
+        "Summer Beaver",
+        "Nibinamik (ᓃᐱᓇᒥᐦᐠ)"
+    ],
+    [
+        "Summer Beaver",
+        "Nibinamik ᓃᐱᓇᒥᐦᐠ"
+    ],
+    [
+        "The River Ouse",
+        "La Rivière Grand"
+    ],
+    [
+        "The River Ouse",
+        "La Rivière Grand"
+    ],
+    [
+        "Kenhionhata:tie",
+        "Mohawk"
+    ],
+    [
+        "Kenhionhatatie",
+        "Mohawk"
+    ],
+    [
+        "Three Rivers",
+        "Trois-Rivières"
+    ],
+    [
+        "Three Rivers",
+        "TroisRivières"
+    ],
+    [
+        "Two Mountains",
+        "Deux-Montagnes"
+    ],
+    [
+        "Two Mountains",
+        "DeuxMontagnes"
+    ],
+    [
+        "Whale Cove",
+        "Tikiraqjuaq (ᑎᑭᕋᕐᔪᐊᖅ)"
+    ],
+    [
+        "Whale Cove",
+        "Tikiraqjuaq ᑎᑭᕋᕐᔪᐊᖅ"
+    ],
+    [
+        "Mekong River",
+        "Tonle Mekongk (ទន្លេមេគង្គ)"
+    ],
+    [
+        "Mekong River",
+        "Tonle Mekongk ទនលមគងគ"
+    ],
+    [
+        "Sihanoukville",
+        "Krong Preah Sihanouk (ក្រុងព្រះសីហនុ)"
+    ],
+    [
+        "Sihanoukville",
+        "Krong Preah Sihanouk ករងពរសហន"
+    ],
+    [
+        "Kampong Som (កំពង់សោម)",
+        "Khmer"
+    ],
+    [
+        "Kampong Som កពងសម",
+        "Khmer"
+    ],
+    [
+        "Easter Island",
+        "Isla de Pascua"
+    ],
+    [
+        "Easter Island",
+        "Isla de Pascua"
+    ],
+    [
+        "Rapa Nui",
+        "Rapa Nui"
+    ],
+    [
+        "Rapa Nui",
+        "Rapa Nui"
+    ],
+    [
+        "Fireland",
+        "Tierra del Fuego"
+    ],
+    [
+        "Fireland",
+        "Tierra del Fuego"
+    ],
+    [
+        "Amoy",
+        "Amoy"
+    ],
+    [
+        "Amoy",
+        "Amoy"
+    ],
+    [
+        "Xiàmén (厦门)",
+        "Mandarin"
+    ],
+    [
+        "Xiàmén 厦门",
+        "Mandarin"
+    ],
+    [
+        "Ē-mn̂g",
+        "Amoy"
+    ],
+    [
+        "Ēmng",
+        "Amoy"
+    ],
+    [
+        "Ē-mûi",
+        "Amoy"
+    ],
+    [
+        "Ēmûi",
+        "Amoy"
+    ],
+    [
+        "Canton",
+        "Guǎngzhōu (广州)"
+    ],
+    [
+        "Canton",
+        "Guǎngzhōu 广州"
+    ],
+    [
+        "Gwong2 Zau1",
+        "Cantonese"
+    ],
+    [
+        "Gwong Zau",
+        "Cantonese"
+    ],
+    [
+        "Changbai Mountain",
+        "Chángbáishān (长白山)"
+    ],
+    [
+        "Changbai Mountain",
+        "Chángbáishān 长白山"
+    ],
+    [
+        "Paektusan (백두산)",
+        "Korean"
+    ],
+    [
+        "Paektusan 백두산",
+        "Korean"
+    ],
+    [
+        "Chengtu",
+        "Chéngdū (成都)"
+    ],
+    [
+        "Chengtu",
+        "Chéngdū 成都"
+    ],
+    [
+        "Chungking",
+        "Chóngqìng (重庆)"
+    ],
+    [
+        "Chungking",
+        "Chóngqìng 重庆"
+    ],
+    [
+        "Foochow",
+        "Fúzhōu (福州)"
+    ],
+    [
+        "Foochow",
+        "Fúzhōu 福州"
+    ],
+    [
+        "Forbidden City",
+        "Gùgōng (故宫), Zĭjìnchéng (紫禁城)"
+    ],
+    [
+        "Forbidden City",
+        "Gùgōng 故宫 Zĭjìnchéng 紫禁城"
+    ],
+    [
+        "Fukien",
+        "Fújiàn (福建)"
+    ],
+    [
+        "Fukien",
+        "Fújiàn 福建"
+    ],
+    [
+        "Gobi Desert",
+        "Gēbì Shāmò (戈壁沙漠)"
+    ],
+    [
+        "Gobi Desert",
+        "Gēbì Shāmò 戈壁沙漠"
+    ],
+    [
+        "Govi (ᠭᠣᠪᠢ)",
+        "Mongolian"
+    ],
+    [
+        "Govi ᠭᠣᠪᠢ",
+        "Mongolian"
+    ],
+    [
+        "Hangchow",
+        "Hángzhōu (杭州)"
+    ],
+    [
+        "Hangchow",
+        "Hángzhōu 杭州"
+    ],
+    [
+        "Heilungkiang",
+        "Hēilóngjiāng (黑龙江)"
+    ],
+    [
+        "Heilungkiang",
+        "Hēilóngjiāng 黑龙江"
+    ],
+    [
+        "Khejluntszyan (Хэйлунцзян)",
+        "Russian"
+    ],
+    [
+        "Khejluntszyan Хэйлунцзян",
+        "Russian"
+    ],
+    [
+        "Hohhot",
+        "Kökeqota (ᠬᠥᠬᠡᠬᠣᠲᠠ)"
+    ],
+    [
+        "Hohhot",
+        "Kökeqota ᠬᠥᠬᠡᠬᠣᠲᠠ"
+    ],
+    [
+        "Hūhéhàotè (呼和浩特) / Hūshì (呼市)",
+        "Mandarin"
+    ],
+    [
+        "Hūhéhàotè 呼和浩特  Hūshì 呼市",
+        "Mandarin"
+    ],
+    [
+        "Hokkien",
+        "Fújiàn (福建)"
+    ],
+    [
+        "Hokkien",
+        "Fújiàn 福建"
+    ],
+    [
+        "Hong Kong",
+        "Hoeng1 Gong2 (香港)"
+    ],
+    [
+        "Hong Kong",
+        "Hoeng Gong 香港"
+    ],
+    [
+        "Xiānggǎng",
+        "Mandarin"
+    ],
+    [
+        "Xiānggǎng",
+        "Mandarin"
+    ],
+    [
+        "Inner Mongolia",
+        "Öbür mongɣul (ᠦᠪᠦᠷ ᠮᠣᠩᠭᠣᠯ)"
+    ],
+    [
+        "Inner Mongolia",
+        "Öbür mongɣul ᠦᠪᠦᠷ ᠮᠣᠩᠭᠣᠯ"
+    ],
+    [
+        "Nèi Mĕnggǔ (内蒙古)",
+        "Mandarin"
+    ],
+    [
+        "Nèi Mĕnggǔ 内蒙古",
+        "Mandarin"
+    ],
+    [
+        "Kalgan",
+        "Kalgan(ᠬᠠᠭᠠᠯᠭᠠᠨ)"
+    ],
+    [
+        "Kalgan",
+        "Kalganᠬᠠᠭᠠᠯᠭᠠᠨ"
+    ],
+    [
+        "Zhāngjiākŏu (张家口) / Kālāgàn (喀拉干)",
+        "Mandarin"
+    ],
+    [
+        "Zhāngjiākŏu 张家口  Kālāgàn 喀拉干",
+        "Mandarin"
+    ],
+    [
+        "Kwangchow",
+        "Gwong2 Zau1"
+    ],
+    [
+        "Kwangchow",
+        "Gwong Zau"
+    ],
+    [
+        "Guǎngzhōu (广州)",
+        "Mandarin"
+    ],
+    [
+        "Guǎngzhōu 广州",
+        "Mandarin"
+    ],
+    [
+        "Kweilin",
+        "Gveilinz"
+    ],
+    [
+        "Kweilin",
+        "Gveilinz"
+    ],
+    [
+        "Guìlín (桂林)",
+        "Mandarin"
+    ],
+    [
+        "Guìlín 桂林",
+        "Mandarin"
+    ],
+    [
+        "Lop Nor / Lop Nur",
+        "Luóbùpō (罗布泊)"
+    ],
+    [
+        "Lop Nor  Lop Nur",
+        "Luóbùpō 罗布泊"
+    ],
+    [
+        "Lob Nughur (ᠯᠣᠪ ᠨᠠᠭᠤᠷ)",
+        "Mongolian script"
+    ],
+    [
+        "Lob Nughur ᠯᠣᠪ ᠨᠠᠭᠤᠷ",
+        "Mongolian script"
+    ],
+    [
+        "Lop Nur (لوپنۇر)",
+        "Uighur"
+    ],
+    [
+        "Lop Nur لوپنۇر",
+        "Uighur"
+    ],
+    [
+        "Macau",
+        "Ou3 mun2 (澳門)"
+    ],
+    [
+        "Macau",
+        "Ou mun 澳門"
+    ],
+    [
+        "Àomén (澳门)",
+        "Mandarin"
+    ],
+    [
+        "Àomén 澳门",
+        "Mandarin"
+    ],
+    [
+        "Mekong River",
+        "Méigōnghé (湄公河)"
+    ],
+    [
+        "Mekong River",
+        "Méigōnghé 湄公河"
+    ],
+    [
+        "Mount Everest",
+        "Zhūmùlǎngmǎ Fēng"
+    ],
+    [
+        "Mount Everest",
+        "Zhūmùlǎngmǎ Fēng"
+    ],
+    [
+        "Chomolungma (ཇོ་མོ་གླང་མ)",
+        "Tibetan"
+    ],
+    [
+        "Chomolungma ཇམགངམ",
+        "Tibetan"
+    ],
+    [
+        "Mukden",
+        "Mukden"
+    ],
+    [
+        "Mukden",
+        "Mukden"
+    ],
+    [
+        "Shěnyáng (沈阳)",
+        "Mandarin"
+    ],
+    [
+        "Shěnyáng 沈阳",
+        "Mandarin"
+    ],
+    [
+        "Nanking",
+        "Nánjīng (南京)"
+    ],
+    [
+        "Nanking",
+        "Nánjīng 南京"
+    ],
+    [
+        "Paotou",
+        "Bāotóu (包头)"
+    ],
+    [
+        "Paotou",
+        "Bāotóu 包头"
+    ],
+    [
+        "Buɣutu qota (ᠪᠤᠭᠤᠲᠤ ᠬᠣᠲᠠ)",
+        "Mongolian"
+    ],
+    [
+        "Buɣutu qota ᠪᠤᠭᠤᠲᠤ ᠬᠣᠲᠠ",
+        "Mongolian"
+    ],
+    [
+        "Peking",
+        "Běijīng (北京)"
+    ],
+    [
+        "Peking",
+        "Běijīng 北京"
+    ],
+    [
+        "Port Arthur",
+        "Dàlián (大连)"
+    ],
+    [
+        "Port Arthur",
+        "Dàlián 大连"
+    ],
+    [
+        "Santow",
+        "Shàntóu (汕头)"
+    ],
+    [
+        "Santow",
+        "Shàntóu 汕头"
+    ],
+    [
+        "Shaanxi",
+        "Shǎnxī (陕西)"
+    ],
+    [
+        "Shaanxi",
+        "Shǎnxī 陕西"
+    ],
+    [
+        "Sian",
+        "Xī'ān (西安)"
+    ],
+    [
+        "Sian",
+        "Xīān 西安"
+    ],
+    [
+        "Sinkiang",
+        "Xīnjiāng (新疆)"
+    ],
+    [
+        "Sinkiang",
+        "Xīnjiāng 新疆"
+    ],
+    [
+        "Soochow",
+        "Sūzhōu (苏州)"
+    ],
+    [
+        "Soochow",
+        "Sūzhōu 苏州"
+    ],
+    [
+        "Swatow",
+        "Shàntóu (汕头)"
+    ],
+    [
+        "Swatow",
+        "Shàntóu 汕头"
+    ],
+    [
+        "Suan1tao5 (汕头)",
+        "Teochew"
+    ],
+    [
+        "Suantao 汕头",
+        "Teochew"
+    ],
+    [
+        "Tibet",
+        "Bod (བོད)"
+    ],
+    [
+        "Tibet",
+        "Bod བད"
+    ],
+    [
+        "Xīzàng (西藏)",
+        "Mandarin"
+    ],
+    [
+        "Xīzàng 西藏",
+        "Mandarin"
+    ],
+    [
+        "Tsingtao",
+        "Qīngdăo (青岛)"
+    ],
+    [
+        "Tsingtao",
+        "Qīngdăo 青岛"
+    ],
+    [
+        "Yangtze river",
+        "Cháng jiāng (長江／长江)"
+    ],
+    [
+        "Yangtze river",
+        "Cháng jiāng 長江长江"
+    ],
+    [
+        "Yenchi",
+        "Yánjí (延吉)"
+    ],
+    [
+        "Yenchi",
+        "Yánjí 延吉"
+    ],
+    [
+        "Yenji (옌지), Yǒnkil (연길)",
+        "Korean"
+    ],
+    [
+        "Yenji 옌지 Yǒnkil 연길",
+        "Korean"
+    ],
+    [
+        "Yenki",
+        "Yenji (옌지), Yǒnkil (연길)"
+    ],
+    [
+        "Yenki",
+        "Yenji 옌지 Yǒnkil 연길"
+    ],
+    [
+        "Yánjí (延吉)",
+        "Mandarin"
+    ],
+    [
+        "Yánjí 延吉",
+        "Mandarin"
+    ],
+    [
+        "Danube river",
+        "Dunav"
+    ],
+    [
+        "Danube river",
+        "Dunav"
+    ],
+    [
+        "Dalmatia",
+        "Dalmacija"
+    ],
+    [
+        "Dalmatia",
+        "Dalmacija"
+    ],
+    [
+        "Istria",
+        "Istra"
+    ],
+    [
+        "Istria",
+        "Istra"
+    ],
+    [
+        "Ragusa",
+        "Dubrovnik"
+    ],
+    [
+        "Ragusa",
+        "Dubrovnik"
+    ],
+    [
+        "Zara",
+        "Zadar"
+    ],
+    [
+        "Zara",
+        "Zadar"
+    ],
+    [
+        "Bay of Pigs",
+        "Bahía de Cochinos"
+    ],
+    [
+        "Bay of Pigs",
+        "Bahía de Cochinos"
+    ],
+    [
+        "Havana",
+        "(La) Habana"
+    ],
+    [
+        "Havana",
+        "La Habana"
+    ],
+    [
+        "Place",
+        "Language"
+    ],
+    [
+        "Place",
+        "Language"
+    ],
+    [
+        "Famagusta",
+        "Ammokhóstos (Αμμόχωστος)"
+    ],
+    [
+        "Famagusta",
+        "Ammokhóstos Αμμόχωστος"
+    ],
+    [
+        "Gazimaǧusa",
+        "Turkish"
+    ],
+    [
+        "Gazimaǧusa",
+        "Turkish"
+    ],
+    [
+        "Kyrenia",
+        "Girne"
+    ],
+    [
+        "Kyrenia",
+        "Girne"
+    ],
+    [
+        "Kerýneia (Κερύνεια)",
+        "Greek"
+    ],
+    [
+        "Kerýneia Κερύνεια",
+        "Greek"
+    ],
+    [
+        "Limassol",
+        "Lemesós (Λεμεσός)"
+    ],
+    [
+        "Limassol",
+        "Lemesós Λεμεσός"
+    ],
+    [
+        "Limasol",
+        "Turkish"
+    ],
+    [
+        "Limasol",
+        "Turkish"
+    ],
+    [
+        "Nicosia",
+        "Lefkoşa"
+    ],
+    [
+        "Nicosia",
+        "Lefkoşa"
+    ],
+    [
+        "Lefkosía (Λευκωσία)",
+        "Greek"
+    ],
+    [
+        "Lefkosía Λευκωσία",
+        "Greek"
+    ],
+    [
+        "Beskids",
+        "Beskydy"
+    ],
+    [
+        "Beskids",
+        "Beskydy"
+    ],
+    [
+        "Bohemia",
+        "Čechy"
+    ],
+    [
+        "Bohemia",
+        "Čechy"
+    ],
+    [
+        "Bohemian Forest",
+        "Šumava"
+    ],
+    [
+        "Bohemian Forest",
+        "Šumava"
+    ],
+    [
+        "Bohemian Karst",
+        "Český kras"
+    ],
+    [
+        "Bohemian Karst",
+        "Český kras"
+    ],
+    [
+        "Bohemian Paradise",
+        "Český ráj"
+    ],
+    [
+        "Bohemian Paradise",
+        "Český ráj"
+    ],
+    [
+        "Bohemian Switzerland",
+        "České Švýcarsko"
+    ],
+    [
+        "Bohemian Switzerland",
+        "České Švýcarsko"
+    ],
+    [
+        "Budweis",
+        "České Budějovice"
+    ],
+    [
+        "Budweis",
+        "České Budějovice"
+    ],
+    [
+        "Carlsbad",
+        "Karlovy Vary"
+    ],
+    [
+        "Carlsbad",
+        "Karlovy Vary"
+    ],
+    [
+        "Elbe river",
+        "Labe"
+    ],
+    [
+        "Elbe river",
+        "Labe"
+    ],
+    [
+        "Fichtel Mountains",
+        "Smrčiny"
+    ],
+    [
+        "Fichtel Mountains",
+        "Smrčiny"
+    ],
+    [
+        "Franzensbad",
+        "Františkovy Lázně"
+    ],
+    [
+        "Franzensbad",
+        "Františkovy Lázně"
+    ],
+    [
+        "Giant Mountains",
+        "Krkonoše"
+    ],
+    [
+        "Giant Mountains",
+        "Krkonoše"
+    ],
+    [
+        "Hanakia",
+        "Haná"
+    ],
+    [
+        "Hanakia",
+        "Haná"
+    ],
+    [
+        "Lachia",
+        "Lašsko"
+    ],
+    [
+        "Lachia",
+        "Lašsko"
+    ],
+    [
+        "Marienbad",
+        "Mariánské Lázně"
+    ],
+    [
+        "Marienbad",
+        "Mariánské Lázně"
+    ],
+    [
+        "Moravia",
+        "Morava"
+    ],
+    [
+        "Moravia",
+        "Morava"
+    ],
+    [
+        "Moravian Slovakia",
+        "Slovácko"
+    ],
+    [
+        "Moravian Slovakia",
+        "Slovácko"
+    ],
+    [
+        "Moravian Wallachia",
+        "Valašsko"
+    ],
+    [
+        "Moravian Wallachia",
+        "Valašsko"
+    ],
+    [
+        "Oder river",
+        "Odra"
+    ],
+    [
+        "Oder river",
+        "Odra"
+    ],
+    [
+        "Ore Mountains",
+        "Krušné hory"
+    ],
+    [
+        "Ore Mountains",
+        "Krušné hory"
+    ],
+    [
+        "Pilsen",
+        "Plzeň"
+    ],
+    [
+        "Pilsen",
+        "Plzeň"
+    ],
+    [
+        "Prague",
+        "Praha"
+    ],
+    [
+        "Prague",
+        "Praha"
+    ],
+    [
+        "Silesia",
+        "Slezsko"
+    ],
+    [
+        "Silesia",
+        "Slezsko"
+    ],
+    [
+        "Ślōnsk",
+        "Silesian"
+    ],
+    [
+        "Ślōnsk",
+        "Silesian"
+    ],
+    [
+        "Sudetes, Sudeten, Sudeten Mountains",
+        "Krkonošsko-jesenická subprovincie, Sudety"
+    ],
+    [
+        "Sudetes Sudeten Sudeten Mountains",
+        "Krkonošskojesenická subprovincie Sudety"
+    ],
+    [
+        "Sudetenland",
+        "Sudety"
+    ],
+    [
+        "Sudetenland",
+        "Sudety"
+    ],
+    [
+        "Upper Palatinate Forest",
+        "Český les"
+    ],
+    [
+        "Upper Palatinate Forest",
+        "Český les"
+    ],
+    [
+        "Copenhagen",
+        "København"
+    ],
+    [
+        "Copenhagen",
+        "København"
+    ],
+    [
+        "Elsinore",
+        "Helsingør"
+    ],
+    [
+        "Elsinore",
+        "Helsingør"
+    ],
+    [
+        "Funen",
+        "Fyn"
+    ],
+    [
+        "Funen",
+        "Fyn"
+    ],
+    [
+        "Jutland",
+        "Jylland"
+    ],
+    [
+        "Jutland",
+        "Jylland"
+    ],
+    [
+        "Sleswick",
+        "Schleswig"
+    ],
+    [
+        "Sleswick",
+        "Schleswig"
+    ],
+    [
+        "Slesvig",
+        "Danish"
+    ],
+    [
+        "Slesvig",
+        "Danish"
+    ],
+    [
+        "The Scaw",
+        "Skagen"
+    ],
+    [
+        "The Scaw",
+        "Skagen"
+    ],
+    [
+        "Zealand",
+        "Sjælland"
+    ],
+    [
+        "Zealand",
+        "Sjælland"
+    ],
+    [
+        "Thor's Haven",
+        "Tórshavn"
+    ],
+    [
+        "Thors Haven",
+        "Tórshavn"
+    ],
+    [
+        "Frederikdshab",
+        "Paamiut"
+    ],
+    [
+        "Frederikdshab",
+        "Paamiut"
+    ],
+    [
+        "Godthab",
+        "Nuuk"
+    ],
+    [
+        "Godthab",
+        "Nuuk"
+    ],
+    [
+        "Jacobshaven",
+        "Ilulissat"
+    ],
+    [
+        "Jacobshaven",
+        "Ilulissat"
+    ],
+    [
+        "Sondre Stromfjord",
+        "Kangerlussuaq"
+    ],
+    [
+        "Sondre Stromfjord",
+        "Kangerlussuaq"
+    ],
+    [
+        "Sondrestrom",
+        "Kangerlussuaq"
+    ],
+    [
+        "Sondrestrom",
+        "Kangerlussuaq"
+    ],
+    [
+        "Thule",
+        "Qaanaaq"
+    ],
+    [
+        "Thule",
+        "Qaanaaq"
+    ],
+    [
+        "Alexandria",
+        "Al-Iskandariyya (الإسكندرية)"
+    ],
+    [
+        "Alexandria",
+        "AlIskandariyya الإسكندرية"
+    ],
+    [
+        "Alexandria (ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ)",
+        "Coptic"
+    ],
+    [
+        "Alexandria ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ",
+        "Coptic"
+    ],
+    [
+        "Eskendereyya (اسكندرية)",
+        "Egyptian Arabic"
+    ],
+    [
+        "Eskendereyya اسكندرية",
+        "Egyptian Arabic"
+    ],
+    [
+        "Rakote (ⲣⲁⲕⲟϯ )",
+        "Coptic"
+    ],
+    [
+        "Rakote ⲣⲁⲕⲟϯ ",
+        "Coptic"
+    ],
+    [
+        "Cairo",
+        "Al-Qāhirah (القاهرة)"
+    ],
+    [
+        "Cairo",
+        "AlQāhirah القاهرة"
+    ],
+    [
+        "Maṣr (مَصر)",
+        "Egyptian Arabic"
+    ],
+    [
+        "Maṣr مصر",
+        "Egyptian Arabic"
+    ],
+    [
+        "Giza",
+        "Al-Jīzah (الجيزة)"
+    ],
+    [
+        "Giza",
+        "AlJīzah الجيزة"
+    ],
+    [
+        "El-Gīzeh (الجيزة)",
+        "Egyptian Arabic"
+    ],
+    [
+        "ElGīzeh الجيزة",
+        "Egyptian Arabic"
+    ],
+    [
+        "Luxor",
+        "Al-Uqṣur (الاقصر)"
+    ],
+    [
+        "Luxor",
+        "AlUqṣur الاقصر"
+    ],
+    [
+        "Babe (ⲡⲁⲡⲉ)",
+        "Coptic"
+    ],
+    [
+        "Babe ⲡⲁⲡⲉ",
+        "Coptic"
+    ],
+    [
+        "Loqṣor (الأقصر)",
+        "Egyptian Arabic"
+    ],
+    [
+        "Loqṣor الأقصر",
+        "Egyptian Arabic"
+    ],
+    [
+        "Memphis",
+        "Manf (مَنْف)"
+    ],
+    [
+        "Memphis",
+        "Manf منف"
+    ],
+    [
+        "Memfi (ⲙⲉⲙϥⲓ)",
+        "Coptic"
+    ],
+    [
+        "Memfi ⲙⲉⲙϥⲓ",
+        "Coptic"
+    ],
+    [
+        "Nile river",
+        "An-Nīl (النيل)"
+    ],
+    [
+        "Nile river",
+        "AnNīl النيل"
+    ],
+    [
+        "En-Nīl (النيل)",
+        "Egyptian Arabic"
+    ],
+    [
+        "EnNīl النيل",
+        "Egyptian Arabic"
+    ],
+    [
+        "Port Said",
+        "Bur Sa'īd (بور سعيد)"
+    ],
+    [
+        "Port Said",
+        "Bur Saīd بور سعيد"
+    ],
+    [
+        "Bor Sa'īd (بور سعيد)",
+        "Egyptian Arabic"
+    ],
+    [
+        "Bor Saīd بور سعيد",
+        "Egyptian Arabic"
+    ],
+    [
+        "Suez",
+        "As-Suways (السويس)"
+    ],
+    [
+        "Suez",
+        "AsSuways السويس"
+    ],
+    [
+        "Lake Peipus",
+        "Peipsi järv"
+    ],
+    [
+        "Lake Peipus",
+        "Peipsi järv"
+    ],
+    [
+        "Reval",
+        "Tallinn"
+    ],
+    [
+        "Reval",
+        "Tallinn"
+    ],
+    [
+        "Karelia",
+        "Karjala"
+    ],
+    [
+        "Karelia",
+        "Karjala"
+    ],
+    [
+        "Lapponia",
+        "Lappi"
+    ],
+    [
+        "Lapponia",
+        "Lappi"
+    ],
+    [
+        "Ostrobothnia",
+        "Pohjanmaa"
+    ],
+    [
+        "Ostrobothnia",
+        "Pohjanmaa"
+    ],
+    [
+        "Savonia",
+        "Savo"
+    ],
+    [
+        "Savonia",
+        "Savo"
+    ],
+    [
+        "Tavastia",
+        "Häme"
+    ],
+    [
+        "Tavastia",
+        "Häme"
+    ],
+    [
+        "Bay of Biscay",
+        "Golfe de Gascogne"
+    ],
+    [
+        "Bay of Biscay",
+        "Golfe de Gascogne"
+    ],
+    [
+        "Bethwyn",
+        "Béthune"
+    ],
+    [
+        "Bethwyn",
+        "Béthune"
+    ],
+    [
+        "Brittany",
+        "Breizh"
+    ],
+    [
+        "Brittany",
+        "Breizh"
+    ],
+    [
+        "Bretagne",
+        "French"
+    ],
+    [
+        "Bretagne",
+        "French"
+    ],
+    [
+        "Burgundy",
+        "Bourgogne"
+    ],
+    [
+        "Burgundy",
+        "Bourgogne"
+    ],
+    [
+        "Camerick",
+        "Cambrai"
+    ],
+    [
+        "Camerick",
+        "Cambrai"
+    ],
+    [
+        "Corsica",
+        "Corse"
+    ],
+    [
+        "Corsica",
+        "Corse"
+    ],
+    [
+        "Corsica",
+        "Corsican"
+    ],
+    [
+        "Corsica",
+        "Corsican"
+    ],
+    [
+        "Cressy",
+        "Crécy-en-Ponthieu"
+    ],
+    [
+        "Cressy",
+        "CrécyenPonthieu"
+    ],
+    [
+        "Dauphiny",
+        "Dalfinat"
+    ],
+    [
+        "Dauphiny",
+        "Dalfinat"
+    ],
+    [
+        "Darfenât",
+        "Arpitan"
+    ],
+    [
+        "Darfenât",
+        "Arpitan"
+    ],
+    [
+        "Dauphiné",
+        "French"
+    ],
+    [
+        "Dauphiné",
+        "French"
+    ],
+    [
+        "Dunkirk",
+        "Dunkerque"
+    ],
+    [
+        "Dunkirk",
+        "Dunkerque"
+    ],
+    [
+        "English Channel",
+        "La Manche"
+    ],
+    [
+        "English Channel",
+        "La Manche"
+    ],
+    [
+        "Flanders",
+        "Flandre"
+    ],
+    [
+        "Flanders",
+        "Flandre"
+    ],
+    [
+        "French Riviera",
+        "Côte d'Azur"
+    ],
+    [
+        "French Riviera",
+        "Côte dAzur"
+    ],
+    [
+        "Gascony",
+        "Gascogne"
+    ],
+    [
+        "Gascony",
+        "Gascogne"
+    ],
+    [
+        "Gasconha",
+        "Gascon"
+    ],
+    [
+        "Gasconha",
+        "Gascon"
+    ],
+    [
+        "Lyons",
+        "Liyon"
+    ],
+    [
+        "Lyons",
+        "Liyon"
+    ],
+    [
+        "Lyon",
+        "French"
+    ],
+    [
+        "Lyon",
+        "French"
+    ],
+    [
+        "Marseilles",
+        "Marseille"
+    ],
+    [
+        "Marseilles",
+        "Marseille"
+    ],
+    [
+        "Marselha",
+        "Occitan"
+    ],
+    [
+        "Marselha",
+        "Occitan"
+    ],
+    [
+        "Normandy",
+        "Normandie"
+    ],
+    [
+        "Normandy",
+        "Normandie"
+    ],
+    [
+        "Normaundie",
+        "Norman"
+    ],
+    [
+        "Normaundie",
+        "Norman"
+    ],
+    [
+        "Picardy",
+        "Picardie"
+    ],
+    [
+        "Picardy",
+        "Picardie"
+    ],
+    [
+        "Rheims",
+        "Reims"
+    ],
+    [
+        "Rheims",
+        "Reims"
+    ],
+    [
+        "Rhine river",
+        "Rhin"
+    ],
+    [
+        "Rhine river",
+        "Rhin"
+    ],
+    [
+        "Rone",
+        "Rouen"
+    ],
+    [
+        "Rone",
+        "Rouen"
+    ],
+    [
+        "Savoy",
+        "Savoie"
+    ],
+    [
+        "Savoy",
+        "Savoie"
+    ],
+    [
+        "Savouè",
+        "Arpitan"
+    ],
+    [
+        "Savouè",
+        "Arpitan"
+    ],
+    [
+        "Ushant",
+        "Eusa"
+    ],
+    [
+        "Ushant",
+        "Eusa"
+    ],
+    [
+        "Ouessant",
+        "French"
+    ],
+    [
+        "Ouessant",
+        "French"
+    ],
+    [
+        "Caucasus",
+        "Kavkasioni (კავკასიონი)"
+    ],
+    [
+        "Caucasus",
+        "Kavkasioni კავკასიონი"
+    ],
+    [
+        "Tiflis",
+        "Tbilisi (თბილისი)"
+    ],
+    [
+        "Tiflis",
+        "Tbilisi თბილისი"
+    ],
+    [
+        "Name",
+        "Language"
+    ],
+    [
+        "Aix-la-Chapelle",
+        "Aachen"
+    ],
+    [
+        "AixlaChapelle",
+        "Aachen"
+    ],
+    [
+        "Oche",
+        "Ripuarian"
+    ],
+    [
+        "Oche",
+        "Ripuarian"
+    ],
+    [
+        "Baltic Sea",
+        "Ostsee"
+    ],
+    [
+        "Baltic Sea",
+        "Ostsee"
+    ],
+    [
+        "Bavaria",
+        "Bayern"
+    ],
+    [
+        "Bavaria",
+        "Bayern"
+    ],
+    [
+        "Bay of Lübeck",
+        "Lübecker Bucht"
+    ],
+    [
+        "Bay of Lübeck",
+        "Lübecker Bucht"
+    ],
+    [
+        "Bay of Mecklenburg",
+        "Mecklenburger Bucht"
+    ],
+    [
+        "Bay of Mecklenburg",
+        "Mecklenburger Bucht"
+    ],
+    [
+        "Bay of Meldorf",
+        "Meldorfer Bucht"
+    ],
+    [
+        "Bay of Meldorf",
+        "Meldorfer Bucht"
+    ],
+    [
+        "Bay of Pomerania",
+        "Pommersche Bucht"
+    ],
+    [
+        "Bay of Pomerania",
+        "Pommersche Bucht"
+    ],
+    [
+        "Bay of Wismar",
+        "Wismarer Bucht"
+    ],
+    [
+        "Bay of Wismar",
+        "Wismarer Bucht"
+    ],
+    [
+        "Black Forest",
+        "Schwarzwald"
+    ],
+    [
+        "Black Forest",
+        "Schwarzwald"
+    ],
+    [
+        "Brunswick",
+        "Braunschweig"
+    ],
+    [
+        "Brunswick",
+        "Braunschweig"
+    ],
+    [
+        "Brunswiek",
+        "Low Saxon"
+    ],
+    [
+        "Brunswiek",
+        "Low Saxon"
+    ],
+    [
+        "Cleves",
+        "Kleve"
+    ],
+    [
+        "Cleves",
+        "Kleve"
+    ],
+    [
+        "Coblence",
+        "Koblenz"
+    ],
+    [
+        "Coblence",
+        "Koblenz"
+    ],
+    [
+        "Coblenz",
+        "Koblenz"
+    ],
+    [
+        "Coblenz",
+        "Koblenz"
+    ],
+    [
+        "Cologne",
+        "Kölle"
+    ],
+    [
+        "Cologne",
+        "Kölle"
+    ],
+    [
+        "Köln",
+        "Standard German"
+    ],
+    [
+        "Köln",
+        "Standard German"
+    ],
+    [
+        "Constance",
+        "Konstanz"
+    ],
+    [
+        "Constance",
+        "Konstanz"
+    ],
+    [
+        "Danube river",
+        "Donau"
+    ],
+    [
+        "Danube river",
+        "Donau"
+    ],
+    [
+        "Eastphalia",
+        "Oostfalen"
+    ],
+    [
+        "Eastphalia",
+        "Oostfalen"
+    ],
+    [
+        "Ostfalen",
+        "Standard German"
+    ],
+    [
+        "Ostfalen",
+        "Standard German"
+    ],
+    [
+        "Egge Hills",
+        "Eggegebirge"
+    ],
+    [
+        "Egge Hills",
+        "Eggegebirge"
+    ],
+    [
+        "Franconia",
+        "Franken"
+    ],
+    [
+        "Franconia",
+        "Franken"
+    ],
+    [
+        "Frankn",
+        "Austro-Bavarian"
+    ],
+    [
+        "Frankn",
+        "AustroBavarian"
+    ],
+    [
+        "Franconian Jura",
+        "Frankenalb"
+    ],
+    [
+        "Franconian Jura",
+        "Frankenalb"
+    ],
+    [
+        "Frankfort",
+        "Frangford (am Maa)"
+    ],
+    [
+        "Frankfort",
+        "Frangford am Maa"
+    ],
+    [
+        "Frankfurt (am Main)",
+        "Standard German"
+    ],
+    [
+        "Frankfurt am Main",
+        "Standard German"
+    ],
+    [
+        "Hamelin",
+        "Hameln"
+    ],
+    [
+        "Hamelin",
+        "Hameln"
+    ],
+    [
+        "Hanover",
+        "Hannober"
+    ],
+    [
+        "Hanover",
+        "Hannober"
+    ],
+    [
+        "Hannover",
+        "Standard German"
+    ],
+    [
+        "Hannover",
+        "Standard German"
+    ],
+    [
+        "Haßberge Hills",
+        "Haßberge"
+    ],
+    [
+        "Haßberge Hills",
+        "Haßberge"
+    ],
+    [
+        "Heligoland",
+        "deät Lun"
+    ],
+    [
+        "Heligoland",
+        "deät Lun"
+    ],
+    [
+        "Hälilönj",
+        "Bökingharde North Frisian"
+    ],
+    [
+        "Hälilönj",
+        "Bökingharde North Frisian"
+    ],
+    [
+        "Helgoland",
+        "Standard German"
+    ],
+    [
+        "Helgoland",
+        "Standard German"
+    ],
+    [
+        "Hesse",
+        "Hessen"
+    ],
+    [
+        "Hesse",
+        "Hessen"
+    ],
+    [
+        "Hessia",
+        "Hessen"
+    ],
+    [
+        "Hessia",
+        "Hessen"
+    ],
+    [
+        "Hither Pomerania",
+        "Vorpommern"
+    ],
+    [
+        "Hither Pomerania",
+        "Vorpommern"
+    ],
+    [
+        "Hohwacht Bay",
+        "Hohwachter Bucht"
+    ],
+    [
+        "Hohwacht Bay",
+        "Hohwachter Bucht"
+    ],
+    [
+        "Jade Bight",
+        "Jadebusen"
+    ],
+    [
+        "Jade Bight",
+        "Jadebusen"
+    ],
+    [
+        "Kaufungen Forest",
+        "Kaufunger Wald"
+    ],
+    [
+        "Kaufungen Forest",
+        "Kaufunger Wald"
+    ],
+    [
+        "Kiel Canal",
+        "Nordostseekanal"
+    ],
+    [
+        "Kiel Canal",
+        "Nordostseekanal"
+    ],
+    [
+        "Knüll",
+        "Knüllgebirge"
+    ],
+    [
+        "Knüll",
+        "Knüllgebirge"
+    ],
+    [
+        "Lake Constance",
+        "Bodensee"
+    ],
+    [
+        "Lake Constance",
+        "Bodensee"
+    ],
+    [
+        "Lower Bavarian Upland",
+        "Niederbayerisches Hügelland"
+    ],
+    [
+        "Lower Bavarian Upland",
+        "Niederbayerisches Hügelland"
+    ],
+    [
+        "Lusatia",
+        "Lausitz"
+    ],
+    [
+        "Lusatia",
+        "Lausitz"
+    ],
+    [
+        "Łužica",
+        "Upper Sorbian"
+    ],
+    [
+        "Łužica",
+        "Upper Sorbian"
+    ],
+    [
+        "Łužyca",
+        "Lower Sorbian"
+    ],
+    [
+        "Łužyca",
+        "Lower Sorbian"
+    ],
+    [
+        "Malborow",
+        "Marburg"
+    ],
+    [
+        "Malborow",
+        "Marburg"
+    ],
+    [
+        "Mayence",
+        "Mainz"
+    ],
+    [
+        "Mayence",
+        "Mainz"
+    ],
+    [
+        "Mentz",
+        "Mainz"
+    ],
+    [
+        "Mentz",
+        "Mainz"
+    ],
+    [
+        "Moselle river",
+        "Mosel"
+    ],
+    [
+        "Moselle river",
+        "Mosel"
+    ],
+    [
+        "Musel",
+        "Moselle Franconian"
+    ],
+    [
+        "Musel",
+        "Moselle Franconian"
+    ],
+    [
+        "Munich",
+        "Minga"
+    ],
+    [
+        "Munich",
+        "Minga"
+    ],
+    [
+        "München",
+        "Standard German"
+    ],
+    [
+        "München",
+        "Standard German"
+    ],
+    [
+        "Nuremberg",
+        "Narrnberch"
+    ],
+    [
+        "Nuremberg",
+        "Narrnberch"
+    ],
+    [
+        "Nürnberg",
+        "Standard German"
+    ],
+    [
+        "Nürnberg",
+        "Standard German"
+    ],
+    [
+        "Ore Mountains",
+        "Erzgebirge"
+    ],
+    [
+        "Ore Mountains",
+        "Erzgebirge"
+    ],
+    [
+        "Palatinate",
+        "Palz"
+    ],
+    [
+        "Palatinate",
+        "Palz"
+    ],
+    [
+        "Pfalz",
+        "Standard German"
+    ],
+    [
+        "Pfalz",
+        "Standard German"
+    ],
+    [
+        "Pomerania",
+        "Pommern"
+    ],
+    [
+        "Pomerania",
+        "Pommern"
+    ],
+    [
+        "Prussia",
+        "Preußen"
+    ],
+    [
+        "Prussia",
+        "Preußen"
+    ],
+    [
+        "Ratisbon",
+        "Regensburg"
+    ],
+    [
+        "Ratisbon",
+        "Regensburg"
+    ],
+    [
+        "Rengschburch",
+        "Austro-Bavarian"
+    ],
+    [
+        "Rengschburch",
+        "AustroBavarian"
+    ],
+    [
+        "Rhenish Massif",
+        "Rheinisches Schiefergebirge"
+    ],
+    [
+        "Rhenish Massif",
+        "Rheinisches Schiefergebirge"
+    ],
+    [
+        "Rhine river",
+        "Rhein"
+    ],
+    [
+        "Rhine river",
+        "Rhein"
+    ],
+    [
+        "Saxe-Coburg-Gotha",
+        "Sachsen-Coburg und Gotha"
+    ],
+    [
+        "SaxeCoburgGotha",
+        "SachsenCoburg und Gotha"
+    ],
+    [
+        "Saxony",
+        "Sachsen"
+    ],
+    [
+        "Saxony",
+        "Sachsen"
+    ],
+    [
+        "Sassen",
+        "Low Saxon"
+    ],
+    [
+        "Sassen",
+        "Low Saxon"
+    ],
+    [
+        "Swabia",
+        "Schwaben"
+    ],
+    [
+        "Swabia",
+        "Schwaben"
+    ],
+    [
+        "Szczecin Lagoon",
+        "Stettiner Haff"
+    ],
+    [
+        "Szczecin Lagoon",
+        "Stettiner Haff"
+    ],
+    [
+        "Thuringia",
+        "Thüringen"
+    ],
+    [
+        "Thuringia",
+        "Thüringen"
+    ],
+    [
+        "Tréier",
+        "Moselle Franconian"
+    ],
+    [
+        "Tréier",
+        "Moselle Franconian"
+    ],
+    [
+        "Treves",
+        "Trier"
+    ],
+    [
+        "Treves",
+        "Trier"
+    ],
+    [
+        "Western Pomerania",
+        "Vorpommern"
+    ],
+    [
+        "Western Pomerania",
+        "Vorpommern"
+    ],
+    [
+        "Westphalia",
+        "Westfalen"
+    ],
+    [
+        "Westphalia",
+        "Westfalen"
+    ],
+    [
+        "Attica",
+        "Attikí (Αττική)"
+    ],
+    [
+        "Attica",
+        "Attikí Αττική"
+    ],
+    [
+        "Athens",
+        "Athína (Αθήνα)"
+    ],
+    [
+        "Athens",
+        "Athína Αθήνα"
+    ],
+    [
+        "Boetia",
+        "Voiotía (Βοιωτία)"
+    ],
+    [
+        "Boetia",
+        "Voiotía Βοιωτία"
+    ],
+    [
+        "Corfu",
+        "Kérkyra (Κέρκυρα)"
+    ],
+    [
+        "Corfu",
+        "Kérkyra Κέρκυρα"
+    ],
+    [
+        "Corinth",
+        "Kórinthos (Κόρινθος)"
+    ],
+    [
+        "Corinth",
+        "Kórinthos Κόρινθος"
+    ],
+    [
+        "Crete",
+        "Kríti (Κρήτη)"
+    ],
+    [
+        "Crete",
+        "Kríti Κρήτη"
+    ],
+    [
+        "Cyclades",
+        "Kykládhes (Κυκλάδες)"
+    ],
+    [
+        "Cyclades",
+        "Kykládhes Κυκλάδες"
+    ],
+    [
+        "Dodecanese",
+        "Dhodhekánisa (Δωδεκάνησα)"
+    ],
+    [
+        "Dodecanese",
+        "Dhodhekánisa Δωδεκάνησα"
+    ],
+    [
+        "Epirus",
+        "Ipeiros (Ήπειρος)"
+    ],
+    [
+        "Epirus",
+        "Ipeiros Ήπειρος"
+    ],
+    [
+        "Euboea",
+        "Evvoia (Εύβοια)"
+    ],
+    [
+        "Euboea",
+        "Evvoia Εύβοια"
+    ],
+    [
+        "Heraklion",
+        "Irákleio (Ηράκλειο)"
+    ],
+    [
+        "Heraklion",
+        "Irákleio Ηράκλειο"
+    ],
+    [
+        "Icaria",
+        "Ikaría (Ικαρία)"
+    ],
+    [
+        "Icaria",
+        "Ikaría Ικαρία"
+    ],
+    [
+        "Ithaca",
+        "Itháki (Ιθάκη)"
+    ],
+    [
+        "Ithaca",
+        "Itháki Ιθάκη"
+    ],
+    [
+        "Lepanto",
+        "Náfpaktos (Νάυπακτος)"
+    ],
+    [
+        "Lepanto",
+        "Náfpaktos Νάυπακτος"
+    ],
+    [
+        "Macedonia",
+        "Makedonía (Μακεδονία)"
+    ],
+    [
+        "Macedonia",
+        "Makedonía Μακεδονία"
+    ],
+    [
+        "Mediterranean Sea",
+        "Mesógeios thálassa (Μεσόγειος θάλασσα)"
+    ],
+    [
+        "Mediterranean Sea",
+        "Mesógeios thálassa Μεσόγειος θάλασσα"
+    ],
+    [
+        "Missolonghi",
+        "Mesológi (Μεσολόγγι)"
+    ],
+    [
+        "Missolonghi",
+        "Mesológi Μεσολόγγι"
+    ],
+    [
+        "Naupactus",
+        "Náfpaktos (Νάυπακτος)"
+    ],
+    [
+        "Naupactus",
+        "Náfpaktos Νάυπακτος"
+    ],
+    [
+        "Navarino",
+        "Pýlos (Πύλος)"
+    ],
+    [
+        "Navarino",
+        "Pýlos Πύλος"
+    ],
+    [
+        "Patras",
+        "Pátra (Πάτρα)"
+    ],
+    [
+        "Patras",
+        "Pátra Πάτρα"
+    ],
+    [
+        "Peloponnese",
+        "Pelopónnisos (Πελοπόννησος)"
+    ],
+    [
+        "Peloponnese",
+        "Pelopónnisos Πελοπόννησος"
+    ],
+    [
+        "Philippi",
+        "Fílippoi (Φίλιπποι)"
+    ],
+    [
+        "Philippi",
+        "Fílippoi Φίλιπποι"
+    ],
+    [
+        "Piraeus",
+        "Peiraiás (Πειραιάς)"
+    ],
+    [
+        "Piraeus",
+        "Peiraiás Πειραιάς"
+    ],
+    [
+        "Rhodes",
+        "Ródhos (Ρόδος)"
+    ],
+    [
+        "Rhodes",
+        "Ródhos Ρόδος"
+    ],
+    [
+        "Rhodope Mountains",
+        "Rodhópi (Ροδόπη)"
+    ],
+    [
+        "Rhodope Mountains",
+        "Rodhópi Ροδόπη"
+    ],
+    [
+        "Salonica",
+        "Thessaloníki (Θεσσαλονίκη)"
+    ],
+    [
+        "Salonica",
+        "Thessaloníki Θεσσαλονίκη"
+    ],
+    [
+        "Samothrace",
+        "Samothráki (Σαμοθράκη)"
+    ],
+    [
+        "Samothrace",
+        "Samothráki Σαμοθράκη"
+    ],
+    [
+        "Sparta",
+        "Spárti (Σπάρτη)"
+    ],
+    [
+        "Sparta",
+        "Spárti Σπάρτη"
+    ],
+    [
+        "Thebes",
+        "Thíva (Θήβα)"
+    ],
+    [
+        "Thebes",
+        "Thíva Θήβα"
+    ],
+    [
+        "Thessalonica",
+        "Thessaloníki (Θεσσαλονίκη)"
+    ],
+    [
+        "Thessalonica",
+        "Thessaloníki Θεσσαλονίκη"
+    ],
+    [
+        "Thessaly",
+        "Thessalía (Θεσσαλία)"
+    ],
+    [
+        "Thessaly",
+        "Thessalía Θεσσαλία"
+    ],
+    [
+        "Thrace",
+        "Thráki (Θράκη)"
+    ],
+    [
+        "Thrace",
+        "Thráki Θράκη"
+    ],
+    [
+        "Zante",
+        "Zákynthos (Ζάκυνθος)"
+    ],
+    [
+        "Zante",
+        "Zákynthos Ζάκυνθος"
+    ],
+    [
+        "Carpathian Mountains",
+        "Kárpátok"
+    ],
+    [
+        "Carpathian Mountains",
+        "Kárpátok"
+    ],
+    [
+        "Comorn",
+        "Komárom"
+    ],
+    [
+        "Comorn",
+        "Komárom"
+    ],
+    [
+        "Danube river",
+        "Duna"
+    ],
+    [
+        "Danube river",
+        "Duna"
+    ],
+    [
+        "Westman Islands",
+        "Vestmannaeyjar"
+    ],
+    [
+        "Westman Islands",
+        "Vestmannaeyjar"
+    ],
+    [
+        "Allahabad",
+        "Prayagraj (प्रयागराज)"
+    ],
+    [
+        "Allahabad",
+        "Prayagraj परयगरज"
+    ],
+    [
+        "Allepey",
+        "Alappuzha (ആലപ്പുഴ)"
+    ],
+    [
+        "Allepey",
+        "Alappuzha ആലപപഴ"
+    ],
+    [
+        "Bangalore",
+        "Bengaluru (ಬೆಂಗಳೂರು)"
+    ],
+    [
+        "Bangalore",
+        "Bengaluru ಬಗಳರ"
+    ],
+    [
+        "Benares",
+        "Varanasi (वाराणसी)"
+    ],
+    [
+        "Benares",
+        "Varanasi वरणस"
+    ],
+    [
+        "Bombay",
+        "Mumbai (मुंबई)"
+    ],
+    [
+        "Bombay",
+        "Mumbai मबई"
+    ],
+    [
+        "Calcutta",
+        "Kolkata (কলকাতা)"
+    ],
+    [
+        "Calcutta",
+        "Kolkata কলকত"
+    ],
+    [
+        "Cawnpore",
+        "Kanpur (कानपुर)"
+    ],
+    [
+        "Cawnpore",
+        "Kanpur कनपर"
+    ],
+    [
+        "Cochin",
+        "Kochi (കൊച്ചി)"
+    ],
+    [
+        "Cochin",
+        "Kochi കചച"
+    ],
+    [
+        "Delhi",
+        "Dilli (दिल्ली)"
+    ],
+    [
+        "Delhi",
+        "Dilli दलल"
+    ],
+    [
+        "Ganges River",
+        "Ganga (गंगा)"
+    ],
+    [
+        "Ganges River",
+        "Ganga गग"
+    ],
+    [
+        "Indus River",
+        "Sindhū (सिन्धु)"
+    ],
+    [
+        "Indus River",
+        "Sindhū सनध"
+    ],
+    [
+        "Jaypore",
+        "Jaipur (जयपुर)"
+    ],
+    [
+        "Jaypore",
+        "Jaipur जयपर"
+    ],
+    [
+        "Laccadive Islands",
+        "Lakshadweep (ലക്ഷദ്വീപ്)"
+    ],
+    [
+        "Laccadive Islands",
+        "Lakshadweep ലകഷദവപ"
+    ],
+    [
+        "Madras",
+        "Chennai (சென்னை)"
+    ],
+    [
+        "Madras",
+        "Chennai சனன"
+    ],
+    [
+        "Palghat",
+        "Palakkad (പാലക്കാട്)"
+    ],
+    [
+        "Palghat",
+        "Palakkad പലകകട"
+    ],
+    [
+        "Pondicherry",
+        "Puducherry (புதுச்சேரி)"
+    ],
+    [
+        "Pondicherry",
+        "Puducherry பதசசர"
+    ],
+    [
+        "Poona",
+        "Pune (पुणे)"
+    ],
+    [
+        "Poona",
+        "Pune पण"
+    ],
+    [
+        "Simla",
+        "Shimla (शिमला)"
+    ],
+    [
+        "Simla",
+        "Shimla शमल"
+    ],
+    [
+        "Trivandrum",
+        "Thiruvananthapuram (തിരുവനന്തപുരം)"
+    ],
+    [
+        "Trivandrum",
+        "Thiruvananthapuram തരവനനതപര"
+    ],
+    [
+        "Bencoolen",
+        "Bengkulu"
+    ],
+    [
+        "Bencoolen",
+        "Bengkulu"
+    ],
+    [
+        "Billiton",
+        "Belitung"
+    ],
+    [
+        "Billiton",
+        "Belitung"
+    ],
+    [
+        "Borneo",
+        "Kalimantan"
+    ],
+    [
+        "Borneo",
+        "Kalimantan"
+    ],
+    [
+        "Celebes",
+        "Sulawesi"
+    ],
+    [
+        "Celebes",
+        "Sulawesi"
+    ],
+    [
+        "Java",
+        "Jawa"
+    ],
+    [
+        "Java",
+        "Jawa"
+    ],
+    [
+        "Lesser Sunda Islands",
+        "Kepulauan Nusa Tenggara"
+    ],
+    [
+        "Lesser Sunda Islands",
+        "Kepulauan Nusa Tenggara"
+    ],
+    [
+        "Kepulauan Sunda Kecil",
+        "Indonesian"
+    ],
+    [
+        "Kepulauan Sunda Kecil",
+        "Indonesian"
+    ],
+    [
+        "Moluccas",
+        "Maluku Islands"
+    ],
+    [
+        "Moluccas",
+        "Maluku Islands"
+    ],
+    [
+        "New Guinea",
+        "Papua"
+    ],
+    [
+        "New Guinea",
+        "Papua"
+    ],
+    [
+        "Irian Jaya",
+        "Indonesian"
+    ],
+    [
+        "Irian Jaya",
+        "Indonesian"
+    ],
+    [
+        "Nugini",
+        "Indonesian"
+    ],
+    [
+        "Nugini",
+        "Indonesian"
+    ],
+    [
+        "Bushire",
+        "Bushehr (بوشهر)"
+    ],
+    [
+        "Bushire",
+        "Bushehr بوشهر"
+    ],
+    [
+        "Caspian Sea",
+        "Darya-ye Khazar (Khazar Sea)"
+    ],
+    [
+        "Caspian Sea",
+        "Daryaye Khazar Khazar Sea"
+    ],
+    [
+        "Isfahan",
+        "Ešfahān (اصفهان)"
+    ],
+    [
+        "Isfahan",
+        "Ešfahān اصفهان"
+    ],
+    [
+        "Meshed",
+        "Mashhad (مشهد)"
+    ],
+    [
+        "Meshed",
+        "Mashhad مشهد"
+    ],
+    [
+        "Teheran",
+        "Tehran (تهران)"
+    ],
+    [
+        "Teheran",
+        "Tehran تهران"
+    ],
+    [
+        "Euphrates river",
+        "Al-Furāt (الفرات)"
+    ],
+    [
+        "Euphrates river",
+        "AlFurāt الفرات"
+    ],
+    [
+        "Firat",
+        "Kurdish"
+    ],
+    [
+        "Firat",
+        "Kurdish"
+    ],
+    [
+        "Pǝrāth (ܦܪܬ)",
+        "Syriac"
+    ],
+    [
+        "Pǝrāth ܦܪܬ",
+        "Syriac"
+    ],
+    [
+        "Mosul",
+        "Al-Mawṣil (الموصل)"
+    ],
+    [
+        "Mosul",
+        "AlMawṣil الموصل"
+    ],
+    [
+        "Māwṣil (ܡܘܨܠ)",
+        "Syriac"
+    ],
+    [
+        "Māwṣil ܡܘܨܠ",
+        "Syriac"
+    ],
+    [
+        "Mosil (مووسڵ)",
+        "Kurdish"
+    ],
+    [
+        "Mosil مووسڵ",
+        "Kurdish"
+    ],
+    [
+        "Tigris river",
+        "Deqlath (ܕܹܩܠܵܬ)"
+    ],
+    [
+        "Tigris river",
+        "Deqlath ܕܩܠܬ"
+    ],
+    [
+        "Dîcle (دیجلە)",
+        "Kurdish"
+    ],
+    [
+        "Dîcle دیجلە",
+        "Kurdish"
+    ],
+    [
+        "Dijla (دجله)",
+        "Standard Arabic"
+    ],
+    [
+        "Dijla دجله",
+        "Standard Arabic"
+    ],
+    [
+        "Arklow",
+        "an tInbhear Mór"
+    ],
+    [
+        "Arklow",
+        "an tInbhear Mór"
+    ],
+    [
+        "Carlingford",
+        "Cairlinn"
+    ],
+    [
+        "Carlingford",
+        "Cairlinn"
+    ],
+    [
+        "Connaught",
+        "Connacht"
+    ],
+    [
+        "Connaught",
+        "Connacht"
+    ],
+    [
+        "Dalkey",
+        "Deilginis"
+    ],
+    [
+        "Dalkey",
+        "Deilginis"
+    ],
+    [
+        "Dursey",
+        "Baoi Bhéarra, Oileán Baoi"
+    ],
+    [
+        "Dursey",
+        "Baoi Bhéarra Oileán Baoi"
+    ],
+    [
+        "Dublin",
+        "Baile Átha Cliath"
+    ],
+    [
+        "Dublin",
+        "Baile Átha Cliath"
+    ],
+    [
+        "Fastnet",
+        "Carraig Aonair"
+    ],
+    [
+        "Fastnet",
+        "Carraig Aonair"
+    ],
+    [
+        "Haulbowline",
+        "Inis Sionnach"
+    ],
+    [
+        "Haulbowline",
+        "Inis Sionnach"
+    ],
+    [
+        "Howth",
+        "Binn Éadair"
+    ],
+    [
+        "Howth",
+        "Binn Éadair"
+    ],
+    [
+        "Lambay",
+        "Reachrainn"
+    ],
+    [
+        "Lambay",
+        "Reachrainn"
+    ],
+    [
+        "Leinster",
+        "Laighin"
+    ],
+    [
+        "Leinster",
+        "Laighin"
+    ],
+    [
+        "Leixlip",
+        "Léim an Bhrádain"
+    ],
+    [
+        "Leixlip",
+        "Léim an Bhrádain"
+    ],
+    [
+        "Meath",
+        "Mí"
+    ],
+    [
+        "Meath",
+        "Mí"
+    ],
+    [
+        "Munster",
+        "Mumhan"
+    ],
+    [
+        "Munster",
+        "Mumhan"
+    ],
+    [
+        "Oxmantown",
+        "Baile Lochlannach"
+    ],
+    [
+        "Oxmantown",
+        "Baile Lochlannach"
+    ],
+    [
+        "Saltee",
+        "Na Sailtí"
+    ],
+    [
+        "Saltee",
+        "Na Sailtí"
+    ],
+    [
+        "Selskar",
+        "Seilsceir"
+    ],
+    [
+        "Selskar",
+        "Seilsceir"
+    ],
+    [
+        "Skerries",
+        "Na Sceirí"
+    ],
+    [
+        "Skerries",
+        "Na Sceirí"
+    ],
+    [
+        "Strangford",
+        "Loch Cuan"
+    ],
+    [
+        "Strangford",
+        "Loch Cuan"
+    ],
+    [
+        "Ulster",
+        "Ulaidh"
+    ],
+    [
+        "Ulster",
+        "Ulaidh"
+    ],
+    [
+        "Waterford",
+        "Port Láirge"
+    ],
+    [
+        "Waterford",
+        "Port Láirge"
+    ],
+    [
+        "Wexford",
+        "Loch Garman"
+    ],
+    [
+        "Wexford",
+        "Loch Garman"
+    ],
+    [
+        "Wicklow",
+        "Cill Mhantáin"
+    ],
+    [
+        "Wicklow",
+        "Cill Mhantáin"
+    ],
+    [
+        "Acre",
+        "Ako (עכו)"
+    ],
+    [
+        "Acre",
+        "Ako עכו"
+    ],
+    [
+        "Beersheba",
+        "Beer Sheva' (באר שבע)"
+    ],
+    [
+        "Beersheba",
+        "Beer Sheva באר שבע"
+    ],
+    [
+        "Capernaum",
+        "Kfar Nachum (כפר נחום)"
+    ],
+    [
+        "Capernaum",
+        "Kfar Nachum כפר נחום"
+    ],
+    [
+        "Galilee",
+        "haGalil (הגליל)"
+    ],
+    [
+        "Galilee",
+        "haGalil הגליל"
+    ],
+    [
+        "Jaffa",
+        "Yafo (יפו)"
+    ],
+    [
+        "Jaffa",
+        "Yafo יפו"
+    ],
+    [
+        "Joppa",
+        "Yafo (יפו)"
+    ],
+    [
+        "Joppa",
+        "Yafo יפו"
+    ],
+    [
+        "Jordan River",
+        "Nahr al-Urdun (نهر الأردن)"
+    ],
+    [
+        "Jordan River",
+        "Nahr alUrdun نهر الأردن"
+    ],
+    [
+        "Nahar haYarden (נהר הירדן)",
+        "Modern Hebrew"
+    ],
+    [
+        "Nahar haYarden נהר הירדן",
+        "Modern Hebrew"
+    ],
+    [
+        "Jerusalem",
+        "Ūršalīm (أُورُشَلِيمَ)"
+    ],
+    [
+        "Jerusalem",
+        "Ūršalīm أورشليم"
+    ],
+    [
+        "Yerushalayim (ירושלים)",
+        "Modern Hebrew"
+    ],
+    [
+        "Yerushalayim ירושלים",
+        "Modern Hebrew"
+    ],
+    [
+        "Nazareth",
+        "Natzrat (נצרת)"
+    ],
+    [
+        "Nazareth",
+        "Natzrat נצרת"
+    ],
+    [
+        "Sea of Galilee",
+        "Imat Tbria (بحيرة طبريا)"
+    ],
+    [
+        "Sea of Galilee",
+        "Imat Tbria بحيرة طبريا"
+    ],
+    [
+        "Yamat haKineret (ימת הכינרת)",
+        "Modern Hebrew"
+    ],
+    [
+        "Yamat haKineret ימת הכינרת",
+        "Modern Hebrew"
+    ],
+    [
+        "Safed",
+        "Tzfat (צפת)"
+    ],
+    [
+        "Safed",
+        "Tzfat צפת"
+    ],
+    [
+        "Tiberias",
+        "Tverya (טבריה)"
+    ],
+    [
+        "Tiberias",
+        "Tverya טבריה"
+    ],
+    [
+        "Apulia",
+        "Puglia"
+    ],
+    [
+        "Apulia",
+        "Puglia"
+    ],
+    [
+        "Pùglia",
+        "Neapolitan"
+    ],
+    [
+        "Pùglia",
+        "Neapolitan"
+    ],
+    [
+        "Capitoline Hill",
+        "Campidoglio"
+    ],
+    [
+        "Capitoline Hill",
+        "Campidoglio"
+    ],
+    [
+        "Florence",
+        "Firenze"
+    ],
+    [
+        "Florence",
+        "Firenze"
+    ],
+    [
+        "Genoa",
+        "Genova"
+    ],
+    [
+        "Genoa",
+        "Genova"
+    ],
+    [
+        "Zêna",
+        "Ligurian"
+    ],
+    [
+        "Zêna",
+        "Ligurian"
+    ],
+    [
+        "Herculaneum",
+        "Ercolano"
+    ],
+    [
+        "Herculaneum",
+        "Ercolano"
+    ],
+    [
+        "Janiculum",
+        "Gianicolo"
+    ],
+    [
+        "Janiculum",
+        "Gianicolo"
+    ],
+    [
+        "Latium",
+        "Lazio"
+    ],
+    [
+        "Latium",
+        "Lazio"
+    ],
+    [
+        "Leghorn",
+        "Livorno"
+    ],
+    [
+        "Leghorn",
+        "Livorno"
+    ],
+    [
+        "Lombardy",
+        "Lombardéa"
+    ],
+    [
+        "Lombardy",
+        "Lombardéa"
+    ],
+    [
+        "Lombardia",
+        "Standard Italian"
+    ],
+    [
+        "Lombardia",
+        "Standard Italian"
+    ],
+    [
+        "Mantua",
+        "Mantua"
+    ],
+    [
+        "Mantua",
+        "Mantua"
+    ],
+    [
+        "Mantova",
+        "Standard Italian"
+    ],
+    [
+        "Mantova",
+        "Standard Italian"
+    ],
+    [
+        "Milan",
+        "Milan"
+    ],
+    [
+        "Milan",
+        "Milan"
+    ],
+    [
+        "Milano",
+        "Standard Italian"
+    ],
+    [
+        "Milano",
+        "Standard Italian"
+    ],
+    [
+        "Montferrat",
+        "Monferrato"
+    ],
+    [
+        "Montferrat",
+        "Monferrato"
+    ],
+    [
+        "Monfrà",
+        "Piedmontese"
+    ],
+    [
+        "Monfrà",
+        "Piedmontese"
+    ],
+    [
+        "Naples",
+        "Napoli"
+    ],
+    [
+        "Naples",
+        "Napoli"
+    ],
+    [
+        "Napule",
+        "Neapolitan"
+    ],
+    [
+        "Napule",
+        "Neapolitan"
+    ],
+    [
+        "Padua",
+        "Padova"
+    ],
+    [
+        "Padua",
+        "Padova"
+    ],
+    [
+        "Pàdova",
+        "Venetian"
+    ],
+    [
+        "Pàdova",
+        "Venetian"
+    ],
+    [
+        "Piedmont",
+        "Piemont"
+    ],
+    [
+        "Piedmont",
+        "Piemont"
+    ],
+    [
+        "Piemonte",
+        "Standard Italian"
+    ],
+    [
+        "Piemonte",
+        "Standard Italian"
+    ],
+    [
+        "Pompeii",
+        "Pompei"
+    ],
+    [
+        "Pompeii",
+        "Pompei"
+    ],
+    [
+        "Rome",
+        "Roma"
+    ],
+    [
+        "Rome",
+        "Roma"
+    ],
+    [
+        "Rubicon river",
+        "Rubicone"
+    ],
+    [
+        "Rubicon river",
+        "Rubicone"
+    ],
+    [
+        "Sardinia",
+        "Sardegna"
+    ],
+    [
+        "Sardinia",
+        "Sardegna"
+    ],
+    [
+        "Sicily",
+        "Sicilia"
+    ],
+    [
+        "Sicily",
+        "Sicilia"
+    ],
+    [
+        "Sienna",
+        "Siena"
+    ],
+    [
+        "Sienna",
+        "Siena"
+    ],
+    [
+        "Syracuse",
+        "Sarasusa"
+    ],
+    [
+        "Syracuse",
+        "Sarasusa"
+    ],
+    [
+        "Siracusa",
+        "Standard Italian"
+    ],
+    [
+        "Siracusa",
+        "Standard Italian"
+    ],
+    [
+        "The Marches",
+        "Marche"
+    ],
+    [
+        "The Marches",
+        "Marche"
+    ],
+    [
+        "Tiber",
+        "Tevere"
+    ],
+    [
+        "Tiber",
+        "Tevere"
+    ],
+    [
+        "Tuscany",
+        "Toscana"
+    ],
+    [
+        "Tuscany",
+        "Toscana"
+    ],
+    [
+        "Turin",
+        "Torino"
+    ],
+    [
+        "Turin",
+        "Torino"
+    ],
+    [
+        "Turin",
+        "Piedmontese"
+    ],
+    [
+        "Turin",
+        "Piedmontese"
+    ],
+    [
+        "Trent",
+        "Trento"
+    ],
+    [
+        "Trent",
+        "Trento"
+    ],
+    [
+        "Tyrol",
+        "Tirolo"
+    ],
+    [
+        "Tyrol",
+        "Tirolo"
+    ],
+    [
+        "Venice",
+        "Venesia"
+    ],
+    [
+        "Venice",
+        "Venesia"
+    ],
+    [
+        "Venezia",
+        "Standard Italian"
+    ],
+    [
+        "Venezia",
+        "Standard Italian"
+    ],
+    [
+        "Vesuvius",
+        "Vesuvio"
+    ],
+    [
+        "Vesuvius",
+        "Vesuvio"
+    ],
+    [
+        "Standard Italian",
+        "Latin name"
+    ],
+    [
+        "Standard Italian",
+        "Latin name"
+    ],
+    [
+        "Bonin Islands",
+        "Ogasawara Guntou (小笠原群島)"
+    ],
+    [
+        "Bonin Islands",
+        "Ogasawara Guntou 小笠原群島"
+    ],
+    [
+        "Iwo Jima",
+        "Iou-tou (硫黄島)"
+    ],
+    [
+        "Iwo Jima",
+        "Ioutou 硫黄島"
+    ],
+    [
+        "Liancourt Rocks",
+        "Takeshima (竹島)"
+    ],
+    [
+        "Liancourt Rocks",
+        "Takeshima 竹島"
+    ],
+    [
+        "Ryūkyū Islands",
+        "Nansei-shotou (南西諸島)"
+    ],
+    [
+        "Ryūkyū Islands",
+        "Nanseishotou 南西諸島"
+    ],
+    [
+        "Volcano Islands",
+        "Kazan Rettou (火山列島)"
+    ],
+    [
+        "Volcano Islands",
+        "Kazan Rettou 火山列島"
+    ],
+    [
+        "Louangphabang",
+        "Luang Prabang (ຫລວງພະບາງ)"
+    ],
+    [
+        "Louangphabang",
+        "Luang Prabang ຫລວງພະບາງ"
+    ],
+    [
+        "Mekong River",
+        "Maenam Khong (ແມ່ນ້ຳຂອງ)"
+    ],
+    [
+        "Mekong River",
+        "Maenam Khong ແມນຳຂອງ"
+    ],
+    [
+        "Savannakhet",
+        "Kaysone Phomvihane (ໄກສອນ ພົມວິຫານ)"
+    ],
+    [
+        "Savannakhet",
+        "Kaysone Phomvihane ໄກສອນ ພມວຫານ"
+    ],
+    [
+        "Viangchan",
+        "Wīang chan (ວຽງຈັນ)"
+    ],
+    [
+        "Viangchan",
+        "Wīang chan ວຽງຈນ"
+    ],
+    [
+        "Vientiane",
+        "Wīang chan (ວຽງຈັນ)"
+    ],
+    [
+        "Vientiane",
+        "Wīang chan ວຽງຈນ"
+    ],
+    [
+        "Wiangchan",
+        "Wīang chan (ວຽງຈັນ)"
+    ],
+    [
+        "Wiangchan",
+        "Wīang chan ວຽງຈນ"
+    ],
+    [
+        "Courland",
+        "Kurzeme"
+    ],
+    [
+        "Courland",
+        "Kurzeme"
+    ],
+    [
+        "Lettgallia",
+        "Latgale"
+    ],
+    [
+        "Lettgallia",
+        "Latgale"
+    ],
+    [
+        "Semigallia",
+        "Zemgale"
+    ],
+    [
+        "Semigallia",
+        "Zemgale"
+    ],
+    [
+        "Sidon",
+        "Ṣaydā (صيدا)"
+    ],
+    [
+        "Sidon",
+        "Ṣaydā صيدا"
+    ],
+    [
+        "Tyre",
+        "Ṣūr (صور)"
+    ],
+    [
+        "Tyre",
+        "Ṣūr صور"
+    ],
+    [
+        "Tripoli",
+        "Ṭarābulus (طرابلس)"
+    ],
+    [
+        "Tripoli",
+        "Ṭarābulus طرابلس"
+    ],
+    [
+        "Cyrenaica",
+        "Barqah (برقة)"
+    ],
+    [
+        "Cyrenaica",
+        "Barqah برقة"
+    ],
+    [
+        "Fezzan",
+        "Fezzan (ⴼⵣⵣⴰⵏ)"
+    ],
+    [
+        "Fezzan",
+        "Fezzan ⴼⵣⵣⴰⵏ"
+    ],
+    [
+        "Fizzān (فزان)",
+        "Standard Arabic"
+    ],
+    [
+        "Fizzān فزان",
+        "Standard Arabic"
+    ],
+    [
+        "Misrata",
+        "Miṣrātah (مصراتة)"
+    ],
+    [
+        "Misrata",
+        "Miṣrātah مصراتة"
+    ],
+    [
+        "Sirte",
+        "Sirt (سرت)"
+    ],
+    [
+        "Sirte",
+        "Sirt سرت"
+    ],
+    [
+        "Tripoli",
+        "Ṭrables"
+    ],
+    [
+        "Tripoli",
+        "Ṭrables"
+    ],
+    [
+        "Ṭarābulus (طرابلس)",
+        "Standard Arabic"
+    ],
+    [
+        "Ṭarābulus طرابلس",
+        "Standard Arabic"
+    ],
+    [
+        "Ṭrābləs (طرابلس)",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Ṭrābləs طرابلس",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Tripolitania",
+        "Ṭrables"
+    ],
+    [
+        "Tripolitania",
+        "Ṭrables"
+    ],
+    [
+        "Ṭarābulus (طرابلس)",
+        "Standard Arabic"
+    ],
+    [
+        "Ṭarābulus طرابلس",
+        "Standard Arabic"
+    ],
+    [
+        "Ṭrābləs (طرابلس)",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Ṭrābləs طرابلس",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Neman river",
+        "Nemunas"
+    ],
+    [
+        "Neman river",
+        "Nemunas"
+    ],
+    [
+        "Nieman river",
+        "Nemunas"
+    ],
+    [
+        "Nieman river",
+        "Nemunas"
+    ],
+    [
+        "Samogitia",
+        "Žemaitija"
+    ],
+    [
+        "Samogitia",
+        "Žemaitija"
+    ],
+    [
+        "Sudovia",
+        "Sudūva"
+    ],
+    [
+        "Sudovia",
+        "Sudūva"
+    ],
+    [
+        "Yotvingia",
+        "Dainava"
+    ],
+    [
+        "Yotvingia",
+        "Dainava"
+    ],
+    [
+        "Malacca",
+        "Melaka"
+    ],
+    [
+        "Malacca",
+        "Melaka"
+    ],
+    [
+        "Penang Island",
+        "Pulau Pinang"
+    ],
+    [
+        "Penang Island",
+        "Pulau Pinang"
+    ],
+    [
+        "Johore",
+        "Johor"
+    ],
+    [
+        "Johore",
+        "Johor"
+    ],
+    [
+        "Kino Bay",
+        "Hermosillo"
+    ],
+    [
+        "Kino Bay",
+        "Hermosillo"
+    ],
+    [
+        "Rocky Point",
+        "Puerto Peñasco"
+    ],
+    [
+        "Rocky Point",
+        "Puerto Peñasco"
+    ],
+    [
+        "Kishinev",
+        "Chişinău"
+    ],
+    [
+        "Kishinev",
+        "Chişinău"
+    ],
+    [
+        "Gobi Desert",
+        "Govi (Говь/ ᠭᠣᠪᠢ)"
+    ],
+    [
+        "Gobi Desert",
+        "Govi Говь ᠭᠣᠪᠢ"
+    ],
+    [
+        "Ulan Bator",
+        "Ulaanbaatar (Улаанбаатар/ ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ)"
+    ],
+    [
+        "Ulan Bator",
+        "Ulaanbaatar Улаанбаатар ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ"
+    ],
+    [
+        "Casablanca",
+        "Ad-Dār Al-Bayḍā' (الدار البيضاء)"
+    ],
+    [
+        "Casablanca",
+        "AdDār AlBayḍā الدار البيضاء"
+    ],
+    [
+        "Anfa (ⴰⵏⴼⴰ)",
+        "Berber"
+    ],
+    [
+        "Anfa ⴰⵏⴼⴰ",
+        "Berber"
+    ],
+    [
+        "Fez",
+        "Fās (ⴼⴰⵙ)"
+    ],
+    [
+        "Fez",
+        "Fās ⴼⴰⵙ"
+    ],
+    [
+        "Fās (فاس)",
+        "Standard Arabic"
+    ],
+    [
+        "Fās فاس",
+        "Standard Arabic"
+    ],
+    [
+        "Tangier",
+        "Ṭanja (ⵟⴰⵏⵊⴰ)"
+    ],
+    [
+        "Tangier",
+        "Ṭanja ⵟⴰⵏⵊⴰ"
+    ],
+    [
+        "Ṭanjah (طنجة)",
+        "Standard Arabic"
+    ],
+    [
+        "Ṭanjah طنجة",
+        "Standard Arabic"
+    ],
+    [
+        "Mekong River",
+        "Megaung Myit (မဲခေါင်မြစ်)"
+    ],
+    [
+        "Mekong River",
+        "Megaung Myit မခငမစ"
+    ],
+    [
+        "Naypyidaw",
+        "Nay Pyi Taw (နေပြည်တော်)"
+    ],
+    [
+        "Naypyidaw",
+        "Nay Pyi Taw နပညတ"
+    ],
+    [
+        "Pagan",
+        "Bagan (ပုဂံ)"
+    ],
+    [
+        "Pagan",
+        "Bagan ပဂ"
+    ],
+    [
+        "Rangoon",
+        "Yangon (ရန်ကုန်မြို့)"
+    ],
+    [
+        "Rangoon",
+        "Yangon ရနကနမ"
+    ],
+    [
+        "Ummerapoora",
+        "Amarapura (အမရပူရ)"
+    ],
+    [
+        "Ummerapoora",
+        "Amarapura အမရပရ"
+    ],
+    [
+        "Mount Everest",
+        "Sagarmatha (सगरमाथा)"
+    ],
+    [
+        "Mount Everest",
+        "Sagarmatha सगरमथ"
+    ],
+    [
+        "Brill",
+        "Brielle"
+    ],
+    [
+        "Brill",
+        "Brielle"
+    ],
+    [
+        "Dort",
+        "Dordrecht"
+    ],
+    [
+        "Dort",
+        "Dordrecht"
+    ],
+    [
+        "Flushing",
+        "Vlissingen"
+    ],
+    [
+        "Flushing",
+        "Vlissingen"
+    ],
+    [
+        "Guelders",
+        "Gelderland"
+    ],
+    [
+        "Guelders",
+        "Gelderland"
+    ],
+    [
+        "Leyden",
+        "Leiden"
+    ],
+    [
+        "Leyden",
+        "Leiden"
+    ],
+    [
+        "Meuse river",
+        "Maas"
+    ],
+    [
+        "Meuse river",
+        "Maas"
+    ],
+    [
+        "Rhine river",
+        "Rijn"
+    ],
+    [
+        "Rhine river",
+        "Rijn"
+    ],
+    [
+        "Ryswick",
+        "Rijswijk"
+    ],
+    [
+        "Ryswick",
+        "Rijswijk"
+    ],
+    [
+        "The Hague",
+        "Den Haag"
+    ],
+    [
+        "The Hague",
+        "Den Haag"
+    ],
+    [
+        "Bear Island",
+        "Bjørnøya"
+    ],
+    [
+        "Bear Island",
+        "Bjørnøya"
+    ],
+    [
+        "North Cape",
+        "Davvenjárgga"
+    ],
+    [
+        "North Cape",
+        "Davvenjárgga"
+    ],
+    [
+        "Nordkapp",
+        "Norwegian"
+    ],
+    [
+        "Nordkapp",
+        "Norwegian"
+    ],
+    [
+        "Slagen Valley",
+        "Slagndarn"
+    ],
+    [
+        "Slagen Valley",
+        "Slagndarn"
+    ],
+    [
+        "Slagendalen",
+        "Norwegian"
+    ],
+    [
+        "Slagendalen",
+        "Norwegian"
+    ],
+    [
+        "The Southland",
+        "Sørlandet"
+    ],
+    [
+        "The Southland",
+        "Sørlandet"
+    ],
+    [
+        "Diamond Mountain",
+        "Kǔmkang-san (금강산)"
+    ],
+    [
+        "Diamond Mountain",
+        "Kǔmkangsan 금강산"
+    ],
+    [
+        "Paektu Mountain",
+        "Paektu-san (백두산)"
+    ],
+    [
+        "Paektu Mountain",
+        "Paektusan 백두산"
+    ],
+    [
+        "Tumen River",
+        "Tuman-kang (두만강)"
+    ],
+    [
+        "Tumen River",
+        "Tumankang 두만강"
+    ],
+    [
+        "Yalu River",
+        "Amnok-kang (압록강)"
+    ],
+    [
+        "Yalu River",
+        "Amnokkang 압록강"
+    ],
+    [
+        "Bethlehem",
+        "Beyt Laḥm (بيت لحم)"
+    ],
+    [
+        "Bethlehem",
+        "Beyt Laḥm بيت لحم"
+    ],
+    [
+        "Bayta Laḥm (بيت لحم)",
+        "Standard Arabic"
+    ],
+    [
+        "Bayta Laḥm بيت لحم",
+        "Standard Arabic"
+    ],
+    [
+        "Gaza City",
+        "Ġazzah (غَزَّة)"
+    ],
+    [
+        "Gaza City",
+        "Ġazzah غزة"
+    ],
+    [
+        "Hebron",
+        "Al-Ḵalīl (الخليل)"
+    ],
+    [
+        "Hebron",
+        "AlḴalīl الخليل"
+    ],
+    [
+        "Jericho",
+        "Arīḥā (أريحا)"
+    ],
+    [
+        "Jericho",
+        "Arīḥā أريحا"
+    ],
+    [
+        "Jerusalem",
+        "Al-Quds (القُدس)"
+    ],
+    [
+        "Jerusalem",
+        "AlQuds القدس"
+    ],
+    [
+        "Jordan River",
+        "Nahr al-Urdun (نهر الأردن)"
+    ],
+    [
+        "Jordan River",
+        "Nahr alUrdun نهر الأردن"
+    ],
+    [
+        "Caloocan",
+        "Kalookan"
+    ],
+    [
+        "Caloocan",
+        "Kalookan"
+    ],
+    [
+        "Cebu",
+        "Sugbo"
+    ],
+    [
+        "Cebu",
+        "Sugbo"
+    ],
+    [
+        "Davao",
+        "Dabaw"
+    ],
+    [
+        "Davao",
+        "Dabaw"
+    ],
+    [
+        "Manila",
+        "Maynila"
+    ],
+    [
+        "Manila",
+        "Maynila"
+    ],
+    [
+        "Auschwitz",
+        "Oświęcim"
+    ],
+    [
+        "Auschwitz",
+        "Oświęcim"
+    ],
+    [
+        "Breslau",
+        "Wrocław"
+    ],
+    [
+        "Breslau",
+        "Wrocław"
+    ],
+    [
+        "Carpathian Mountains",
+        "Karpaty"
+    ],
+    [
+        "Carpathian Mountains",
+        "Karpaty"
+    ],
+    [
+        "Cracow",
+        "Kraków"
+    ],
+    [
+        "Cracow",
+        "Kraków"
+    ],
+    [
+        "Danzig",
+        "Gdańsk"
+    ],
+    [
+        "Danzig",
+        "Gdańsk"
+    ],
+    [
+        "Galicia",
+        "Galicja"
+    ],
+    [
+        "Galicia",
+        "Galicja"
+    ],
+    [
+        "Giant Mountains",
+        "Karkonosze"
+    ],
+    [
+        "Giant Mountains",
+        "Karkonosze"
+    ],
+    [
+        "Kashubia",
+        "Kaszëbë"
+    ],
+    [
+        "Kashubia",
+        "Kaszëbë"
+    ],
+    [
+        "Kaszuby",
+        "Polish"
+    ],
+    [
+        "Kaszuby",
+        "Polish"
+    ],
+    [
+        "Kuyavia",
+        "Kujawy"
+    ],
+    [
+        "Kuyavia",
+        "Kujawy"
+    ],
+    [
+        "Mazovia",
+        "Mazowsze"
+    ],
+    [
+        "Mazovia",
+        "Mazowsze"
+    ],
+    [
+        "Mazuria",
+        "Mazury"
+    ],
+    [
+        "Mazuria",
+        "Mazury"
+    ],
+    [
+        "Oder river",
+        "Odra"
+    ],
+    [
+        "Oder river",
+        "Odra"
+    ],
+    [
+        "Pomerania",
+        "Pomorze"
+    ],
+    [
+        "Pomerania",
+        "Pomorze"
+    ],
+    [
+        "Subcarpathia",
+        "Podkarpacie"
+    ],
+    [
+        "Subcarpathia",
+        "Podkarpacie"
+    ],
+    [
+        "Sudetes, Sudeten, Sudeten Mountains",
+        "Sudety"
+    ],
+    [
+        "Sudetes Sudeten Sudeten Mountains",
+        "Sudety"
+    ],
+    [
+        "Silesia",
+        "Śląsk"
+    ],
+    [
+        "Silesia",
+        "Śląsk"
+    ],
+    [
+        "Ślōnsk",
+        "Silesian"
+    ],
+    [
+        "Ślōnsk",
+        "Silesian"
+    ],
+    [
+        "Vistula river",
+        "Wisła"
+    ],
+    [
+        "Vistula river",
+        "Wisła"
+    ],
+    [
+        "Warsaw",
+        "Warszawa"
+    ],
+    [
+        "Warsaw",
+        "Warszawa"
+    ],
+    [
+        "Azores",
+        "Açores"
+    ],
+    [
+        "Azores",
+        "Açores"
+    ],
+    [
+        "Braganza",
+        "Bragança"
+    ],
+    [
+        "Braganza",
+        "Bragança"
+    ],
+    [
+        "Lisbon",
+        "Lisboa"
+    ],
+    [
+        "Lisbon",
+        "Lisboa"
+    ],
+    [
+        "Oporto",
+        "Porto"
+    ],
+    [
+        "Oporto",
+        "Porto"
+    ],
+    [
+        "Tagus river",
+        "Tejo"
+    ],
+    [
+        "Tagus river",
+        "Tejo"
+    ],
+    [
+        "Bucharest",
+        "București"
+    ],
+    [
+        "Bucharest",
+        "București"
+    ],
+    [
+        "Carpathian Mountains",
+        "Carpați"
+    ],
+    [
+        "Carpathian Mountains",
+        "Carpați"
+    ],
+    [
+        "Danube river",
+        "Dunǎrea"
+    ],
+    [
+        "Danube river",
+        "Dunǎrea"
+    ],
+    [
+        "Jassy",
+        "Iași"
+    ],
+    [
+        "Jassy",
+        "Iași"
+    ],
+    [
+        "Northern Dobruja",
+        "Dobrogea"
+    ],
+    [
+        "Northern Dobruja",
+        "Dobrogea"
+    ],
+    [
+        "Transylvania",
+        "Transilvania"
+    ],
+    [
+        "Transylvania",
+        "Transilvania"
+    ],
+    [
+        "Wallachia",
+        "Țara Românească, Valahia"
+    ],
+    [
+        "Wallachia",
+        "Țara Românească Valahia"
+    ],
+    [
+        "Archangel",
+        "Arkhangelsk (Архангельск)"
+    ],
+    [
+        "Archangel",
+        "Arkhangelsk Архангельск"
+    ],
+    [
+        "Black Sea",
+        "Chernoje more (Черное море)"
+    ],
+    [
+        "Black Sea",
+        "Chernoje more Черное море"
+    ],
+    [
+        "Caucasus",
+        "Kavkaz (Кавказ)"
+    ],
+    [
+        "Caucasus",
+        "Kavkaz Кавказ"
+    ],
+    [
+        "Caspian Sea",
+        "Kaspijskoje more (Каспийское море)"
+    ],
+    [
+        "Caspian Sea",
+        "Kaspijskoje more Каспийское море"
+    ],
+    [
+        "Grozny",
+        "Sölƶa-Ġala (Соьлжа-ГӀала)"
+    ],
+    [
+        "Grozny",
+        "SölƶaĠala СоьлжаГӀала"
+    ],
+    [
+        "Groznyj (Грозный)",
+        "Russian"
+    ],
+    [
+        "Groznyj Грозный",
+        "Russian"
+    ],
+    [
+        "Moscow",
+        "Moskva (Москва)"
+    ],
+    [
+        "Moscow",
+        "Moskva Москва"
+    ],
+    [
+        "Orel",
+        "Oryol (Орёл)"
+    ],
+    [
+        "Orel",
+        "Oryol Орёл"
+    ],
+    [
+        "Pacific Ocean",
+        "Tikhiy okean (Тихий океан)"
+    ],
+    [
+        "Pacific Ocean",
+        "Tikhiy okean Тихий океан"
+    ],
+    [
+        "Plescow",
+        "Pskov (Псков)"
+    ],
+    [
+        "Plescow",
+        "Pskov Псков"
+    ],
+    [
+        "Saint Petersburg",
+        "Sankt-Peterburg (Санкт-Петербург)"
+    ],
+    [
+        "Saint Petersburg",
+        "SanktPeterburg СанктПетербург"
+    ],
+    [
+        "Arabian Sea",
+        "Al-Baḥr al-'Arabī (البحر العربي)"
+    ],
+    [
+        "Arabian Sea",
+        "AlBaḥr alArabī البحر العربي"
+    ],
+    [
+        "Gulf of Aden",
+        "Ḫalīǧ ʻAdan (خليج عدن)"
+    ],
+    [
+        "Gulf of Aden",
+        "Ḫalīǧ ʻAdan خليج عدن"
+    ],
+    [
+        "Jeddah",
+        "Jiddah (جِدَّة)"
+    ],
+    [
+        "Jeddah",
+        "Jiddah جدة"
+    ],
+    [
+        "Mecca",
+        "Makkah (مکة)"
+    ],
+    [
+        "Mecca",
+        "Makkah مکة"
+    ],
+    [
+        "Medina",
+        "Al-Madīnah (المدينة)"
+    ],
+    [
+        "Medina",
+        "AlMadīnah المدينة"
+    ],
+    [
+        "Riyadh",
+        "Er-Riyāḍ (الرياض)"
+    ],
+    [
+        "Riyadh",
+        "ErRiyāḍ الرياض"
+    ],
+    [
+        "Ar-Riyāḍ (الرياض)",
+        "Standard Arabic"
+    ],
+    [
+        "ArRiyāḍ الرياض",
+        "Standard Arabic"
+    ],
+    [
+        "Balkan Mountains",
+        "Stara Planina (Стара Планина)"
+    ],
+    [
+        "Balkan Mountains",
+        "Stara Planina Стара Планина"
+    ],
+    [
+        "Belgrade",
+        "Beograd (Београд)"
+    ],
+    [
+        "Belgrade",
+        "Beograd Београд"
+    ],
+    [
+        "Danube river",
+        "Dunav (Дунав)"
+    ],
+    [
+        "Danube river",
+        "Dunav Дунав"
+    ],
+    [
+        "Carpathian Mountains",
+        "Karpaty"
+    ],
+    [
+        "Carpathian Mountains",
+        "Karpaty"
+    ],
+    [
+        "Cassovia",
+        "Košice"
+    ],
+    [
+        "Cassovia",
+        "Košice"
+    ],
+    [
+        "Danube river",
+        "Dunaj"
+    ],
+    [
+        "Danube river",
+        "Dunaj"
+    ],
+    [
+        "Gerlach Peak",
+        "Gerlachovský štít"
+    ],
+    [
+        "Gerlach Peak",
+        "Gerlachovský štít"
+    ],
+    [
+        "Maple Mountains",
+        "Javorníky"
+    ],
+    [
+        "Maple Mountains",
+        "Javorníky"
+    ],
+    [
+        "Slovak Ore Mountains",
+        "Slovenské rudohorie"
+    ],
+    [
+        "Slovak Ore Mountains",
+        "Slovenské rudohorie"
+    ],
+    [
+        "Carinthia",
+        "Koroška"
+    ],
+    [
+        "Carinthia",
+        "Koroška"
+    ],
+    [
+        "Inner Carniola",
+        "Notranjska"
+    ],
+    [
+        "Inner Carniola",
+        "Notranjska"
+    ],
+    [
+        "Karawanks",
+        "Karavanke"
+    ],
+    [
+        "Karawanks",
+        "Karavanke"
+    ],
+    [
+        "Karst",
+        "Kras"
+    ],
+    [
+        "Karst",
+        "Kras"
+    ],
+    [
+        "Lower Carniola",
+        "Dolenjska"
+    ],
+    [
+        "Lower Carniola",
+        "Dolenjska"
+    ],
+    [
+        "Slovene Littoral",
+        "Primorska"
+    ],
+    [
+        "Slovene Littoral",
+        "Primorska"
+    ],
+    [
+        "Styria",
+        "Štajerska"
+    ],
+    [
+        "Styria",
+        "Štajerska"
+    ],
+    [
+        "Upper Carniola",
+        "Gorenjska"
+    ],
+    [
+        "Upper Carniola",
+        "Gorenjska"
+    ],
+    [
+        "Baidoa",
+        "Baydhabo"
+    ],
+    [
+        "Baidoa",
+        "Baydhabo"
+    ],
+    [
+        "Chisimaio",
+        "Kismaayo"
+    ],
+    [
+        "Chisimaio",
+        "Kismaayo"
+    ],
+    [
+        "Mogadishu",
+        "Muqdisho"
+    ],
+    [
+        "Mogadishu",
+        "Muqdisho"
+    ],
+    [
+        "Villabruzzi",
+        "Jowhaar"
+    ],
+    [
+        "Villabruzzi",
+        "Jowhaar"
+    ],
+    [
+        "Aliwal North",
+        "Maletswai"
+    ],
+    [
+        "Aliwal North",
+        "Maletswai"
+    ],
+    [
+        "Cape Town",
+        "ǁHui!gaeb"
+    ],
+    [
+        "Cape Town",
+        "ǁHuigaeb"
+    ],
+    [
+        "Kaapstad",
+        "Afrikaans"
+    ],
+    [
+        "Kaapstad",
+        "Afrikaans"
+    ],
+    [
+        "iKapa",
+        "Xhosa"
+    ],
+    [
+        "iKapa",
+        "Xhosa"
+    ],
+    [
+        "Fish Hoek",
+        "Vishoek"
+    ],
+    [
+        "Fish Hoek",
+        "Vishoek"
+    ],
+    [
+        "Grahamstown",
+        "Grahamstad"
+    ],
+    [
+        "Grahamstown",
+        "Grahamstad"
+    ],
+    [
+        "iRhini",
+        "Xhosa"
+    ],
+    [
+        "iRhini",
+        "Xhosa"
+    ],
+    [
+        "Makhanda",
+        "iRhini"
+    ],
+    [
+        "Makhanda",
+        "iRhini"
+    ],
+    [
+        "Queenstown",
+        "Komani"
+    ],
+    [
+        "Queenstown",
+        "Komani"
+    ],
+    [
+        "Simon's Town",
+        "Simonstad"
+    ],
+    [
+        "Simons Town",
+        "Simonstad"
+    ],
+    [
+        "Liancourt Rocks",
+        "Dokdo (독도)"
+    ],
+    [
+        "Liancourt Rocks",
+        "Dokdo 독도"
+    ],
+    [
+        "Port Hamilton",
+        "Geomundo (거문도)"
+    ],
+    [
+        "Port Hamilton",
+        "Geomundo 거문도"
+    ],
+    [
+        "Pusan",
+        "Busan (부산시)"
+    ],
+    [
+        "Pusan",
+        "Busan 부산시"
+    ],
+    [
+        "Quelpart",
+        "Jeju (제주도)"
+    ],
+    [
+        "Quelpart",
+        "Jeju 제주도"
+    ],
+    [
+        "Andalusia",
+        "Andalucía"
+    ],
+    [
+        "Andalusia",
+        "Andalucía"
+    ],
+    [
+        "Basque Country",
+        "País Vasco"
+    ],
+    [
+        "Basque Country",
+        "País Vasco"
+    ],
+    [
+        "Euskadi",
+        "Basque"
+    ],
+    [
+        "Euskadi",
+        "Basque"
+    ],
+    [
+        "Biscay",
+        "Bizkaia"
+    ],
+    [
+        "Biscay",
+        "Bizkaia"
+    ],
+    [
+        "Vizcaya",
+        "Spanish"
+    ],
+    [
+        "Vizcaya",
+        "Spanish"
+    ],
+    [
+        "Castile",
+        "Castilla"
+    ],
+    [
+        "Castile",
+        "Castilla"
+    ],
+    [
+        "Catalonia",
+        "Catalunya"
+    ],
+    [
+        "Catalonia",
+        "Catalunya"
+    ],
+    [
+        "Corunna",
+        "A Coruña"
+    ],
+    [
+        "Corunna",
+        "A Coruña"
+    ],
+    [
+        "Douro",
+        "Duero"
+    ],
+    [
+        "Douro",
+        "Duero"
+    ],
+    [
+        "Majorca",
+        "Mallorca"
+    ],
+    [
+        "Majorca",
+        "Mallorca"
+    ],
+    [
+        "Minorca",
+        "Menorca"
+    ],
+    [
+        "Minorca",
+        "Menorca"
+    ],
+    [
+        "Navarre",
+        "Nafarroa"
+    ],
+    [
+        "Navarre",
+        "Nafarroa"
+    ],
+    [
+        "Pampeluna",
+        "Pamplona"
+    ],
+    [
+        "Pampeluna",
+        "Pamplona"
+    ],
+    [
+        "Saragossa",
+        "Zaragoza"
+    ],
+    [
+        "Saragossa",
+        "Zaragoza"
+    ],
+    [
+        "Seville",
+        "Sevilla"
+    ],
+    [
+        "Seville",
+        "Sevilla"
+    ],
+    [
+        "Tagus",
+        "Tajo"
+    ],
+    [
+        "Tagus",
+        "Tajo"
+    ],
+    [
+        "Teneriffe",
+        "Tenerife"
+    ],
+    [
+        "Teneriffe",
+        "Tenerife"
+    ],
+    [
+        "The Groyne",
+        "A Coruña"
+    ],
+    [
+        "The Groyne",
+        "A Coruña"
+    ],
+    [
+        "Adam's Peak",
+        "Civaṉoḷipātam (சிவனொளிபாதம்)"
+    ],
+    [
+        "Adams Peak",
+        "Civaṉoḷipātam சவனளபதம"
+    ],
+    [
+        "Śrī Pāda (ශ්‍රී පාද)",
+        "Sinhala"
+    ],
+    [
+        "Śrī Pāda ශර පද",
+        "Sinhala"
+    ],
+    [
+        "Batticaloa",
+        "Maṭṭakkaḷappu (மட்டக்களப்பு)"
+    ],
+    [
+        "Batticaloa",
+        "Maṭṭakkaḷappu மடடககளபப"
+    ],
+    [
+        "Madakalapuwa (මඩකලපුව)",
+        "Sinhala"
+    ],
+    [
+        "Madakalapuwa මඩකලපව",
+        "Sinhala"
+    ],
+    [
+        "Chilaw",
+        "Cilāpam (சிலாபம்)"
+    ],
+    [
+        "Chilaw",
+        "Cilāpam சலபம"
+    ],
+    [
+        "Halawta (හලාවත)",
+        "Sinhala"
+    ],
+    [
+        "Halawta හලවත",
+        "Sinhala"
+    ],
+    [
+        "Colombo",
+        "Kolamba (කොළඹ)"
+    ],
+    [
+        "Colombo",
+        "Kolamba කළඹ"
+    ],
+    [
+        "Kolumpu (கொழும்பு)",
+        "Tamil"
+    ],
+    [
+        "Kolumpu கழமப",
+        "Tamil"
+    ],
+    [
+        "Delft",
+        "Neṭuntīvu (நெடுந்தீவு)"
+    ],
+    [
+        "Delft",
+        "Neṭuntīvu நடநதவ"
+    ],
+    [
+        "Ḍelfṭ (ඩෙල්ෆ්ට්)",
+        "Sinhala"
+    ],
+    [
+        "Ḍelfṭ ඩලෆට",
+        "Sinhala"
+    ],
+    [
+        "Galle",
+        "Galla (ගාල්ල)"
+    ],
+    [
+        "Galle",
+        "Galla ගලල"
+    ],
+    [
+        "Kāli (காலி)",
+        "Tamil"
+    ],
+    [
+        "Kāli கல",
+        "Tamil"
+    ],
+    [
+        "Jaffna",
+        "Yāḻppāṇam (யாழ்ப்பாணம்)"
+    ],
+    [
+        "Jaffna",
+        "Yāḻppāṇam யழபபணம"
+    ],
+    [
+        "Yāpanaya (යාපනය)",
+        "Sinhala"
+    ],
+    [
+        "Yāpanaya යපනය",
+        "Sinhala"
+    ],
+    [
+        "Kandy",
+        "Kaṇṭi (கண்டி)"
+    ],
+    [
+        "Kandy",
+        "Kaṇṭi கணட"
+    ],
+    [
+        "Mahanuwara (මහනුවර)",
+        "Sinhala"
+    ],
+    [
+        "Mahanuwara මහනවර",
+        "Sinhala"
+    ],
+    [
+        "Kayts",
+        "Ūrkāvaṟtuṟai (ஊர்காவற்துறை)"
+    ],
+    [
+        "Kayts",
+        "Ūrkāvaṟtuṟai ஊரகவறதற"
+    ],
+    [
+        "Kayiṭs (කයිට්ස්)",
+        "Sinhala"
+    ],
+    [
+        "Kayiṭs කයටස",
+        "Sinhala"
+    ],
+    [
+        "Mutwal",
+        "Modara (මෝදර)"
+    ],
+    [
+        "Mutwal",
+        "Modara මදර"
+    ],
+    [
+        "Mukattuvāram (முகத்துவாரம்)",
+        "Tamil"
+    ],
+    [
+        "Mukattuvāram மகததவரம",
+        "Tamil"
+    ],
+    [
+        "Negombo",
+        "Meegumuwa (මීගමුව)"
+    ],
+    [
+        "Negombo",
+        "Meegumuwa මගමව"
+    ],
+    [
+        "Nirkolompu (நீர்கொழும்பு)",
+        "Tamil"
+    ],
+    [
+        "Nirkolompu நரகழமப",
+        "Tamil"
+    ],
+    [
+        "Point Pedro",
+        "Paruttittuṟai (பருத்தித்துறை)"
+    ],
+    [
+        "Point Pedro",
+        "Paruttittuṟai பரததததற"
+    ],
+    [
+        "Pēduru Tuḍuva (පේදුරු තුඩුව)",
+        "Sinhala"
+    ],
+    [
+        "Pēduru Tuḍuva පදර තඩව",
+        "Sinhala"
+    ],
+    [
+        "Trincomalee",
+        "Tirukōṇamalai (திருகோணமலை)"
+    ],
+    [
+        "Trincomalee",
+        "Tirukōṇamalai தரகணமல"
+    ],
+    [
+        "Thrikunamalaya (ත්‍රිකුණාමළය)",
+        "Sinhala"
+    ],
+    [
+        "Thrikunamalaya තරකණමළය",
+        "Sinhala"
+    ],
+    [
+        "Khartoum",
+        "Al-Ḵurṭūm (الخَرطوم)"
+    ],
+    [
+        "Khartoum",
+        "AlḴurṭūm الخرطوم"
+    ],
+    [
+        "El-Ḵortūm (الخَرطوم)",
+        "Sudanese Arabic"
+    ],
+    [
+        "ElḴortūm الخرطوم",
+        "Sudanese Arabic"
+    ],
+    [
+        "Nile river",
+        "An-Nīl (النيل)"
+    ],
+    [
+        "Nile river",
+        "AnNīl النيل"
+    ],
+    [
+        "En-Nīl (النيل)",
+        "Sudanese Arabic"
+    ],
+    [
+        "EnNīl النيل",
+        "Sudanese Arabic"
+    ],
+    [
+        "Omdurman",
+        "Omm Dormān (أُم درمان)"
+    ],
+    [
+        "Omdurman",
+        "Omm Dormān أم درمان"
+    ],
+    [
+        "Umm Durmān (أُم درمان)",
+        "Standard Arabic"
+    ],
+    [
+        "Umm Durmān أم درمان",
+        "Standard Arabic"
+    ],
+    [
+        "Port Sudan",
+        "Burtusudan (بورتسودان)"
+    ],
+    [
+        "Port Sudan",
+        "Burtusudan بورتسودان"
+    ],
+    [
+        "Bar'uut",
+        "Beja"
+    ],
+    [
+        "Baruut",
+        "Beja"
+    ],
+    [
+        "Dalecarlia",
+        "Dalarna"
+    ],
+    [
+        "Dalecarlia",
+        "Dalarna"
+    ],
+    [
+        "Gothenburg",
+        "Göteborg"
+    ],
+    [
+        "Gothenburg",
+        "Göteborg"
+    ],
+    [
+        "North Bothnia",
+        "Norrbotten"
+    ],
+    [
+        "North Bothnia",
+        "Norrbotten"
+    ],
+    [
+        "Scania",
+        "Skåne"
+    ],
+    [
+        "Scania",
+        "Skåne"
+    ],
+    [
+        "The Dales",
+        "Dalarna"
+    ],
+    [
+        "The Dales",
+        "Dalarna"
+    ],
+    [
+        "West Bothnia",
+        "Västerbotten"
+    ],
+    [
+        "West Bothnia",
+        "Västerbotten"
+    ],
+    [
+        "Basle",
+        "Basel"
+    ],
+    [
+        "Basle",
+        "Basel"
+    ],
+    [
+        "Berne",
+        "Bern"
+    ],
+    [
+        "Berne",
+        "Bern"
+    ],
+    [
+        "Geneva",
+        "Genève"
+    ],
+    [
+        "Geneva",
+        "Genève"
+    ],
+    [
+        "Genf",
+        "Standard German"
+    ],
+    [
+        "Genf",
+        "Standard German"
+    ],
+    [
+        "Lucerne",
+        "Luzern"
+    ],
+    [
+        "Lucerne",
+        "Luzern"
+    ],
+    [
+        "Rhine River",
+        "Rhein"
+    ],
+    [
+        "Rhine River",
+        "Rhein"
+    ],
+    [
+        "Valais",
+        "Wallis"
+    ],
+    [
+        "Valais",
+        "Wallis"
+    ],
+    [
+        "Aleppo",
+        "Ḥalab (حَلَب)"
+    ],
+    [
+        "Aleppo",
+        "Ḥalab حلب"
+    ],
+    [
+        "Damascus",
+        "Dimašq (دِمَشْق)"
+    ],
+    [
+        "Damascus",
+        "Dimašq دمشق"
+    ],
+    [
+        "Dimaš' (دِمَشْق)",
+        "Levantine Arabic"
+    ],
+    [
+        "Dimaš دمشق",
+        "Levantine Arabic"
+    ],
+    [
+        "Euphrates River",
+        "Al-Furat (الفرات)"
+    ],
+    [
+        "Euphrates River",
+        "AlFurat الفرات"
+    ],
+    [
+        "Homs",
+        "Ḥimṣ (حِمْص)"
+    ],
+    [
+        "Homs",
+        "Ḥimṣ حمص"
+    ],
+    [
+        "Ḥumṣ (حُمْص)",
+        "Levantine Arabic"
+    ],
+    [
+        "Ḥumṣ حمص",
+        "Levantine Arabic"
+    ],
+    [
+        "Palmyra",
+        "Tadmur (تَدْمُر)"
+    ],
+    [
+        "Palmyra",
+        "Tadmur تدمر"
+    ],
+    [
+        "Latakia",
+        "Al-Lāḏiqīyah (اللاذقية)"
+    ],
+    [
+        "Latakia",
+        "AlLāḏiqīyah اللاذقية"
+    ],
+    [
+        "El-Lādi'iyyeh (اللاذقية)",
+        "Levantine Arabic"
+    ],
+    [
+        "ElLādiiyyeh اللاذقية",
+        "Levantine Arabic"
+    ],
+    [
+        "Bangkok",
+        "Krung Thep (กรุงเทพ)"
+    ],
+    [
+        "Bangkok",
+        "Krung Thep กรงเทพ"
+    ],
+    [
+        "Mekong River",
+        "Maenam Khong (แม่น้ำโขง)"
+    ],
+    [
+        "Mekong River",
+        "Maenam Khong แมนำโขง"
+    ],
+    [
+        "Singora",
+        "Songkhla (สงขลา)"
+    ],
+    [
+        "Singora",
+        "Songkhla สงขลา"
+    ],
+    [
+        "Pehoe",
+        "Phîⁿ-ô͘"
+    ],
+    [
+        "Pehoe",
+        "Phîⁿô"
+    ],
+    [
+        "Penghu (澎湖)",
+        "Mandarin"
+    ],
+    [
+        "Penghu 澎湖",
+        "Mandarin"
+    ],
+    [
+        "Pescadores",
+        "Phîⁿ-ô͘"
+    ],
+    [
+        "Pescadores",
+        "Phîⁿô"
+    ],
+    [
+        "Penghu (澎湖)",
+        "Mandarin"
+    ],
+    [
+        "Penghu 澎湖",
+        "Mandarin"
+    ],
+    [
+        "Quemoy",
+        "Kimoi"
+    ],
+    [
+        "Quemoy",
+        "Kimoi"
+    ],
+    [
+        "Kinmen (金門)",
+        "Mandarin"
+    ],
+    [
+        "Kinmen 金門",
+        "Mandarin"
+    ],
+    [
+        "Gabès",
+        "Gābes (قابس)"
+    ],
+    [
+        "Gabès",
+        "Gābes قابس"
+    ],
+    [
+        "Qābis (قابس)",
+        "Standard Arabic"
+    ],
+    [
+        "Qābis قابس",
+        "Standard Arabic"
+    ],
+    [
+        "Sfax",
+        "Sifaks (ⵙⵉⴼⴰⴽⵙ)"
+    ],
+    [
+        "Sfax",
+        "Sifaks ⵙⵉⴼⴰⴽⵙ"
+    ],
+    [
+        "Ṣfāqes (صفاقس)",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Ṣfāqes صفاقس",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Ṣafaqus (صفاقس)",
+        "Standard Arabic"
+    ],
+    [
+        "Ṣafaqus صفاقس",
+        "Standard Arabic"
+    ],
+    [
+        "Sousse",
+        "Susa"
+    ],
+    [
+        "Sousse",
+        "Susa"
+    ],
+    [
+        "Sūseh (سوسة)",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Sūseh سوسة",
+        "Maghrebi Arabic"
+    ],
+    [
+        "Sūsah (سوسة)",
+        "Standard Arabic"
+    ],
+    [
+        "Sūsah سوسة",
+        "Standard Arabic"
+    ],
+    [
+        "Adalia",
+        "Antalya"
+    ],
+    [
+        "Adalia",
+        "Antalya"
+    ],
+    [
+        "Adrianople",
+        "Edirne"
+    ],
+    [
+        "Adrianople",
+        "Edirne"
+    ],
+    [
+        "Alexandretta",
+        "İskenderun"
+    ],
+    [
+        "Alexandretta",
+        "İskenderun"
+    ],
+    [
+        "Anemurium",
+        "Anamur"
+    ],
+    [
+        "Anemurium",
+        "Anamur"
+    ],
+    [
+        "Antioch",
+        "Antakya"
+    ],
+    [
+        "Antioch",
+        "Antakya"
+    ],
+    [
+        "Bosphorus",
+        "Boǧaziçi"
+    ],
+    [
+        "Bosphorus",
+        "Boǧaziçi"
+    ],
+    [
+        "Byzantium",
+        "İstanbul"
+    ],
+    [
+        "Byzantium",
+        "İstanbul"
+    ],
+    [
+        "Caeserea",
+        "Kayseri"
+    ],
+    [
+        "Caeserea",
+        "Kayseri"
+    ],
+    [
+        "Cappadocia",
+        "Kapadokya"
+    ],
+    [
+        "Cappadocia",
+        "Kapadokya"
+    ],
+    [
+        "Claudiopolis",
+        "Mut"
+    ],
+    [
+        "Claudiopolis",
+        "Mut"
+    ],
+    [
+        "Constantinople",
+        "İstanbul"
+    ],
+    [
+        "Constantinople",
+        "İstanbul"
+    ],
+    [
+        "Dardanelles",
+        "Çanakkale Boǧazı"
+    ],
+    [
+        "Dardanelles",
+        "Çanakkale Boǧazı"
+    ],
+    [
+        "Edessa",
+        "(Sanlı)urfa"
+    ],
+    [
+        "Edessa",
+        "Sanlıurfa"
+    ],
+    [
+        "Ephesus",
+        "Efes"
+    ],
+    [
+        "Ephesus",
+        "Efes"
+    ],
+    [
+        "Euphrates River",
+        "Fırat"
+    ],
+    [
+        "Euphrates River",
+        "Fırat"
+    ],
+    [
+        "Gallipoli",
+        "Gelibolu"
+    ],
+    [
+        "Gallipoli",
+        "Gelibolu"
+    ],
+    [
+        "Halicarnassus",
+        "Bodrum"
+    ],
+    [
+        "Halicarnassus",
+        "Bodrum"
+    ],
+    [
+        "Heraclea Pontica",
+        "Karadeniz Ereǧli"
+    ],
+    [
+        "Heraclea Pontica",
+        "Karadeniz Ereǧli"
+    ],
+    [
+        "Iconium",
+        "Konya"
+    ],
+    [
+        "Iconium",
+        "Konya"
+    ],
+    [
+        "Imbros",
+        "Gökçeada"
+    ],
+    [
+        "Imbros",
+        "Gökçeada"
+    ],
+    [
+        "Istanbul",
+        "İstanbul"
+    ],
+    [
+        "Istanbul",
+        "İstanbul"
+    ],
+    [
+        "Kerasous",
+        "Giresun"
+    ],
+    [
+        "Kerasous",
+        "Giresun"
+    ],
+    [
+        "Laranda",
+        "Karaman"
+    ],
+    [
+        "Laranda",
+        "Karaman"
+    ],
+    [
+        "Magnesia ad Sipylum",
+        "Manisa"
+    ],
+    [
+        "Magnesia ad Sipylum",
+        "Manisa"
+    ],
+    [
+        "Nicaea",
+        "Iznik"
+    ],
+    [
+        "Nicaea",
+        "Iznik"
+    ],
+    [
+        "Nicomedia",
+        "Izmit"
+    ],
+    [
+        "Nicomedia",
+        "Izmit"
+    ],
+    [
+        "Pergamon",
+        "Bergama"
+    ],
+    [
+        "Pergamon",
+        "Bergama"
+    ],
+    [
+        "Philadelphia",
+        "Alaşehir"
+    ],
+    [
+        "Philadelphia",
+        "Alaşehir"
+    ],
+    [
+        "Prusa",
+        "Bursa"
+    ],
+    [
+        "Prusa",
+        "Bursa"
+    ],
+    [
+        "Scutari",
+        "Üsküdar"
+    ],
+    [
+        "Scutari",
+        "Üsküdar"
+    ],
+    [
+        "Seleucia",
+        "Silifke"
+    ],
+    [
+        "Seleucia",
+        "Silifke"
+    ],
+    [
+        "Smyrna",
+        "İzmir"
+    ],
+    [
+        "Smyrna",
+        "İzmir"
+    ],
+    [
+        "Tenedos",
+        "Bozcaada"
+    ],
+    [
+        "Tenedos",
+        "Bozcaada"
+    ],
+    [
+        "Thrace",
+        "Trakya"
+    ],
+    [
+        "Thrace",
+        "Trakya"
+    ],
+    [
+        "Tigris River",
+        "Dicle"
+    ],
+    [
+        "Tigris River",
+        "Dicle"
+    ],
+    [
+        "Tralles",
+        "Aydın"
+    ],
+    [
+        "Tralles",
+        "Aydın"
+    ],
+    [
+        "Trebizond",
+        "Trabzon"
+    ],
+    [
+        "Trebizond",
+        "Trabzon"
+    ],
+    [
+        "Black Sea",
+        "Chorne more (Чорне море)"
+    ],
+    [
+        "Black Sea",
+        "Chorne more Чорне море"
+    ],
+    [
+        "Carpathian Ruthenia",
+        "Karpatska Rus' (Карпатська Русь)"
+    ],
+    [
+        "Carpathian Ruthenia",
+        "Karpatska Rus Карпатська Русь"
+    ],
+    [
+        "Carpathian Ukraine",
+        "Karpatska Ukrayina (Карпатська Україна)"
+    ],
+    [
+        "Carpathian Ukraine",
+        "Karpatska Ukrayina Карпатська Україна"
+    ],
+    [
+        "Chernobyl",
+        "Chornobyl (Чорнобиль)"
+    ],
+    [
+        "Chernobyl",
+        "Chornobyl Чорнобиль"
+    ],
+    [
+        "Crimea",
+        "Krym (Крим)"
+    ],
+    [
+        "Crimea",
+        "Krym Крим"
+    ],
+    [
+        "Galicia",
+        "Halychyna (Галичина)"
+    ],
+    [
+        "Galicia",
+        "Halychyna Галичина"
+    ],
+    [
+        "Gorlovka",
+        "Horlivka (Горлівка)"
+    ],
+    [
+        "Gorlovka",
+        "Horlivka Горлівка"
+    ],
+    [
+        "Kharkov",
+        "Kharkiv (Харків)"
+    ],
+    [
+        "Kharkov",
+        "Kharkiv Харків"
+    ],
+    [
+        "Kiev",
+        "Kyiv (Київ)"
+    ],
+    [
+        "Kiev",
+        "Kyiv Київ"
+    ],
+    [
+        "Krivoy Rog",
+        "Kryvyi Rih (Кривиі Ріг)"
+    ],
+    [
+        "Krivoy Rog",
+        "Kryvyi Rih Кривиі Ріг"
+    ],
+    [
+        "Podolia",
+        "Podillia (Поділля)"
+    ],
+    [
+        "Podolia",
+        "Podillia Поділля"
+    ],
+    [
+        "Subcarpathia",
+        "Pidkarpattia (Підкарпаття)"
+    ],
+    [
+        "Subcarpathia",
+        "Pidkarpattia Підкарпаття"
+    ],
+    [
+        "Subcarpathian Ruthenia, Subcarpathian Rus",
+        "Pidkarpatska Rus' (Підкарпатська Русь)"
+    ],
+    [
+        "Subcarpathian Ruthenia Subcarpathian Rus",
+        "Pidkarpatska Rus Підкарпатська Русь"
+    ],
+    [
+        "Transcarpathia",
+        "Zakarpattia (Закарпаття)"
+    ],
+    [
+        "Transcarpathia",
+        "Zakarpattia Закарпаття"
+    ],
+    [
+        "Transcarpathian Ukraine",
+        "Zakarpatska Ukrayina (Закарпатська Україна)"
+    ],
+    [
+        "Transcarpathian Ukraine",
+        "Zakarpatska Ukrayina Закарпатська Україна"
+    ],
+    [
+        "Volhynia",
+        "Volyn' (Волинь)"
+    ],
+    [
+        "Volhynia",
+        "Volyn Волинь"
+    ],
+    [
+        "Aberdovey",
+        "Aberdyfi"
+    ],
+    [
+        "Aberdovey",
+        "Aberdyfi"
+    ],
+    [
+        "Abergavenny",
+        "Y Fenni"
+    ],
+    [
+        "Abergavenny",
+        "Y Fenni"
+    ],
+    [
+        "Achmore",
+        "An t-Acha Mòr"
+    ],
+    [
+        "Achmore",
+        "An tAcha Mòr"
+    ],
+    [
+        "Aird of Sleat",
+        "Àird Shlèite"
+    ],
+    [
+        "Aird of Sleat",
+        "Àird Shlèite"
+    ],
+    [
+        "Alexandria",
+        "Magh Leamhna"
+    ],
+    [
+        "Alexandria",
+        "Magh Leamhna"
+    ],
+    [
+        "Ammanford",
+        "Rhydaman"
+    ],
+    [
+        "Ammanford",
+        "Rhydaman"
+    ],
+    [
+        "Anglesey",
+        "Ynys Môn"
+    ],
+    [
+        "Anglesey",
+        "Ynys Môn"
+    ],
+    [
+        "Applecross",
+        "A'Chomraich"
+    ],
+    [
+        "Applecross",
+        "AChomraich"
+    ],
+    [
+        "Ardvasar",
+        "Àird a Bhàsair"
+    ],
+    [
+        "Ardvasar",
+        "Àird a Bhàsair"
+    ],
+    [
+        "Arinagour",
+        "Àirigh na Gobhar"
+    ],
+    [
+        "Arinagour",
+        "Àirigh na Gobhar"
+    ],
+    [
+        "Bala Lake",
+        "Llyn Tegid"
+    ],
+    [
+        "Bala Lake",
+        "Llyn Tegid"
+    ],
+    [
+        "Balivanich",
+        "Baile a Mhanaich"
+    ],
+    [
+        "Balivanich",
+        "Baile a Mhanaich"
+    ],
+    [
+        "Ballygrant",
+        "Baile a Ghràna"
+    ],
+    [
+        "Ballygrant",
+        "Baile a Ghràna"
+    ],
+    [
+        "Bardsey Island",
+        "Ynys Enlli"
+    ],
+    [
+        "Bardsey Island",
+        "Ynys Enlli"
+    ],
+    [
+        "Barmouth",
+        "Abermaw"
+    ],
+    [
+        "Barmouth",
+        "Abermaw"
+    ],
+    [
+        "Barra",
+        "Barraigh"
+    ],
+    [
+        "Barra",
+        "Barraigh"
+    ],
+    [
+        "Barvas",
+        "Barabhas"
+    ],
+    [
+        "Barvas",
+        "Barabhas"
+    ],
+    [
+        "Bayble",
+        "Pabail"
+    ],
+    [
+        "Bayble",
+        "Pabail"
+    ],
+    [
+        "Bearsden",
+        "Cille Phàdraig Ùr"
+    ],
+    [
+        "Bearsden",
+        "Cille Phàdraig Ùr"
+    ],
+    [
+        "Beauly",
+        "A'Mhanachainn"
+    ],
+    [
+        "Beauly",
+        "AMhanachainn"
+    ],
+    [
+        "Beaumaris",
+        "Biwmaris"
+    ],
+    [
+        "Beaumaris",
+        "Biwmaris"
+    ],
+    [
+        "Benbecula",
+        "Beinn na Fadhla"
+    ],
+    [
+        "Benbecula",
+        "Beinn na Fadhla"
+    ],
+    [
+        "Bernisdale",
+        "Beàrnasdal"
+    ],
+    [
+        "Bernisdale",
+        "Beàrnasdal"
+    ],
+    [
+        "Bishopbriggs",
+        "Coille Dobhair"
+    ],
+    [
+        "Bishopbriggs",
+        "Coille Dobhair"
+    ],
+    [
+        "Bonvilston",
+        "Tresimwn"
+    ],
+    [
+        "Bonvilston",
+        "Tresimwn"
+    ],
+    [
+        "Borrowstounness (Bo'ness)",
+        "Ceann an Fhàil"
+    ],
+    [
+        "Borrowstounness Boness",
+        "Ceann an Fhàil"
+    ],
+    [
+        "Bowmore",
+        "Bogh Mòr"
+    ],
+    [
+        "Bowmore",
+        "Bogh Mòr"
+    ],
+    [
+        "Bracadale",
+        "Bracadal"
+    ],
+    [
+        "Bracadale",
+        "Bracadal"
+    ],
+    [
+        "Brecknockshire",
+        "Brycheiniog"
+    ],
+    [
+        "Brecknockshire",
+        "Brycheiniog"
+    ],
+    [
+        "Brecon",
+        "Aberhonddu"
+    ],
+    [
+        "Brecon",
+        "Aberhonddu"
+    ],
+    [
+        "Brecon Beacons",
+        "Bannau Brycheiniog"
+    ],
+    [
+        "Brecon Beacons",
+        "Bannau Brycheiniog"
+    ],
+    [
+        "Bridgend (Scotland)",
+        "Beul an Àtha"
+    ],
+    [
+        "Bridgend Scotland",
+        "Beul an Àtha"
+    ],
+    [
+        "Bridgend (Wales)",
+        "Pen-y-bont ar Ogwr"
+    ],
+    [
+        "Bridgend Wales",
+        "Penybont ar Ogwr"
+    ],
+    [
+        "Breasclete",
+        "Breascleit"
+    ],
+    [
+        "Breasclete",
+        "Breascleit"
+    ],
+    [
+        "Broadford",
+        "An t-Àth Leathann"
+    ],
+    [
+        "Broadford",
+        "An tÀth Leathann"
+    ],
+    [
+        "Buckley",
+        "Bwcle"
+    ],
+    [
+        "Buckley",
+        "Bwcle"
+    ],
+    [
+        "Builth Wells",
+        "Llanfair-ym-Muallt"
+    ],
+    [
+        "Builth Wells",
+        "LlanfairymMuallt"
+    ],
+    [
+        "Caerleon",
+        "Caerllion"
+    ],
+    [
+        "Caerleon",
+        "Caerllion"
+    ],
+    [
+        "Ca(e)rnavon",
+        "Caernarfon"
+    ],
+    [
+        "Caernavon",
+        "Caernarfon"
+    ],
+    [
+        "Cairngorms",
+        "Am Monadh Ruadh"
+    ],
+    [
+        "Cairngorms",
+        "Am Monadh Ruadh"
+    ],
+    [
+        "Cairnryan",
+        "Machair An Sgithich, Cairn Rioghainne"
+    ],
+    [
+        "Cairnryan",
+        "Machair An Sgithich Cairn Rioghainne"
+    ],
+    [
+        "Callinish",
+        "Calanais"
+    ],
+    [
+        "Callinish",
+        "Calanais"
+    ],
+    [
+        "Caldey Island",
+        "Ynys Bŷr"
+    ],
+    [
+        "Caldey Island",
+        "Ynys Bŷr"
+    ],
+    [
+        "Calgary",
+        "Calgarraidh"
+    ],
+    [
+        "Calgary",
+        "Calgarraidh"
+    ],
+    [
+        "Camastianavaig",
+        "Camas Dìonabhaig"
+    ],
+    [
+        "Camastianavaig",
+        "Camas Dìonabhaig"
+    ],
+    [
+        "Campbeltown",
+        "Ceann Loch Chille Chiaran"
+    ],
+    [
+        "Campbeltown",
+        "Ceann Loch Chille Chiaran"
+    ],
+    [
+        "Cardiff",
+        "Caerdydd"
+    ],
+    [
+        "Cardiff",
+        "Caerdydd"
+    ],
+    [
+        "Cardigan",
+        "Aberteifi"
+    ],
+    [
+        "Cardigan",
+        "Aberteifi"
+    ],
+    [
+        "Carinish",
+        "Càirinis"
+    ],
+    [
+        "Carinish",
+        "Càirinis"
+    ],
+    [
+        "Carloway",
+        "Càrlabhag"
+    ],
+    [
+        "Carloway",
+        "Càrlabhag"
+    ],
+    [
+        "Carmarthen",
+        "Caerfyddin"
+    ],
+    [
+        "Carmarthen",
+        "Caerfyddin"
+    ],
+    [
+        "Castlebay",
+        "Bàgh a Chaisteal"
+    ],
+    [
+        "Castlebay",
+        "Bàgh a Chaisteal"
+    ],
+    [
+        "Cardiganshire",
+        "Ceredigion"
+    ],
+    [
+        "Cardiganshire",
+        "Ceredigion"
+    ],
+    [
+        "Chepstow",
+        "Cas-gwent"
+    ],
+    [
+        "Chepstow",
+        "Casgwent"
+    ],
+    [
+        "Chirk",
+        "Y Waun"
+    ],
+    [
+        "Chirk",
+        "Y Waun"
+    ],
+    [
+        "Cleadale",
+        "Clèadail"
+    ],
+    [
+        "Cleadale",
+        "Clèadail"
+    ],
+    [
+        "Coll",
+        "Cola"
+    ],
+    [
+        "Coll",
+        "Cola"
+    ],
+    [
+        "Colonsay",
+        "Colbhasa"
+    ],
+    [
+        "Colonsay",
+        "Colbhasa"
+    ],
+    [
+        "Conway",
+        "Conwy"
+    ],
+    [
+        "Conway",
+        "Conwy"
+    ],
+    [
+        "Cowbridge",
+        "Y Bont-faen"
+    ],
+    [
+        "Cowbridge",
+        "Y Bontfaen"
+    ],
+    [
+        "Craighouse",
+        "Taigh na Creige"
+    ],
+    [
+        "Craighouse",
+        "Taigh na Creige"
+    ],
+    [
+        "Craignure",
+        "Craig an Iobhar"
+    ],
+    [
+        "Craignure",
+        "Craig an Iobhar"
+    ],
+    [
+        "Daliburgh",
+        "Dalabrog"
+    ],
+    [
+        "Daliburgh",
+        "Dalabrog"
+    ],
+    [
+        "Denbigh",
+        "Dinbych"
+    ],
+    [
+        "Denbigh",
+        "Dinbych"
+    ],
+    [
+        "Devil's Bridge",
+        "Pontarfynach"
+    ],
+    [
+        "Devils Bridge",
+        "Pontarfynach"
+    ],
+    [
+        "Dingwall",
+        "Inbhir Pheofharain"
+    ],
+    [
+        "Dingwall",
+        "Inbhir Pheofharain"
+    ],
+    [
+        "Dolgelley",
+        "Dolgellau"
+    ],
+    [
+        "Dolgelley",
+        "Dolgellau"
+    ],
+    [
+        "Dufftown",
+        "Baile Bhainidh"
+    ],
+    [
+        "Dufftown",
+        "Baile Bhainidh"
+    ],
+    [
+        "Dunvegan",
+        "Dùn Bheagain"
+    ],
+    [
+        "Dunvegan",
+        "Dùn Bheagain"
+    ],
+    [
+        "Ebbw Vale",
+        "Glyn Ebwy"
+    ],
+    [
+        "Ebbw Vale",
+        "Glyn Ebwy"
+    ],
+    [
+        "Edinbane",
+        "An t-Aodann Bàn"
+    ],
+    [
+        "Edinbane",
+        "An tAodann Bàn"
+    ],
+    [
+        "Eigg",
+        "Eige"
+    ],
+    [
+        "Eigg",
+        "Eige"
+    ],
+    [
+        "Elgol",
+        "Ealaghol"
+    ],
+    [
+        "Elgol",
+        "Ealaghol"
+    ],
+    [
+        "Eriskay",
+        "Èirisgeigh"
+    ],
+    [
+        "Eriskay",
+        "Èirisgeigh"
+    ],
+    [
+        "Fishguard",
+        "Abergwaun"
+    ],
+    [
+        "Fishguard",
+        "Abergwaun"
+    ],
+    [
+        "Flint",
+        "Y Fflint"
+    ],
+    [
+        "Flint",
+        "Y Fflint"
+    ],
+    [
+        "Flowerdale",
+        "Am Baile Mòr"
+    ],
+    [
+        "Flowerdale",
+        "Am Baile Mòr"
+    ],
+    [
+        "Fort Augustus",
+        "Cille Chuimein"
+    ],
+    [
+        "Fort Augustus",
+        "Cille Chuimein"
+    ],
+    [
+        "Fort William",
+        "An Gearasdan"
+    ],
+    [
+        "Fort William",
+        "An Gearasdan"
+    ],
+    [
+        "Fortrose",
+        "A' Chananaich"
+    ],
+    [
+        "Fortrose",
+        "A Chananaich"
+    ],
+    [
+        "Glamorgan",
+        "Morgannwg"
+    ],
+    [
+        "Glamorgan",
+        "Morgannwg"
+    ],
+    [
+        "Goodwick",
+        "Wdig"
+    ],
+    [
+        "Goodwick",
+        "Wdig"
+    ],
+    [
+        "Gower Peninsula",
+        "Gŵyr"
+    ],
+    [
+        "Gower Peninsula",
+        "Gŵyr"
+    ],
+    [
+        "Great Orme",
+        "Y Gogarth"
+    ],
+    [
+        "Great Orme",
+        "Y Gogarth"
+    ],
+    [
+        "Harlosh",
+        "Hèarrlois"
+    ],
+    [
+        "Harlosh",
+        "Hèarrlois"
+    ],
+    [
+        "Harris",
+        "Na Hearadh"
+    ],
+    [
+        "Harris",
+        "Na Hearadh"
+    ],
+    [
+        "Haverfordwest",
+        "Hwlfford"
+    ],
+    [
+        "Haverfordwest",
+        "Hwlfford"
+    ],
+    [
+        "Hawarden",
+        "Penarlâg"
+    ],
+    [
+        "Hawarden",
+        "Penarlâg"
+    ],
+    [
+        "Hay-on-Wye",
+        "Y Gelli Gandryll"
+    ],
+    [
+        "HayonWye",
+        "Y Gelli Gandryll"
+    ],
+    [
+        "Holyhead",
+        "Caergybi"
+    ],
+    [
+        "Holyhead",
+        "Caergybi"
+    ],
+    [
+        "Holywell",
+        "Treffynnon"
+    ],
+    [
+        "Holywell",
+        "Treffynnon"
+    ],
+    [
+        "Holywood, Dumfriesshire",
+        "Doire Chonaill"
+    ],
+    [
+        "Holywood Dumfriesshire",
+        "Doire Chonaill"
+    ],
+    [
+        "Howmore",
+        "Tobha Mòr"
+    ],
+    [
+        "Howmore",
+        "Tobha Mòr"
+    ],
+    [
+        "Iona",
+        "Ì Chaluim Chille"
+    ],
+    [
+        "Iona",
+        "Ì Chaluim Chille"
+    ],
+    [
+        "Islay",
+        "Ìle"
+    ],
+    [
+        "Islay",
+        "Ìle"
+    ],
+    [
+        "Isle of Lewis",
+        "Leodhas"
+    ],
+    [
+        "Isle of Lewis",
+        "Leodhas"
+    ],
+    [
+        "Isle of Mull",
+        "Muile"
+    ],
+    [
+        "Isle of Mull",
+        "Muile"
+    ],
+    [
+        "Isle of Skye",
+        "Sgitheneach"
+    ],
+    [
+        "Isle of Skye",
+        "Sgitheneach"
+    ],
+    [
+        "Isleornsay",
+        "Eilean Iarmain"
+    ],
+    [
+        "Isleornsay",
+        "Eilean Iarmain"
+    ],
+    [
+        "Jura",
+        "Diùra"
+    ],
+    [
+        "Jura",
+        "Diùra"
+    ],
+    [
+        "Kincardineshire",
+        "A' Mhaorainn"
+    ],
+    [
+        "Kincardineshire",
+        "A Mhaorainn"
+    ],
+    [
+        "Knighton",
+        "Tref-y-clawdd"
+    ],
+    [
+        "Knighton",
+        "Trefyclawdd"
+    ],
+    [
+        "Kyleakin",
+        "Caol Àcain"
+    ],
+    [
+        "Kyleakin",
+        "Caol Àcain"
+    ],
+    [
+        "Kylerhea",
+        "Caol Reatha"
+    ],
+    [
+        "Kylerhea",
+        "Caol Reatha"
+    ],
+    [
+        "Lampeter",
+        "Llanbedr Pont Steffan"
+    ],
+    [
+        "Lampeter",
+        "Llanbedr Pont Steffan"
+    ],
+    [
+        "Laurencekirk",
+        "Coinmheadh"
+    ],
+    [
+        "Laurencekirk",
+        "Coinmheadh"
+    ],
+    [
+        "Laxdale",
+        "Lacadal"
+    ],
+    [
+        "Laxdale",
+        "Lacadal"
+    ],
+    [
+        "Leurbost",
+        "Liùrbost"
+    ],
+    [
+        "Leurbost",
+        "Liùrbost"
+    ],
+    [
+        "Leverburgh",
+        "An t-Òbh"
+    ],
+    [
+        "Leverburgh",
+        "An tÒbh"
+    ],
+    [
+        "Linlithgow",
+        "Gleann Iucha"
+    ],
+    [
+        "Linlithgow",
+        "Gleann Iucha"
+    ],
+    [
+        "Llandovery",
+        "Llanymddyfri"
+    ],
+    [
+        "Llandovery",
+        "Llanymddyfri"
+    ],
+    [
+        "Llantwit Major",
+        "Llanilltud Fawr"
+    ],
+    [
+        "Llantwit Major",
+        "Llanilltud Fawr"
+    ],
+    [
+        "Lochboisdale",
+        "Loch Baghasdail"
+    ],
+    [
+        "Lochboisdale",
+        "Loch Baghasdail"
+    ],
+    [
+        "Lochmaddy",
+        "Loch nam Madadh"
+    ],
+    [
+        "Lochmaddy",
+        "Loch nam Madadh"
+    ],
+    [
+        "Lochnagar",
+        "Beinn Chìochan"
+    ],
+    [
+        "Lochnagar",
+        "Beinn Chìochan"
+    ],
+    [
+        "Menai Bridge",
+        "Porthawethwy"
+    ],
+    [
+        "Menai Bridge",
+        "Porthawethwy"
+    ],
+    [
+        "Menai Strait",
+        "Afon Menai"
+    ],
+    [
+        "Menai Strait",
+        "Afon Menai"
+    ],
+    [
+        "Merionethshire",
+        "Meirionydd"
+    ],
+    [
+        "Merionethshire",
+        "Meirionydd"
+    ],
+    [
+        "Milford Haven",
+        "Aberdaugleddau"
+    ],
+    [
+        "Milford Haven",
+        "Aberdaugleddau"
+    ],
+    [
+        "Milovaig",
+        "Miolabhaig"
+    ],
+    [
+        "Milovaig",
+        "Miolabhaig"
+    ],
+    [
+        "Mold",
+        "Yr Wyddgrug"
+    ],
+    [
+        "Mold",
+        "Yr Wyddgrug"
+    ],
+    [
+        "Monmouth",
+        "Trefynwy"
+    ],
+    [
+        "Monmouth",
+        "Trefynwy"
+    ],
+    [
+        "Monmouthshire",
+        "Sir Fynwy"
+    ],
+    [
+        "Monmouthshire",
+        "Sir Fynwy"
+    ],
+    [
+        "Montgomeryshire",
+        "Trefaldwyn"
+    ],
+    [
+        "Montgomeryshire",
+        "Trefaldwyn"
+    ],
+    [
+        "Mountain Ash",
+        "Aberpennar"
+    ],
+    [
+        "Mountain Ash",
+        "Aberpennar"
+    ],
+    [
+        "Muck",
+        "Muc"
+    ],
+    [
+        "Muck",
+        "Muc"
+    ],
+    [
+        "Neath",
+        "Castell-nedd"
+    ],
+    [
+        "Neath",
+        "Castellnedd"
+    ],
+    [
+        "Newbridge",
+        "Trecelyn"
+    ],
+    [
+        "Newbridge",
+        "Trecelyn"
+    ],
+    [
+        "Newport",
+        "Casnewydd"
+    ],
+    [
+        "Newport",
+        "Casnewydd"
+    ],
+    [
+        "Newtonferry",
+        "Port nan Long"
+    ],
+    [
+        "Newtonferry",
+        "Port nan Long"
+    ],
+    [
+        "Newtown",
+        "Y Drenewydd"
+    ],
+    [
+        "Newtown",
+        "Y Drenewydd"
+    ],
+    [
+        "Northop",
+        "Llaneurgain"
+    ],
+    [
+        "Northop",
+        "Llaneurgain"
+    ],
+    [
+        "Orsay",
+        "Orasaigh"
+    ],
+    [
+        "Orsay",
+        "Orasaigh"
+    ],
+    [
+        "Pembrokeshire",
+        "Penfro"
+    ],
+    [
+        "Pembrokeshire",
+        "Penfro"
+    ],
+    [
+        "Pont Neath Vaughan",
+        "Pontneddfechan"
+    ],
+    [
+        "Pont Neath Vaughan",
+        "Pontneddfechan"
+    ],
+    [
+        "Port Askaig",
+        "Port Asgaig"
+    ],
+    [
+        "Port Askaig",
+        "Port Asgaig"
+    ],
+    [
+        "Port Charlotte",
+        "Port Sgioba"
+    ],
+    [
+        "Port Charlotte",
+        "Port Sgioba"
+    ],
+    [
+        "Port Dinorwic",
+        "Y Felinheli"
+    ],
+    [
+        "Port Dinorwic",
+        "Y Felinheli"
+    ],
+    [
+        "Port Ellen",
+        "Port Ìlain"
+    ],
+    [
+        "Port Ellen",
+        "Port Ìlain"
+    ],
+    [
+        "Port of Ness",
+        "Port Nis"
+    ],
+    [
+        "Port of Ness",
+        "Port Nis"
+    ],
+    [
+        "Portmadoc",
+        "Porthmadog"
+    ],
+    [
+        "Portmadoc",
+        "Porthmadog"
+    ],
+    [
+        "Portnaguran",
+        "Port nan Giùran"
+    ],
+    [
+        "Portnaguran",
+        "Port nan Giùran"
+    ],
+    [
+        "Portnahaven",
+        "Port na-hAbhainn"
+    ],
+    [
+        "Portnahaven",
+        "Port nahAbhainn"
+    ],
+    [
+        "Portree",
+        "Port Righ"
+    ],
+    [
+        "Portree",
+        "Port Righ"
+    ],
+    [
+        "Presteigne",
+        "Llanadras"
+    ],
+    [
+        "Presteigne",
+        "Llanadras"
+    ],
+    [
+        "Puffin Island",
+        "Ynys Seiriol"
+    ],
+    [
+        "Puffin Island",
+        "Ynys Seiriol"
+    ],
+    [
+        "Raasay",
+        "Ratharsair"
+    ],
+    [
+        "Raasay",
+        "Ratharsair"
+    ],
+    [
+        "Radnorshire",
+        "Maesyfed"
+    ],
+    [
+        "Radnorshire",
+        "Maesyfed"
+    ],
+    [
+        "Rhondda Cynon Taf",
+        "Aberpenna"
+    ],
+    [
+        "Rhondda Cynon Taf",
+        "Aberpenna"
+    ],
+    [
+        "Rhymney",
+        "Rhymni"
+    ],
+    [
+        "Rhymney",
+        "Rhymni"
+    ],
+    [
+        "River Forth",
+        "An Abhainn Dubh"
+    ],
+    [
+        "River Forth",
+        "An Abhainn Dubh"
+    ],
+    [
+        "River Severn",
+        "Hafren"
+    ],
+    [
+        "River Severn",
+        "Hafren"
+    ],
+    [
+        "River Towy",
+        "Afon Tywi"
+    ],
+    [
+        "River Towy",
+        "Afon Tywi"
+    ],
+    [
+        "River Usk",
+        "Afon Wysg"
+    ],
+    [
+        "River Usk",
+        "Afon Wysg"
+    ],
+    [
+        "River Wye",
+        "Afon Gwy"
+    ],
+    [
+        "River Wye",
+        "Afon Gwy"
+    ],
+    [
+        "Rodel",
+        "Roghadal"
+    ],
+    [
+        "Rodel",
+        "Roghadal"
+    ],
+    [
+        "Rothesay",
+        "Baile Bhòid"
+    ],
+    [
+        "Rothesay",
+        "Baile Bhòid"
+    ],
+    [
+        "Saint Asaph",
+        "Llanelwy"
+    ],
+    [
+        "Saint Asaph",
+        "Llanelwy"
+    ],
+    [
+        "Saint David's",
+        "Tyddewi"
+    ],
+    [
+        "Saint Davids",
+        "Tyddewi"
+    ],
+    [
+        "Saint Kilda",
+        "Hiort"
+    ],
+    [
+        "Saint Kilda",
+        "Hiort"
+    ],
+    [
+        "Salen",
+        "An t-Sàilean"
+    ],
+    [
+        "Salen",
+        "An tSàilean"
+    ],
+    [
+        "Scalpay",
+        "Sgalpaigh"
+    ],
+    [
+        "Scalpay",
+        "Sgalpaigh"
+    ],
+    [
+        "Scarinish",
+        "Sgarainis"
+    ],
+    [
+        "Scarinish",
+        "Sgarainis"
+    ],
+    [
+        "Scotland",
+        "Alba"
+    ],
+    [
+        "Scotland",
+        "Alba"
+    ],
+    [
+        "Skigersta",
+        "Sgiogarstaigh"
+    ],
+    [
+        "Skigersta",
+        "Sgiogarstaigh"
+    ],
+    [
+        "Snowdon",
+        "Yr Wyddfa"
+    ],
+    [
+        "Snowdon",
+        "Yr Wyddfa"
+    ],
+    [
+        "Snowdonia",
+        "Eryri"
+    ],
+    [
+        "Snowdonia",
+        "Eryri"
+    ],
+    [
+        "Soay",
+        "Sòdhaigh"
+    ],
+    [
+        "Soay",
+        "Sòdhaigh"
+    ],
+    [
+        "South Queensferry",
+        "Cas Chaolais"
+    ],
+    [
+        "South Queensferry",
+        "Cas Chaolais"
+    ],
+    [
+        "Staffa",
+        "Stafa"
+    ],
+    [
+        "Staffa",
+        "Stafa"
+    ],
+    [
+        "Stein",
+        "Steinn"
+    ],
+    [
+        "Stein",
+        "Steinn"
+    ],
+    [
+        "Stoneybridge",
+        "Staoinebrig"
+    ],
+    [
+        "Stoneybridge",
+        "Staoinebrig"
+    ],
+    [
+        "Stornoway",
+        "Steòrnabhagh"
+    ],
+    [
+        "Stornoway",
+        "Steòrnabhagh"
+    ],
+    [
+        "Swansea",
+        "Abertawe"
+    ],
+    [
+        "Swansea",
+        "Abertawe"
+    ],
+    [
+        "Tain",
+        "Baile Dubhthaich"
+    ],
+    [
+        "Tain",
+        "Baile Dubhthaich"
+    ],
+    [
+        "Tarbert",
+        "Tairbeart"
+    ],
+    [
+        "Tarbert",
+        "Tairbeart"
+    ],
+    [
+        "Tarskavaig",
+        "Tarsgabhaig"
+    ],
+    [
+        "Tarskavaig",
+        "Tarsgabhaig"
+    ],
+    [
+        "Tenby",
+        "Dynbich-y-pysgod"
+    ],
+    [
+        "Tenby",
+        "Dynbichypysgod"
+    ],
+    [
+        "The Cobbler",
+        "Beinn Artair"
+    ],
+    [
+        "The Cobbler",
+        "Beinn Artair"
+    ],
+    [
+        "Tigharry",
+        "Taigh a'Gherraidh"
+    ],
+    [
+        "Tigharry",
+        "Taigh aGherraidh"
+    ],
+    [
+        "Tintern",
+        "Dindyrn"
+    ],
+    [
+        "Tintern",
+        "Dindyrn"
+    ],
+    [
+        "Tiree",
+        "Tiriodh"
+    ],
+    [
+        "Tiree",
+        "Tiriodh"
+    ],
+    [
+        "Tobermory",
+        "Tobar Mhoire"
+    ],
+    [
+        "Tobermory",
+        "Tobar Mhoire"
+    ],
+    [
+        "Torrin",
+        "Na Torrain"
+    ],
+    [
+        "Torrin",
+        "Na Torrain"
+    ],
+    [
+        "Troon",
+        "An Truthail"
+    ],
+    [
+        "Troon",
+        "An Truthail"
+    ],
+    [
+        "Towyn",
+        "Tywyn"
+    ],
+    [
+        "Towyn",
+        "Tywyn"
+    ],
+    [
+        "Uist",
+        "Uibhist"
+    ],
+    [
+        "Uist",
+        "Uibhist"
+    ],
+    [
+        "Ulva",
+        "Ulbha"
+    ],
+    [
+        "Ulva",
+        "Ulbha"
+    ],
+    [
+        "Usk",
+        "Brynbuga"
+    ],
+    [
+        "Usk",
+        "Brynbuga"
+    ],
+    [
+        "Vale of Glamorgan",
+        "Bro Morgannwg"
+    ],
+    [
+        "Vale of Glamorgan",
+        "Bro Morgannwg"
+    ],
+    [
+        "Vatersay",
+        "Bhatarsaigh"
+    ],
+    [
+        "Vatersay",
+        "Bhatarsaigh"
+    ],
+    [
+        "Wishaw",
+        "Camasneachdain"
+    ],
+    [
+        "Wishaw",
+        "Camasneachdain"
+    ],
+    [
+        "Wales",
+        "Cymru"
+    ],
+    [
+        "Wales",
+        "Cymru"
+    ],
+    [
+        "Welshpool",
+        "Y Trallwng"
+    ],
+    [
+        "Welshpool",
+        "Y Trallwng"
+    ],
+    [
+        "Whitland",
+        "Hendy-gwyn"
+    ],
+    [
+        "Whitland",
+        "Hendygwyn"
+    ],
+    [
+        "Wrexham",
+        "Wrecsam"
+    ],
+    [
+        "Wrexham",
+        "Wrecsam"
+    ],
+    [
+        "Allegheny River",
+        "Ohi:'i:o"
+    ],
+    [
+        "Allegheny River",
+        "Ohiio"
+    ],
+    [
+        "Mount McKinley",
+        "Denali"
+    ],
+    [
+        "Mount McKinley",
+        "Denali"
+    ],
+    [
+        "Mount Rainier",
+        "Tacoma"
+    ],
+    [
+        "Mount Rainier",
+        "Tacoma"
+    ],
+    [
+        "Red House",
+        "Joë'hesta"
+    ],
+    [
+        "Red House",
+        "Joëhesta"
+    ],
+    [
+        "Annamite Range",
+        "Dãy Trường Sơn"
+    ],
+    [
+        "Annamite Range",
+        "Dãy Trường Sơn"
+    ],
+    [
+        "Black River",
+        "Sông Đà"
+    ],
+    [
+        "Black River",
+        "Sông Đà"
+    ],
+    [
+        "Cholon",
+        "Chợ Lớn"
+    ],
+    [
+        "Cholon",
+        "Chợ Lớn"
+    ],
+    [
+        "Faifo",
+        "Hội An"
+    ],
+    [
+        "Faifo",
+        "Hội An"
+    ],
+    [
+        "Haiphong",
+        "Hải Phòng"
+    ],
+    [
+        "Haiphong",
+        "Hải Phòng"
+    ],
+    [
+        "Ha Long Bay",
+        "Vịnh Hạ Long"
+    ],
+    [
+        "Ha Long Bay",
+        "Vịnh Hạ Long"
+    ],
+    [
+        "Hanoi",
+        "Hà Nội"
+    ],
+    [
+        "Hanoi",
+        "Hà Nội"
+    ],
+    [
+        "Marble Mountains",
+        "Ngũ Hành Sơn"
+    ],
+    [
+        "Marble Mountains",
+        "Ngũ Hành Sơn"
+    ],
+    [
+        "Mekong River",
+        "Sông Mê Kông / Sông Cửu Long"
+    ],
+    [
+        "Mekong River",
+        "Sông Mê Kông  Sông Cửu Long"
+    ],
+    [
+        "Perfume River",
+        "Sông Hương"
+    ],
+    [
+        "Perfume River",
+        "Sông Hương"
+    ],
+    [
+        "Red River",
+        "Sông Hồng"
+    ],
+    [
+        "Red River",
+        "Sông Hồng"
+    ],
+    [
+        "West Lake",
+        "Hồ Tây"
+    ],
+    [
+        "West Lake",
+        "Hồ Tây"
+    ]
+]

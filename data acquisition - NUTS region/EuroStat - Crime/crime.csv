@@ -1,0 +1,897 @@
+city_name;city_code;value;measurement_date;name;unit
+Burgenland (AT);AT11;2;2008;Intentional homicide;1
+Burgenland (AT);AT11;0;2009;Intentional homicide;1
+Burgenland (AT);AT11;5;2010;Intentional homicide;1
+Burgenland (AT);AT11;22;2008;Robbery;1
+Burgenland (AT);AT11;28;2009;Robbery;1
+Burgenland (AT);AT11;19;2010;Robbery;1
+Burgenland (AT);AT11;241;2008;Burglary of private residential premises;1
+Burgenland (AT);AT11;334;2009;Burglary of private residential premises;1
+Burgenland (AT);AT11;223;2010;Burglary of private residential premises;1
+Burgenland (AT);AT11;137;2008;Theft of a motorized land vehicle;1
+Burgenland (AT);AT11;136;2009;Theft of a motorized land vehicle;1
+Burgenland (AT);AT11;75;2010;Theft of a motorized land vehicle;1
+Wien;AT13;15;2008;Intentional homicide;1
+Wien;AT13;19;2009;Intentional homicide;1
+Wien;AT13;17;2010;Intentional homicide;1
+Wien;AT13;3616;2008;Robbery;1
+Wien;AT13;3330;2009;Robbery;1
+Wien;AT13;3123;2010;Robbery;1
+Wien;AT13;10269;2008;Burglary of private residential premises;1
+Wien;AT13;11848;2009;Burglary of private residential premises;1
+Wien;AT13;9319;2010;Burglary of private residential premises;1
+Wien;AT13;3821;2008;Theft of a motorized land vehicle;1
+Wien;AT13;4440;2009;Theft of a motorized land vehicle;1
+Wien;AT13;2937;2010;Theft of a motorized land vehicle;1
+Kärnten;AT21;1;2008;Intentional homicide;1
+Kärnten;AT21;4;2009;Intentional homicide;1
+Kärnten;AT21;3;2010;Intentional homicide;1
+Kärnten;AT21;108;2008;Robbery;1
+Kärnten;AT21;90;2009;Robbery;1
+Kärnten;AT21;90;2010;Robbery;1
+Kärnten;AT21;462;2008;Burglary of private residential premises;1
+Kärnten;AT21;544;2009;Burglary of private residential premises;1
+Kärnten;AT21;507;2010;Burglary of private residential premises;1
+Kärnten;AT21;358;2008;Theft of a motorized land vehicle;1
+Kärnten;AT21;323;2009;Theft of a motorized land vehicle;1
+Kärnten;AT21;180;2010;Theft of a motorized land vehicle;1
+Salzburg;AT32;3;2008;Intentional homicide;1
+Salzburg;AT32;5;2009;Intentional homicide;1
+Salzburg;AT32;4;2010;Intentional homicide;1
+Salzburg;AT32;146;2008;Robbery;1
+Salzburg;AT32;145;2009;Robbery;1
+Salzburg;AT32;120;2010;Robbery;1
+Salzburg;AT32;568;2008;Burglary of private residential premises;1
+Salzburg;AT32;660;2009;Burglary of private residential premises;1
+Salzburg;AT32;438;2010;Burglary of private residential premises;1
+Salzburg;AT32;400;2008;Theft of a motorized land vehicle;1
+Salzburg;AT32;356;2009;Theft of a motorized land vehicle;1
+Salzburg;AT32;158;2010;Theft of a motorized land vehicle;1
+Vorarlberg;AT34;2;2008;Intentional homicide;1
+Vorarlberg;AT34;2;2009;Intentional homicide;1
+Vorarlberg;AT34;0;2010;Intentional homicide;1
+Vorarlberg;AT34;44;2008;Robbery;1
+Vorarlberg;AT34;74;2009;Robbery;1
+Vorarlberg;AT34;70;2010;Robbery;1
+Vorarlberg;AT34;344;2008;Burglary of private residential premises;1
+Vorarlberg;AT34;277;2009;Burglary of private residential premises;1
+Vorarlberg;AT34;191;2010;Burglary of private residential premises;1
+Vorarlberg;AT34;189;2008;Theft of a motorized land vehicle;1
+Vorarlberg;AT34;149;2009;Theft of a motorized land vehicle;1
+Vorarlberg;AT34;70;2010;Theft of a motorized land vehicle;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;44;2008;Intentional homicide;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;33;2009;Intentional homicide;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;30;2010;Intentional homicide;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;8701;2008;Robbery;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;8398;2009;Robbery;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;8726;2010;Robbery;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;9676;2008;Burglary of private residential premises;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;11286;2009;Burglary of private residential premises;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;11606;2010;Burglary of private residential premises;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;3582;2008;Theft of a motorized land vehicle;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;3479;2009;Theft of a motorized land vehicle;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;3130;2010;Theft of a motorized land vehicle;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;44;2008;Intentional homicide;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;33;2009;Intentional homicide;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;30;2010;Intentional homicide;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;8701;2008;Robbery;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;8398;2009;Robbery;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;8726;2010;Robbery;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;9676;2008;Burglary of private residential premises;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;11286;2009;Burglary of private residential premises;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;11606;2010;Burglary of private residential premises;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;3582;2008;Theft of a motorized land vehicle;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;3479;2009;Theft of a motorized land vehicle;1
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;3130;2010;Theft of a motorized land vehicle;1
+Prov. Antwerpen;BE21;38;2008;Intentional homicide;1
+Prov. Antwerpen;BE21;36;2009;Intentional homicide;1
+Prov. Antwerpen;BE21;30;2010;Intentional homicide;1
+Prov. Antwerpen;BE21;3281;2008;Robbery;1
+Prov. Antwerpen;BE21;3604;2009;Robbery;1
+Prov. Antwerpen;BE21;3681;2010;Robbery;1
+Prov. Antwerpen;BE21;10177;2008;Burglary of private residential premises;1
+Prov. Antwerpen;BE21;10802;2009;Burglary of private residential premises;1
+Prov. Antwerpen;BE21;10860;2010;Burglary of private residential premises;1
+Prov. Antwerpen;BE21;2758;2008;Theft of a motorized land vehicle;1
+Prov. Antwerpen;BE21;2818;2009;Theft of a motorized land vehicle;1
+Prov. Antwerpen;BE21;2673;2010;Theft of a motorized land vehicle;1
+Prov. Limburg (BE);BE22;16;2008;Intentional homicide;1
+Prov. Limburg (BE);BE22;12;2009;Intentional homicide;1
+Prov. Limburg (BE);BE22;11;2010;Intentional homicide;1
+Prov. Limburg (BE);BE22;594;2008;Robbery;1
+Prov. Limburg (BE);BE22;629;2009;Robbery;1
+Prov. Limburg (BE);BE22;566;2010;Robbery;1
+Prov. Limburg (BE);BE22;3332;2008;Burglary of private residential premises;1
+Prov. Limburg (BE);BE22;3055;2009;Burglary of private residential premises;1
+Prov. Limburg (BE);BE22;3092;2010;Burglary of private residential premises;1
+Prov. Limburg (BE);BE22;1165;2008;Theft of a motorized land vehicle;1
+Prov. Limburg (BE);BE22;1018;2009;Theft of a motorized land vehicle;1
+Prov. Limburg (BE);BE22;944;2010;Theft of a motorized land vehicle;1
+Prov. Oost-Vlaanderen;BE23;13;2008;Intentional homicide;1
+Prov. Oost-Vlaanderen;BE23;26;2009;Intentional homicide;1
+Prov. Oost-Vlaanderen;BE23;8;2010;Intentional homicide;1
+Prov. Oost-Vlaanderen;BE23;1457;2008;Robbery;1
+Prov. Oost-Vlaanderen;BE23;1453;2009;Robbery;1
+Prov. Oost-Vlaanderen;BE23;1488;2010;Robbery;1
+Prov. Oost-Vlaanderen;BE23;4733;2008;Burglary of private residential premises;1
+Prov. Oost-Vlaanderen;BE23;5083;2009;Burglary of private residential premises;1
+Prov. Oost-Vlaanderen;BE23;5642;2010;Burglary of private residential premises;1
+Prov. Oost-Vlaanderen;BE23;1643;2008;Theft of a motorized land vehicle;1
+Prov. Oost-Vlaanderen;BE23;1483;2009;Theft of a motorized land vehicle;1
+Prov. Oost-Vlaanderen;BE23;1520;2010;Theft of a motorized land vehicle;1
+Prov. Vlaams-Brabant;BE24;6;2008;Intentional homicide;1
+Prov. Vlaams-Brabant;BE24;5;2009;Intentional homicide;1
+Prov. Vlaams-Brabant;BE24;10;2010;Intentional homicide;1
+Prov. Vlaams-Brabant;BE24;928;2008;Robbery;1
+Prov. Vlaams-Brabant;BE24;1061;2009;Robbery;1
+Prov. Vlaams-Brabant;BE24;997;2010;Robbery;1
+Prov. Vlaams-Brabant;BE24;5726;2008;Burglary of private residential premises;1
+Prov. Vlaams-Brabant;BE24;6546;2009;Burglary of private residential premises;1
+Prov. Vlaams-Brabant;BE24;6084;2010;Burglary of private residential premises;1
+Prov. Vlaams-Brabant;BE24;1434;2008;Theft of a motorized land vehicle;1
+Prov. Vlaams-Brabant;BE24;1397;2009;Theft of a motorized land vehicle;1
+Prov. Vlaams-Brabant;BE24;1214;2010;Theft of a motorized land vehicle;1
+Prov. West-Vlaanderen;BE25;10;2008;Intentional homicide;1
+Prov. West-Vlaanderen;BE25;9;2009;Intentional homicide;1
+Prov. West-Vlaanderen;BE25;12;2010;Intentional homicide;1
+Prov. West-Vlaanderen;BE25;894;2008;Robbery;1
+Prov. West-Vlaanderen;BE25;975;2009;Robbery;1
+Prov. West-Vlaanderen;BE25;891;2010;Robbery;1
+Prov. West-Vlaanderen;BE25;3224;2008;Burglary of private residential premises;1
+Prov. West-Vlaanderen;BE25;3504;2009;Burglary of private residential premises;1
+Prov. West-Vlaanderen;BE25;3376;2010;Burglary of private residential premises;1
+Prov. West-Vlaanderen;BE25;1491;2008;Theft of a motorized land vehicle;1
+Prov. West-Vlaanderen;BE25;1559;2009;Theft of a motorized land vehicle;1
+Prov. West-Vlaanderen;BE25;1397;2010;Theft of a motorized land vehicle;1
+Prov. Brabant wallon;BE31;7;2008;Intentional homicide;1
+Prov. Brabant wallon;BE31;1;2009;Intentional homicide;1
+Prov. Brabant wallon;BE31;10;2010;Intentional homicide;1
+Prov. Brabant wallon;BE31;448;2008;Robbery;1
+Prov. Brabant wallon;BE31;488;2009;Robbery;1
+Prov. Brabant wallon;BE31;434;2010;Robbery;1
+Prov. Brabant wallon;BE31;2467;2008;Burglary of private residential premises;1
+Prov. Brabant wallon;BE31;2458;2009;Burglary of private residential premises;1
+Prov. Brabant wallon;BE31;2334;2010;Burglary of private residential premises;1
+Prov. Brabant wallon;BE31;710;2008;Theft of a motorized land vehicle;1
+Prov. Brabant wallon;BE31;667;2009;Theft of a motorized land vehicle;1
+Prov. Brabant wallon;BE31;577;2010;Theft of a motorized land vehicle;1
+Prov. Hainaut;BE32;29;2008;Intentional homicide;1
+Prov. Hainaut;BE32;24;2009;Intentional homicide;1
+Prov. Hainaut;BE32;30;2010;Intentional homicide;1
+Prov. Hainaut;BE32;3263;2008;Robbery;1
+Prov. Hainaut;BE32;3418;2009;Robbery;1
+Prov. Hainaut;BE32;3266;2010;Robbery;1
+Prov. Hainaut;BE32;11789;2008;Burglary of private residential premises;1
+Prov. Hainaut;BE32;13229;2009;Burglary of private residential premises;1
+Prov. Hainaut;BE32;12435;2010;Burglary of private residential premises;1
+Prov. Hainaut;BE32;5143;2008;Theft of a motorized land vehicle;1
+Prov. Hainaut;BE32;4506;2009;Theft of a motorized land vehicle;1
+Prov. Hainaut;BE32;3942;2010;Theft of a motorized land vehicle;1
+Prov. Liège;BE33;32;2008;Intentional homicide;1
+Prov. Liège;BE33;26;2009;Intentional homicide;1
+Prov. Liège;BE33;28;2010;Intentional homicide;1
+Prov. Liège;BE33;2497;2008;Robbery;1
+Prov. Liège;BE33;2672;2009;Robbery;1
+Prov. Liège;BE33;2907;2010;Robbery;1
+Prov. Liège;BE33;8561;2008;Burglary of private residential premises;1
+Prov. Liège;BE33;9156;2009;Burglary of private residential premises;1
+Prov. Liège;BE33;8696;2010;Burglary of private residential premises;1
+Prov. Liège;BE33;3940;2008;Theft of a motorized land vehicle;1
+Prov. Liège;BE33;3580;2009;Theft of a motorized land vehicle;1
+Prov. Liège;BE33;3223;2010;Theft of a motorized land vehicle;1
+Prov. Luxembourg (BE);BE34;2;2008;Intentional homicide;1
+Prov. Luxembourg (BE);BE34;5;2009;Intentional homicide;1
+Prov. Luxembourg (BE);BE34;6;2010;Intentional homicide;1
+Prov. Luxembourg (BE);BE34;242;2008;Robbery;1
+Prov. Luxembourg (BE);BE34;228;2009;Robbery;1
+Prov. Luxembourg (BE);BE34;228;2010;Robbery;1
+Prov. Luxembourg (BE);BE34;1214;2008;Burglary of private residential premises;1
+Prov. Luxembourg (BE);BE34;1441;2009;Burglary of private residential premises;1
+Prov. Luxembourg (BE);BE34;1219;2010;Burglary of private residential premises;1
+Prov. Luxembourg (BE);BE34;513;2008;Theft of a motorized land vehicle;1
+Prov. Luxembourg (BE);BE34;528;2009;Theft of a motorized land vehicle;1
+Prov. Luxembourg (BE);BE34;413;2010;Theft of a motorized land vehicle;1
+Prov. Namur;BE35;5;2008;Intentional homicide;1
+Prov. Namur;BE35;9;2009;Intentional homicide;1
+Prov. Namur;BE35;9;2010;Intentional homicide;1
+Prov. Namur;BE35;549;2008;Robbery;1
+Prov. Namur;BE35;634;2009;Robbery;1
+Prov. Namur;BE35;619;2010;Robbery;1
+Prov. Namur;BE35;2889;2008;Burglary of private residential premises;1
+Prov. Namur;BE35;2870;2009;Burglary of private residential premises;1
+Prov. Namur;BE35;2954;2010;Burglary of private residential premises;1
+Prov. Namur;BE35;879;2008;Theft of a motorized land vehicle;1
+Prov. Namur;BE35;844;2009;Theft of a motorized land vehicle;1
+Prov. Namur;BE35;783;2010;Theft of a motorized land vehicle;1
+Région lémanique;CH01;11;2009;Intentional homicide;1
+Région lémanique;CH01;10;2010;Intentional homicide;1
+Région lémanique;CH01;1082;2009;Robbery;1
+Région lémanique;CH01;1028;2010;Robbery;1
+Région lémanique;CH01;8662;2009;Burglary of private residential premises;1
+Région lémanique;CH01;8960;2010;Burglary of private residential premises;1
+Région lémanique;CH01;3210;2009;Theft of a motorized land vehicle;1
+Région lémanique;CH01;2831;2010;Theft of a motorized land vehicle;1
+Nordwestschweiz;CH03;11;2009;Intentional homicide;1
+Nordwestschweiz;CH03;6;2010;Intentional homicide;1
+Nordwestschweiz;CH03;295;2009;Robbery;1
+Nordwestschweiz;CH03;330;2010;Robbery;1
+Nordwestschweiz;CH03;2527;2009;Burglary of private residential premises;1
+Nordwestschweiz;CH03;2143;2010;Burglary of private residential premises;1
+Nordwestschweiz;CH03;1319;2009;Theft of a motorized land vehicle;1
+Nordwestschweiz;CH03;1134;2010;Theft of a motorized land vehicle;1
+Zürich;CH04;9;2009;Intentional homicide;1
+Zürich;CH04;14;2010;Intentional homicide;1
+Zürich;CH04;884;2009;Robbery;1
+Zürich;CH04;624;2010;Robbery;1
+Zürich;CH04;6369;2009;Burglary of private residential premises;1
+Zürich;CH04;5365;2010;Burglary of private residential premises;1
+Zürich;CH04;817;2009;Theft of a motorized land vehicle;1
+Zürich;CH04;675;2010;Theft of a motorized land vehicle;1
+Zentralschweiz;CH06;5;2009;Intentional homicide;1
+Zentralschweiz;CH06;3;2010;Intentional homicide;1
+Zentralschweiz;CH06;139;2009;Robbery;1
+Zentralschweiz;CH06;153;2010;Robbery;1
+Zentralschweiz;CH06;1498;2009;Burglary of private residential premises;1
+Zentralschweiz;CH06;1275;2010;Burglary of private residential premises;1
+Zentralschweiz;CH06;563;2009;Theft of a motorized land vehicle;1
+Zentralschweiz;CH06;472;2010;Theft of a motorized land vehicle;1
+Ticino;CH07;2;2009;Intentional homicide;1
+Ticino;CH07;2;2010;Intentional homicide;1
+Ticino;CH07;56;2009;Robbery;1
+Ticino;CH07;71;2010;Robbery;1
+Ticino;CH07;1236;2009;Burglary of private residential premises;1
+Ticino;CH07;1131;2010;Burglary of private residential premises;1
+Ticino;CH07;392;2009;Theft of a motorized land vehicle;1
+Ticino;CH07;293;2010;Theft of a motorized land vehicle;1
+Cyprus;CY;9;2008;Intentional homicide;1
+Cyprus;CY;16;2009;Intentional homicide;1
+Cyprus;CY;7;2010;Intentional homicide;1
+Cyprus;CY;62;2008;Robbery;1
+Cyprus;CY;111;2009;Robbery;1
+Cyprus;CY;156;2010;Robbery;1
+Cyprus;CY;2576;2008;Burglary of private residential premises;1
+Cyprus;CY;2443;2009;Burglary of private residential premises;1
+Cyprus;CY;3232;2010;Burglary of private residential premises;1
+Cyprus;CY;1786;2008;Theft of a motorized land vehicle;1
+Cyprus;CY;2170;2009;Theft of a motorized land vehicle;1
+Cyprus;CY;2418;2010;Theft of a motorized land vehicle;1
+Praha;CZ01;15;2008;Intentional homicide;1
+Praha;CZ01;22;2009;Intentional homicide;1
+Praha;CZ01;16;2010;Intentional homicide;1
+Praha;CZ01;1020;2008;Robbery;1
+Praha;CZ01;1023;2009;Robbery;1
+Praha;CZ01;773;2010;Robbery;1
+Praha;CZ01;2272;2008;Burglary of private residential premises;1
+Praha;CZ01;2536;2009;Burglary of private residential premises;1
+Praha;CZ01;2753;2010;Burglary of private residential premises;1
+Praha;CZ01;6344;2008;Theft of a motorized land vehicle;1
+Praha;CZ01;4912;2009;Theft of a motorized land vehicle;1
+Praha;CZ01;4540;2010;Theft of a motorized land vehicle;1
+Severozápad;CZ04;18;2008;Intentional homicide;1
+Severozápad;CZ04;10;2009;Intentional homicide;1
+Severozápad;CZ04;15;2010;Intentional homicide;1
+Severozápad;CZ04;797;2008;Robbery;1
+Severozápad;CZ04;727;2009;Robbery;1
+Severozápad;CZ04;630;2010;Robbery;1
+Severozápad;CZ04;946;2008;Burglary of private residential premises;1
+Severozápad;CZ04;1032;2009;Burglary of private residential premises;1
+Severozápad;CZ04;1175;2010;Burglary of private residential premises;1
+Severozápad;CZ04;2265;2008;Theft of a motorized land vehicle;1
+Severozápad;CZ04;1752;2009;Theft of a motorized land vehicle;1
+Severozápad;CZ04;1594;2010;Theft of a motorized land vehicle;1
+Strední Morava;CZ07;12;2008;Intentional homicide;1
+Strední Morava;CZ07;17;2009;Intentional homicide;1
+Strední Morava;CZ07;13;2010;Intentional homicide;1
+Strední Morava;CZ07;321;2008;Robbery;1
+Strední Morava;CZ07;315;2009;Robbery;1
+Strední Morava;CZ07;329;2010;Robbery;1
+Strední Morava;CZ07;641;2008;Burglary of private residential premises;1
+Strední Morava;CZ07;567;2009;Burglary of private residential premises;1
+Strední Morava;CZ07;593;2010;Burglary of private residential premises;1
+Strední Morava;CZ07;871;2008;Theft of a motorized land vehicle;1
+Strední Morava;CZ07;761;2009;Theft of a motorized land vehicle;1
+Strední Morava;CZ07;730;2010;Theft of a motorized land vehicle;1
+Moravskoslezsko;CZ08;15;2008;Intentional homicide;1
+Moravskoslezsko;CZ08;16;2009;Intentional homicide;1
+Moravskoslezsko;CZ08;12;2010;Intentional homicide;1
+Moravskoslezsko;CZ08;663;2008;Robbery;1
+Moravskoslezsko;CZ08;672;2009;Robbery;1
+Moravskoslezsko;CZ08;568;2010;Robbery;1
+Moravskoslezsko;CZ08;902;2008;Burglary of private residential premises;1
+Moravskoslezsko;CZ08;1037;2009;Burglary of private residential premises;1
+Moravskoslezsko;CZ08;987;2010;Burglary of private residential premises;1
+Moravskoslezsko;CZ08;1039;2008;Theft of a motorized land vehicle;1
+Moravskoslezsko;CZ08;917;2009;Theft of a motorized land vehicle;1
+Moravskoslezsko;CZ08;917;2010;Theft of a motorized land vehicle;1
+Berlin;DE3;49;2008;Intentional homicide;1
+Berlin;DE3;62;2009;Intentional homicide;1
+Berlin;DE3;41;2010;Intentional homicide;1
+Berlin;DE3;6461;2008;Robbery;1
+Berlin;DE3;6297;2009;Robbery;1
+Berlin;DE3;5997;2010;Robbery;1
+Berlin;DE3;8228;2008;Burglary of private residential premises;1
+Berlin;DE3;9028;2009;Burglary of private residential premises;1
+Berlin;DE3;8713;2010;Burglary of private residential premises;1
+Berlin;DE3;8049;2008;Theft of a motorized land vehicle;1
+Berlin;DE3;9921;2009;Theft of a motorized land vehicle;1
+Berlin;DE3;9807;2010;Theft of a motorized land vehicle;1
+Bremen;DE5;4;2008;Intentional homicide;1
+Bremen;DE5;9;2009;Intentional homicide;1
+Bremen;DE5;10;2010;Intentional homicide;1
+Bremen;DE5;1355;2008;Robbery;1
+Bremen;DE5;1240;2009;Robbery;1
+Bremen;DE5;1268;2010;Robbery;1
+Bremen;DE5;2876;2008;Burglary of private residential premises;1
+Bremen;DE5;3402;2009;Burglary of private residential premises;1
+Bremen;DE5;2877;2010;Burglary of private residential premises;1
+Bremen;DE5;1041;2008;Theft of a motorized land vehicle;1
+Bremen;DE5;956;2009;Theft of a motorized land vehicle;1
+Bremen;DE5;915;2010;Theft of a motorized land vehicle;1
+Hamburg;DE6;22;2008;Intentional homicide;1
+Hamburg;DE6;18;2009;Intentional homicide;1
+Hamburg;DE6;18;2010;Intentional homicide;1
+Hamburg;DE6;3005;2008;Robbery;1
+Hamburg;DE6;2971;2009;Robbery;1
+Hamburg;DE6;2650;2010;Robbery;1
+Hamburg;DE6;6811;2008;Burglary of private residential premises;1
+Hamburg;DE6;7006;2009;Burglary of private residential premises;1
+Hamburg;DE6;7536;2010;Burglary of private residential premises;1
+Hamburg;DE6;3364;2008;Theft of a motorized land vehicle;1
+Hamburg;DE6;3373;2009;Theft of a motorized land vehicle;1
+Hamburg;DE6;3453;2010;Theft of a motorized land vehicle;1
+Saarland;DEC;7;2008;Intentional homicide;1
+Saarland;DEC;5;2009;Intentional homicide;1
+Saarland;DEC;16;2010;Intentional homicide;1
+Saarland;DEC;545;2008;Robbery;1
+Saarland;DEC;547;2009;Robbery;1
+Saarland;DEC;546;2010;Robbery;1
+Saarland;DEC;1746;2008;Burglary of private residential premises;1
+Saarland;DEC;1610;2009;Burglary of private residential premises;1
+Saarland;DEC;1696;2010;Burglary of private residential premises;1
+Saarland;DEC;1345;2008;Theft of a motorized land vehicle;1
+Saarland;DEC;965;2009;Theft of a motorized land vehicle;1
+Saarland;DEC;818;2010;Theft of a motorized land vehicle;1
+Hovedstaden;DK01;22;2008;Intentional homicide;1
+Hovedstaden;DK01;23;2009;Intentional homicide;1
+Hovedstaden;DK01;21;2010;Intentional homicide;1
+Hovedstaden;DK01;4966;2008;Robbery;1
+Hovedstaden;DK01;7078;2009;Robbery;1
+Hovedstaden;DK01;7623;2010;Robbery;1
+Hovedstaden;DK01;12182;2008;Burglary of private residential premises;1
+Hovedstaden;DK01;16168;2009;Burglary of private residential premises;1
+Hovedstaden;DK01;15625;2010;Burglary of private residential premises;1
+Hovedstaden;DK01;7741;2008;Theft of a motorized land vehicle;1
+Hovedstaden;DK01;7562;2009;Theft of a motorized land vehicle;1
+Hovedstaden;DK01;5992;2010;Theft of a motorized land vehicle;1
+Sjælland;DK02;16;2008;Intentional homicide;1
+Sjælland;DK02;13;2009;Intentional homicide;1
+Sjælland;DK02;18;2010;Intentional homicide;1
+Sjælland;DK02;1168;2008;Robbery;1
+Sjælland;DK02;1202;2009;Robbery;1
+Sjælland;DK02;1127;2010;Robbery;1
+Sjælland;DK02;8249;2008;Burglary of private residential premises;1
+Sjælland;DK02;8866;2009;Burglary of private residential premises;1
+Sjælland;DK02;7741;2010;Burglary of private residential premises;1
+Sjælland;DK02;4618;2008;Theft of a motorized land vehicle;1
+Sjælland;DK02;4085;2009;Theft of a motorized land vehicle;1
+Sjælland;DK02;3280;2010;Theft of a motorized land vehicle;1
+Nordjylland;DK05;7;2008;Intentional homicide;1
+Nordjylland;DK05;6;2009;Intentional homicide;1
+Nordjylland;DK05;3;2010;Intentional homicide;1
+Nordjylland;DK05;687;2008;Robbery;1
+Nordjylland;DK05;628;2009;Robbery;1
+Nordjylland;DK05;593;2010;Robbery;1
+Nordjylland;DK05;3605;2008;Burglary of private residential premises;1
+Nordjylland;DK05;3839;2009;Burglary of private residential premises;1
+Nordjylland;DK05;3343;2010;Burglary of private residential premises;1
+Nordjylland;DK05;2997;2008;Theft of a motorized land vehicle;1
+Nordjylland;DK05;2658;2009;Theft of a motorized land vehicle;1
+Nordjylland;DK05;2167;2010;Theft of a motorized land vehicle;1
+Cantabria;ES13;2;2008;Intentional homicide;1
+Cantabria;ES13;7;2009;Intentional homicide;1
+Cantabria;ES13;2;2010;Intentional homicide;1
+Cantabria;ES13;333;2008;Robbery;1
+Cantabria;ES13;344;2009;Robbery;1
+Cantabria;ES13;397;2010;Robbery;1
+Cantabria;ES13;377;2008;Burglary of private residential premises;1
+Cantabria;ES13;537;2009;Burglary of private residential premises;1
+Cantabria;ES13;604;2010;Burglary of private residential premises;1
+Cantabria;ES13;460;2008;Theft of a motorized land vehicle;1
+Cantabria;ES13;434;2009;Theft of a motorized land vehicle;1
+Cantabria;ES13;396;2010;Theft of a motorized land vehicle;1
+País Vasco;ES21;9;2008;Intentional homicide;1
+País Vasco;ES21;15;2009;Intentional homicide;1
+País Vasco;ES21;10;2010;Intentional homicide;1
+País Vasco;ES21;3094;2008;Robbery;1
+País Vasco;ES21;3481;2009;Robbery;1
+País Vasco;ES21;2791;2010;Robbery;1
+País Vasco;ES21;3138;2008;Burglary of private residential premises;1
+País Vasco;ES21;3298;2009;Burglary of private residential premises;1
+País Vasco;ES21;4366;2010;Burglary of private residential premises;1
+País Vasco;ES21;1545;2008;Theft of a motorized land vehicle;1
+País Vasco;ES21;1248;2009;Theft of a motorized land vehicle;1
+País Vasco;ES21;1179;2010;Theft of a motorized land vehicle;1
+La Rioja;ES23;3;2008;Intentional homicide;1
+La Rioja;ES23;2;2009;Intentional homicide;1
+La Rioja;ES23;2;2010;Intentional homicide;1
+La Rioja;ES23;266;2008;Robbery;1
+La Rioja;ES23;233;2009;Robbery;1
+La Rioja;ES23;220;2010;Robbery;1
+La Rioja;ES23;395;2008;Burglary of private residential premises;1
+La Rioja;ES23;384;2009;Burglary of private residential premises;1
+La Rioja;ES23;489;2010;Burglary of private residential premises;1
+La Rioja;ES23;267;2008;Theft of a motorized land vehicle;1
+La Rioja;ES23;205;2009;Theft of a motorized land vehicle;1
+La Rioja;ES23;165;2010;Theft of a motorized land vehicle;1
+Illes Balears;ES53;3;2008;Intentional homicide;1
+Illes Balears;ES53;7;2009;Intentional homicide;1
+Illes Balears;ES53;6;2010;Intentional homicide;1
+Illes Balears;ES53;1760;2008;Robbery;1
+Illes Balears;ES53;1632;2009;Robbery;1
+Illes Balears;ES53;1476;2010;Robbery;1
+Illes Balears;ES53;3798;2008;Burglary of private residential premises;1
+Illes Balears;ES53;3160;2009;Burglary of private residential premises;1
+Illes Balears;ES53;3476;2010;Burglary of private residential premises;1
+Illes Balears;ES53;3055;2008;Theft of a motorized land vehicle;1
+Illes Balears;ES53;2419;2009;Theft of a motorized land vehicle;1
+Illes Balears;ES53;1970;2010;Theft of a motorized land vehicle;1
+Ciudad de Ceuta;ES63;1;2008;Intentional homicide;1
+Ciudad de Ceuta;ES63;1;2009;Intentional homicide;1
+Ciudad de Ceuta;ES63;1;2010;Intentional homicide;1
+Ciudad de Ceuta;ES63;131;2008;Robbery;1
+Ciudad de Ceuta;ES63;146;2009;Robbery;1
+Ciudad de Ceuta;ES63;189;2010;Robbery;1
+Ciudad de Ceuta;ES63;98;2008;Burglary of private residential premises;1
+Ciudad de Ceuta;ES63;85;2009;Burglary of private residential premises;1
+Ciudad de Ceuta;ES63;93;2010;Burglary of private residential premises;1
+Ciudad de Ceuta;ES63;499;2008;Theft of a motorized land vehicle;1
+Ciudad de Ceuta;ES63;511;2009;Theft of a motorized land vehicle;1
+Ciudad de Ceuta;ES63;436;2010;Theft of a motorized land vehicle;1
+Ciudad de Melilla;ES64;2;2008;Intentional homicide;1
+Ciudad de Melilla;ES64;1;2009;Intentional homicide;1
+Ciudad de Melilla;ES64;0;2010;Intentional homicide;1
+Ciudad de Melilla;ES64;229;2008;Robbery;1
+Ciudad de Melilla;ES64;236;2009;Robbery;1
+Ciudad de Melilla;ES64;194;2010;Robbery;1
+Ciudad de Melilla;ES64;115;2008;Burglary of private residential premises;1
+Ciudad de Melilla;ES64;117;2009;Burglary of private residential premises;1
+Ciudad de Melilla;ES64;156;2010;Burglary of private residential premises;1
+Ciudad de Melilla;ES64;139;2008;Theft of a motorized land vehicle;1
+Ciudad de Melilla;ES64;238;2009;Theft of a motorized land vehicle;1
+Ciudad de Melilla;ES64;250;2010;Theft of a motorized land vehicle;1
+Canarias;ES7;27;2008;Intentional homicide;1
+Canarias;ES7;15;2009;Intentional homicide;1
+Canarias;ES7;17;2010;Intentional homicide;1
+Canarias;ES7;2172;2008;Robbery;1
+Canarias;ES7;1989;2009;Robbery;1
+Canarias;ES7;1944;2010;Robbery;1
+Canarias;ES7;3606;2008;Burglary of private residential premises;1
+Canarias;ES7;3516;2009;Burglary of private residential premises;1
+Canarias;ES7;3750;2010;Burglary of private residential premises;1
+Canarias;ES7;4326;2008;Theft of a motorized land vehicle;1
+Canarias;ES7;3309;2009;Theft of a motorized land vehicle;1
+Canarias;ES7;2929;2010;Theft of a motorized land vehicle;1
+Canarias;ES70;27;2008;Intentional homicide;1
+Canarias;ES70;15;2009;Intentional homicide;1
+Canarias;ES70;17;2010;Intentional homicide;1
+Canarias;ES70;2172;2008;Robbery;1
+Canarias;ES70;1989;2009;Robbery;1
+Canarias;ES70;1944;2010;Robbery;1
+Canarias;ES70;3606;2008;Burglary of private residential premises;1
+Canarias;ES70;3516;2009;Burglary of private residential premises;1
+Canarias;ES70;3750;2010;Burglary of private residential premises;1
+Canarias;ES70;4326;2008;Theft of a motorized land vehicle;1
+Canarias;ES70;3309;2009;Theft of a motorized land vehicle;1
+Canarias;ES70;2929;2010;Theft of a motorized land vehicle;1
+Helsinki-Uusimaa;FI1B;25;2008;Intentional homicide;1
+Helsinki-Uusimaa;FI1B;23;2009;Intentional homicide;1
+Helsinki-Uusimaa;FI1B;26;2010;Intentional homicide;1
+Helsinki-Uusimaa;FI1B;765;2008;Robbery;1
+Helsinki-Uusimaa;FI1B;770;2009;Robbery;1
+Helsinki-Uusimaa;FI1B;651;2010;Robbery;1
+Helsinki-Uusimaa;FI1B;1329;2008;Burglary of private residential premises;1
+Helsinki-Uusimaa;FI1B;1650;2009;Burglary of private residential premises;1
+Helsinki-Uusimaa;FI1B;1544;2010;Burglary of private residential premises;1
+Helsinki-Uusimaa;FI1B;5101;2008;Theft of a motorized land vehicle;1
+Helsinki-Uusimaa;FI1B;4815;2009;Theft of a motorized land vehicle;1
+Helsinki-Uusimaa;FI1B;4275;2010;Theft of a motorized land vehicle;1
+Åland;FI2;0;2008;Intentional homicide;1
+Åland;FI2;0;2009;Intentional homicide;1
+Åland;FI2;0;2010;Intentional homicide;1
+Åland;FI2;5;2008;Robbery;1
+Åland;FI2;6;2009;Robbery;1
+Åland;FI2;1;2010;Robbery;1
+Åland;FI2;33;2008;Burglary of private residential premises;1
+Åland;FI2;42;2009;Burglary of private residential premises;1
+Åland;FI2;21;2010;Burglary of private residential premises;1
+Åland;FI2;50;2008;Theft of a motorized land vehicle;1
+Åland;FI2;31;2009;Theft of a motorized land vehicle;1
+Åland;FI2;22;2010;Theft of a motorized land vehicle;1
+Åland;FI20;0;2008;Intentional homicide;1
+Åland;FI20;0;2009;Intentional homicide;1
+Åland;FI20;0;2010;Intentional homicide;1
+Åland;FI20;5;2008;Robbery;1
+Åland;FI20;6;2009;Robbery;1
+Åland;FI20;1;2010;Robbery;1
+Åland;FI20;33;2008;Burglary of private residential premises;1
+Åland;FI20;42;2009;Burglary of private residential premises;1
+Åland;FI20;21;2010;Burglary of private residential premises;1
+Åland;FI20;50;2008;Theft of a motorized land vehicle;1
+Åland;FI20;31;2009;Theft of a motorized land vehicle;1
+Åland;FI20;22;2010;Theft of a motorized land vehicle;1
+Közép-Magyarország;HU1;39;2008;Intentional homicide;1
+Közép-Magyarország;HU1;48;2009;Intentional homicide;1
+Közép-Magyarország;HU1;55;2010;Intentional homicide;1
+Közép-Magyarország;HU1;1536;2008;Robbery;1
+Közép-Magyarország;HU1;1624;2009;Robbery;1
+Közép-Magyarország;HU1;1797;2010;Robbery;1
+Közép-Magyarország;HU1;6722;2008;Burglary of private residential premises;1
+Közép-Magyarország;HU1;7096;2009;Burglary of private residential premises;1
+Közép-Magyarország;HU1;8124;2010;Burglary of private residential premises;1
+Közép-Magyarország;HU1;6859;2008;Theft of a motorized land vehicle;1
+Közép-Magyarország;HU1;6442;2009;Theft of a motorized land vehicle;1
+Közép-Magyarország;HU1;5740;2010;Theft of a motorized land vehicle;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;0;2008;Intentional homicide;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;2;2009;Intentional homicide;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;0;2010;Intentional homicide;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;25;2008;Robbery;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;25;2009;Robbery;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;18;2010;Robbery;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;379;2008;Burglary of private residential premises;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;454;2009;Burglary of private residential premises;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;322;2010;Burglary of private residential premises;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;86;2008;Theft of a motorized land vehicle;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;76;2009;Theft of a motorized land vehicle;1
+Valle d'Aosta/Vallée d'Aoste;ITC2;55;2010;Theft of a motorized land vehicle;1
+Liguria;ITC3;23;2008;Intentional homicide;1
+Liguria;ITC3;18;2009;Intentional homicide;1
+Liguria;ITC3;21;2010;Intentional homicide;1
+Liguria;ITC3;1422;2008;Robbery;1
+Liguria;ITC3;1149;2009;Robbery;1
+Liguria;ITC3;1224;2010;Robbery;1
+Liguria;ITC3;4617;2008;Burglary of private residential premises;1
+Liguria;ITC3;4423;2009;Burglary of private residential premises;1
+Liguria;ITC3;4519;2010;Burglary of private residential premises;1
+Liguria;ITC3;6960;2008;Theft of a motorized land vehicle;1
+Liguria;ITC3;6219;2009;Theft of a motorized land vehicle;1
+Liguria;ITC3;5176;2010;Theft of a motorized land vehicle;1
+Molise;ITF2;2;2008;Intentional homicide;1
+Molise;ITF2;2;2009;Intentional homicide;1
+Molise;ITF2;3;2010;Intentional homicide;1
+Molise;ITF2;45;2008;Robbery;1
+Molise;ITF2;51;2009;Robbery;1
+Molise;ITF2;48;2010;Robbery;1
+Molise;ITF2;382;2008;Burglary of private residential premises;1
+Molise;ITF2;448;2009;Burglary of private residential premises;1
+Molise;ITF2;429;2010;Burglary of private residential premises;1
+Molise;ITF2;458;2008;Theft of a motorized land vehicle;1
+Molise;ITF2;523;2009;Theft of a motorized land vehicle;1
+Molise;ITF2;486;2010;Theft of a motorized land vehicle;1
+Liechtenstein;LI;1;2008;Intentional homicide;1
+Liechtenstein;LI;1;2009;Intentional homicide;1
+Liechtenstein;LI;1;2010;Intentional homicide;1
+Liechtenstein;LI;1;2008;Robbery;1
+Liechtenstein;LI;2;2009;Robbery;1
+Liechtenstein;LI;2;2010;Robbery;1
+Liechtenstein;LI;93;2008;Burglary of private residential premises;1
+Liechtenstein;LI;168;2009;Burglary of private residential premises;1
+Liechtenstein;LI;118;2010;Burglary of private residential premises;1
+Liechtenstein;LI;16;2008;Theft of a motorized land vehicle;1
+Liechtenstein;LI;7;2009;Theft of a motorized land vehicle;1
+Liechtenstein;LI;8;2010;Theft of a motorized land vehicle;1
+Luxembourg;LU;7;2008;Intentional homicide;1
+Luxembourg;LU;5;2009;Intentional homicide;1
+Luxembourg;LU;8;2010;Intentional homicide;1
+Luxembourg;LU;260;2008;Robbery;1
+Luxembourg;LU;365;2009;Robbery;1
+Luxembourg;LU;316;2010;Robbery;1
+Luxembourg;LU;1731;2008;Burglary of private residential premises;1
+Luxembourg;LU;1843;2009;Burglary of private residential premises;1
+Luxembourg;LU;1487;2010;Burglary of private residential premises;1
+Luxembourg;LU;343;2008;Theft of a motorized land vehicle;1
+Luxembourg;LU;365;2009;Theft of a motorized land vehicle;1
+Luxembourg;LU;357;2010;Theft of a motorized land vehicle;1
+Luxembourg;LU0;7;2008;Intentional homicide;1
+Luxembourg;LU0;5;2009;Intentional homicide;1
+Luxembourg;LU0;8;2010;Intentional homicide;1
+Luxembourg;LU0;260;2008;Robbery;1
+Luxembourg;LU0;365;2009;Robbery;1
+Luxembourg;LU0;316;2010;Robbery;1
+Luxembourg;LU0;1731;2008;Burglary of private residential premises;1
+Luxembourg;LU0;1843;2009;Burglary of private residential premises;1
+Luxembourg;LU0;1487;2010;Burglary of private residential premises;1
+Luxembourg;LU0;343;2008;Theft of a motorized land vehicle;1
+Luxembourg;LU0;365;2009;Theft of a motorized land vehicle;1
+Luxembourg;LU0;357;2010;Theft of a motorized land vehicle;1
+Luxembourg;LU00;7;2008;Intentional homicide;1
+Luxembourg;LU00;5;2009;Intentional homicide;1
+Luxembourg;LU00;8;2010;Intentional homicide;1
+Luxembourg;LU00;260;2008;Robbery;1
+Luxembourg;LU00;365;2009;Robbery;1
+Luxembourg;LU00;316;2010;Robbery;1
+Luxembourg;LU00;1731;2008;Burglary of private residential premises;1
+Luxembourg;LU00;1843;2009;Burglary of private residential premises;1
+Luxembourg;LU00;1487;2010;Burglary of private residential premises;1
+Luxembourg;LU00;343;2008;Theft of a motorized land vehicle;1
+Luxembourg;LU00;365;2009;Theft of a motorized land vehicle;1
+Luxembourg;LU00;357;2010;Theft of a motorized land vehicle;1
+Malta;MT;6;2008;Intentional homicide;1
+Malta;MT;4;2009;Intentional homicide;1
+Malta;MT;4;2010;Intentional homicide;1
+Malta;MT;147;2008;Robbery;1
+Malta;MT;202;2009;Robbery;1
+Malta;MT;196;2010;Robbery;1
+Malta;MT;674;2008;Burglary of private residential premises;1
+Malta;MT;667;2009;Burglary of private residential premises;1
+Malta;MT;703;2010;Burglary of private residential premises;1
+Malta;MT;398;2008;Theft of a motorized land vehicle;1
+Malta;MT;401;2009;Theft of a motorized land vehicle;1
+Malta;MT;372;2010;Theft of a motorized land vehicle;1
+Malta;MT0;6;2008;Intentional homicide;1
+Malta;MT0;4;2009;Intentional homicide;1
+Malta;MT0;4;2010;Intentional homicide;1
+Malta;MT0;147;2008;Robbery;1
+Malta;MT0;202;2009;Robbery;1
+Malta;MT0;196;2010;Robbery;1
+Malta;MT0;674;2008;Burglary of private residential premises;1
+Malta;MT0;667;2009;Burglary of private residential premises;1
+Malta;MT0;703;2010;Burglary of private residential premises;1
+Malta;MT0;398;2008;Theft of a motorized land vehicle;1
+Malta;MT0;401;2009;Theft of a motorized land vehicle;1
+Malta;MT0;372;2010;Theft of a motorized land vehicle;1
+Malta;MT00;6;2008;Intentional homicide;1
+Malta;MT00;4;2009;Intentional homicide;1
+Malta;MT00;4;2010;Intentional homicide;1
+Malta;MT00;147;2008;Robbery;1
+Malta;MT00;202;2009;Robbery;1
+Malta;MT00;196;2010;Robbery;1
+Malta;MT00;674;2008;Burglary of private residential premises;1
+Malta;MT00;667;2009;Burglary of private residential premises;1
+Malta;MT00;703;2010;Burglary of private residential premises;1
+Malta;MT00;398;2008;Theft of a motorized land vehicle;1
+Malta;MT00;401;2009;Theft of a motorized land vehicle;1
+Malta;MT00;372;2010;Theft of a motorized land vehicle;1
+Opolskie;PL52;14;2008;Intentional homicide;1
+Opolskie;PL52;10;2009;Intentional homicide;1
+Opolskie;PL52;11;2010;Intentional homicide;1
+Opolskie;PL52;358;2008;Robbery;1
+Opolskie;PL52;289;2009;Robbery;1
+Opolskie;PL52;250;2010;Robbery;1
+Opolskie;PL52;910;2008;Burglary of private residential premises;1
+Opolskie;PL52;857;2009;Burglary of private residential premises;1
+Opolskie;PL52;1138;2010;Burglary of private residential premises;1
+Opolskie;PL52;205;2008;Theft of a motorized land vehicle;1
+Opolskie;PL52;190;2009;Theft of a motorized land vehicle;1
+Opolskie;PL52;181;2010;Theft of a motorized land vehicle;1
+Algarve;PT15;2;2008;Intentional homicide;1
+Algarve;PT15;10;2009;Intentional homicide;1
+Algarve;PT15;11;2010;Intentional homicide;1
+Algarve;PT15;1061;2008;Robbery;1
+Algarve;PT15;1149;2009;Robbery;1
+Algarve;PT15;1109;2010;Robbery;1
+Algarve;PT15;4300;2008;Burglary of private residential premises;1
+Algarve;PT15;4504;2009;Burglary of private residential premises;1
+Algarve;PT15;4058;2010;Burglary of private residential premises;1
+Algarve;PT15;1667;2008;Theft of a motorized land vehicle;1
+Algarve;PT15;1471;2009;Theft of a motorized land vehicle;1
+Algarve;PT15;958;2010;Theft of a motorized land vehicle;1
+Área Metropolitana de Lisboa;PT17;33;2008;Intentional homicide;1
+Área Metropolitana de Lisboa;PT17;38;2009;Intentional homicide;1
+Área Metropolitana de Lisboa;PT17;44;2010;Intentional homicide;1
+Área Metropolitana de Lisboa;PT17;12783;2008;Robbery;1
+Área Metropolitana de Lisboa;PT17;12208;2009;Robbery;1
+Área Metropolitana de Lisboa;PT17;12501;2010;Robbery;1
+Área Metropolitana de Lisboa;PT17;9578;2008;Burglary of private residential premises;1
+Área Metropolitana de Lisboa;PT17;6146;2009;Burglary of private residential premises;1
+Área Metropolitana de Lisboa;PT17;5872;2010;Burglary of private residential premises;1
+Área Metropolitana de Lisboa;PT17;9570;2008;Theft of a motorized land vehicle;1
+Área Metropolitana de Lisboa;PT17;7414;2009;Theft of a motorized land vehicle;1
+Área Metropolitana de Lisboa;PT17;6587;2010;Theft of a motorized land vehicle;1
+Região Autónoma dos Açores (PT);PT2;1;2008;Intentional homicide;1
+Região Autónoma dos Açores (PT);PT2;3;2009;Intentional homicide;1
+Região Autónoma dos Açores (PT);PT2;4;2010;Intentional homicide;1
+Região Autónoma dos Açores (PT);PT2;171;2008;Robbery;1
+Região Autónoma dos Açores (PT);PT2;148;2009;Robbery;1
+Região Autónoma dos Açores (PT);PT2;142;2010;Robbery;1
+Região Autónoma dos Açores (PT);PT2;1033;2008;Burglary of private residential premises;1
+Região Autónoma dos Açores (PT);PT2;900;2009;Burglary of private residential premises;1
+Região Autónoma dos Açores (PT);PT2;776;2010;Burglary of private residential premises;1
+Região Autónoma dos Açores (PT);PT2;137;2008;Theft of a motorized land vehicle;1
+Região Autónoma dos Açores (PT);PT2;185;2009;Theft of a motorized land vehicle;1
+Região Autónoma dos Açores (PT);PT2;142;2010;Theft of a motorized land vehicle;1
+Região Autónoma dos Açores (PT);PT20;1;2008;Intentional homicide;1
+Região Autónoma dos Açores (PT);PT20;3;2009;Intentional homicide;1
+Região Autónoma dos Açores (PT);PT20;4;2010;Intentional homicide;1
+Região Autónoma dos Açores (PT);PT20;171;2008;Robbery;1
+Região Autónoma dos Açores (PT);PT20;148;2009;Robbery;1
+Região Autónoma dos Açores (PT);PT20;142;2010;Robbery;1
+Região Autónoma dos Açores (PT);PT20;1033;2008;Burglary of private residential premises;1
+Região Autónoma dos Açores (PT);PT20;900;2009;Burglary of private residential premises;1
+Região Autónoma dos Açores (PT);PT20;776;2010;Burglary of private residential premises;1
+Região Autónoma dos Açores (PT);PT20;137;2008;Theft of a motorized land vehicle;1
+Região Autónoma dos Açores (PT);PT20;185;2009;Theft of a motorized land vehicle;1
+Região Autónoma dos Açores (PT);PT20;142;2010;Theft of a motorized land vehicle;1
+Região Autónoma da Madeira (PT);PT3;5;2008;Intentional homicide;1
+Região Autónoma da Madeira (PT);PT3;1;2009;Intentional homicide;1
+Região Autónoma da Madeira (PT);PT3;4;2010;Intentional homicide;1
+Região Autónoma da Madeira (PT);PT3;310;2008;Robbery;1
+Região Autónoma da Madeira (PT);PT3;226;2009;Robbery;1
+Região Autónoma da Madeira (PT);PT3;250;2010;Robbery;1
+Região Autónoma da Madeira (PT);PT3;662;2008;Burglary of private residential premises;1
+Região Autónoma da Madeira (PT);PT3;624;2009;Burglary of private residential premises;1
+Região Autónoma da Madeira (PT);PT3;632;2010;Burglary of private residential premises;1
+Região Autónoma da Madeira (PT);PT3;114;2008;Theft of a motorized land vehicle;1
+Região Autónoma da Madeira (PT);PT3;201;2009;Theft of a motorized land vehicle;1
+Região Autónoma da Madeira (PT);PT3;122;2010;Theft of a motorized land vehicle;1
+Região Autónoma da Madeira (PT);PT30;5;2008;Intentional homicide;1
+Região Autónoma da Madeira (PT);PT30;1;2009;Intentional homicide;1
+Região Autónoma da Madeira (PT);PT30;4;2010;Intentional homicide;1
+Região Autónoma da Madeira (PT);PT30;310;2008;Robbery;1
+Região Autónoma da Madeira (PT);PT30;226;2009;Robbery;1
+Região Autónoma da Madeira (PT);PT30;250;2010;Robbery;1
+Região Autónoma da Madeira (PT);PT30;662;2008;Burglary of private residential premises;1
+Região Autónoma da Madeira (PT);PT30;624;2009;Burglary of private residential premises;1
+Região Autónoma da Madeira (PT);PT30;632;2010;Burglary of private residential premises;1
+Região Autónoma da Madeira (PT);PT30;114;2008;Theft of a motorized land vehicle;1
+Região Autónoma da Madeira (PT);PT30;201;2009;Theft of a motorized land vehicle;1
+Região Autónoma da Madeira (PT);PT30;122;2010;Theft of a motorized land vehicle;1
+Bucuresti - Ilfov;RO32;31;2008;Intentional homicide;1
+Bucuresti - Ilfov;RO32;29;2009;Intentional homicide;1
+Bucuresti - Ilfov;RO32;28;2010;Intentional homicide;1
+Bucuresti - Ilfov;RO32;714;2008;Robbery;1
+Bucuresti - Ilfov;RO32;676;2009;Robbery;1
+Bucuresti - Ilfov;RO32;633;2010;Robbery;1
+Bucuresti - Ilfov;RO32;1408;2008;Burglary of private residential premises;1
+Bucuresti - Ilfov;RO32;2066;2009;Burglary of private residential premises;1
+Bucuresti - Ilfov;RO32;2695;2010;Burglary of private residential premises;1
+Bucuresti - Ilfov;RO32;1272;2008;Theft of a motorized land vehicle;1
+Bucuresti - Ilfov;RO32;1532;2009;Theft of a motorized land vehicle;1
+Bucuresti - Ilfov;RO32;1069;2010;Theft of a motorized land vehicle;1
+Stockholm;SE11;24;2010;Intentional homicide;1
+Stockholm;SE11;3338;2008;Robbery;1
+Stockholm;SE11;3330;2009;Robbery;1
+Stockholm;SE11;3036;2010;Robbery;1
+Stockholm;SE11;4718;2008;Burglary of private residential premises;1
+Stockholm;SE11;5996;2009;Burglary of private residential premises;1
+Stockholm;SE11;6127;2010;Burglary of private residential premises;1
+Stockholm;SE11;11651;2008;Theft of a motorized land vehicle;1
+Stockholm;SE11;10736;2009;Theft of a motorized land vehicle;1
+Stockholm;SE11;9696;2010;Theft of a motorized land vehicle;1
+Bratislavský kraj;SK01;13;2008;Intentional homicide;1
+Bratislavský kraj;SK01;14;2009;Intentional homicide;1
+Bratislavský kraj;SK01;13;2010;Intentional homicide;1
+Bratislavský kraj;SK01;317;2008;Robbery;1
+Bratislavský kraj;SK01;326;2009;Robbery;1
+Bratislavský kraj;SK01;260;2010;Robbery;1
+Bratislavský kraj;SK01;448;2008;Burglary of private residential premises;1
+Bratislavský kraj;SK01;514;2009;Burglary of private residential premises;1
+Bratislavský kraj;SK01;318;2010;Burglary of private residential premises;1
+Bratislavský kraj;SK01;1648;2008;Theft of a motorized land vehicle;1
+Bratislavský kraj;SK01;1487;2009;Theft of a motorized land vehicle;1
+Bratislavský kraj;SK01;1311;2010;Theft of a motorized land vehicle;1
+Noord-Nederland;NL1;433;2008;Robbery;1
+Noord-Nederland;NL1;442;2009;Robbery;1
+Noord-Nederland;NL1;468;2010;Robbery;1
+Noord-Nederland;NL1;6886;2008;Burglary of private residential premises;1
+Noord-Nederland;NL1;6531;2009;Burglary of private residential premises;1
+Noord-Nederland;NL1;6735;2010;Burglary of private residential premises;1
+Noord-Nederland;NL1;614;2008;Theft of a motorized land vehicle;1
+Noord-Nederland;NL1;648;2009;Theft of a motorized land vehicle;1
+Noord-Nederland;NL1;576;2010;Theft of a motorized land vehicle;1
+Groningen;NL11;230;2008;Robbery;1
+Groningen;NL11;259;2009;Robbery;1
+Groningen;NL11;288;2010;Robbery;1
+Groningen;NL11;3102;2008;Burglary of private residential premises;1
+Groningen;NL11;2765;2009;Burglary of private residential premises;1
+Groningen;NL11;2864;2010;Burglary of private residential premises;1
+Groningen;NL11;231;2008;Theft of a motorized land vehicle;1
+Groningen;NL11;234;2009;Theft of a motorized land vehicle;1
+Groningen;NL11;252;2010;Theft of a motorized land vehicle;1
+Friesland (NL);NL12;121;2008;Robbery;1
+Friesland (NL);NL12;93;2009;Robbery;1
+Friesland (NL);NL12;97;2010;Robbery;1
+Friesland (NL);NL12;1874;2008;Burglary of private residential premises;1
+Friesland (NL);NL12;1736;2009;Burglary of private residential premises;1
+Friesland (NL);NL12;2077;2010;Burglary of private residential premises;1
+Friesland (NL);NL12;191;2008;Theft of a motorized land vehicle;1
+Friesland (NL);NL12;191;2009;Theft of a motorized land vehicle;1
+Friesland (NL);NL12;149;2010;Theft of a motorized land vehicle;1
+Drenthe;NL13;82;2008;Robbery;1
+Drenthe;NL13;90;2009;Robbery;1
+Drenthe;NL13;83;2010;Robbery;1
+Drenthe;NL13;1910;2008;Burglary of private residential premises;1
+Drenthe;NL13;2030;2009;Burglary of private residential premises;1
+Drenthe;NL13;1794;2010;Burglary of private residential premises;1
+Drenthe;NL13;192;2008;Theft of a motorized land vehicle;1
+Drenthe;NL13;223;2009;Theft of a motorized land vehicle;1
+Drenthe;NL13;175;2010;Theft of a motorized land vehicle;1
+Overijssel;NL21;213;2008;Robbery;1
+Overijssel;NL21;326;2009;Robbery;1
+Overijssel;NL21;275;2010;Robbery;1
+Overijssel;NL21;3675;2008;Burglary of private residential premises;1
+Overijssel;NL21;4197;2009;Burglary of private residential premises;1
+Overijssel;NL21;4491;2010;Burglary of private residential premises;1
+Overijssel;NL21;360;2008;Theft of a motorized land vehicle;1
+Overijssel;NL21;361;2009;Theft of a motorized land vehicle;1
+Overijssel;NL21;415;2010;Theft of a motorized land vehicle;1
+Gelderland;NL22;688;2008;Robbery;1
+Gelderland;NL22;718;2009;Robbery;1
+Gelderland;NL22;720;2010;Robbery;1
+Gelderland;NL22;8608;2008;Burglary of private residential premises;1
+Gelderland;NL22;10318;2009;Burglary of private residential premises;1
+Gelderland;NL22;11338;2010;Burglary of private residential premises;1
+Gelderland;NL22;1622;2008;Theft of a motorized land vehicle;1
+Gelderland;NL22;1635;2009;Theft of a motorized land vehicle;1
+Gelderland;NL22;1666;2010;Theft of a motorized land vehicle;1
+Flevoland;NL23;353;2008;Robbery;1
+Flevoland;NL23;303;2009;Robbery;1
+Flevoland;NL23;323;2010;Robbery;1
+Flevoland;NL23;2097;2008;Burglary of private residential premises;1
+Flevoland;NL23;1933;2009;Burglary of private residential premises;1
+Flevoland;NL23;2503;2010;Burglary of private residential premises;1
+Flevoland;NL23;390;2008;Theft of a motorized land vehicle;1
+Flevoland;NL23;294;2009;Theft of a motorized land vehicle;1
+Flevoland;NL23;372;2010;Theft of a motorized land vehicle;1
+Utrecht;NL31;830;2008;Robbery;1
+Utrecht;NL31;839;2009;Robbery;1
+Utrecht;NL31;660;2010;Robbery;1
+Utrecht;NL31;7884;2008;Burglary of private residential premises;1
+Utrecht;NL31;8265;2009;Burglary of private residential premises;1
+Utrecht;NL31;9204;2010;Burglary of private residential premises;1
+Utrecht;NL31;1203;2008;Theft of a motorized land vehicle;1
+Utrecht;NL31;1262;2009;Theft of a motorized land vehicle;1
+Utrecht;NL31;1165;2010;Theft of a motorized land vehicle;1
+Noord-Holland;NL32;3528;2008;Robbery;1
+Noord-Holland;NL32;3458;2009;Robbery;1
+Noord-Holland;NL32;3218;2010;Robbery;1
+Noord-Holland;NL32;15621;2008;Burglary of private residential premises;1
+Noord-Holland;NL32;16868;2009;Burglary of private residential premises;1
+Noord-Holland;NL32;19263;2010;Burglary of private residential premises;1
+Noord-Holland;NL32;3557;2008;Theft of a motorized land vehicle;1
+Noord-Holland;NL32;3670;2009;Theft of a motorized land vehicle;1
+Noord-Holland;NL32;3743;2010;Theft of a motorized land vehicle;1
+Zuid-Holland;NL33;3329;2008;Robbery;1
+Zuid-Holland;NL33;3229;2009;Robbery;1
+Zuid-Holland;NL33;3574;2010;Robbery;1
+Zuid-Holland;NL33;20302;2008;Burglary of private residential premises;1
+Zuid-Holland;NL33;20405;2009;Burglary of private residential premises;1
+Zuid-Holland;NL33;23608;2010;Burglary of private residential premises;1
+Zuid-Holland;NL33;4055;2008;Theft of a motorized land vehicle;1
+Zuid-Holland;NL33;4160;2009;Theft of a motorized land vehicle;1
+Zuid-Holland;NL33;4055;2010;Theft of a motorized land vehicle;1
+Zeeland;NL34;77;2008;Robbery;1
+Zeeland;NL34;96;2009;Robbery;1
+Zeeland;NL34;91;2010;Robbery;1
+Zeeland;NL34;1235;2008;Burglary of private residential premises;1
+Zeeland;NL34;1315;2009;Burglary of private residential premises;1
+Zeeland;NL34;1484;2010;Burglary of private residential premises;1
+Zeeland;NL34;217;2008;Theft of a motorized land vehicle;1
+Zeeland;NL34;196;2009;Theft of a motorized land vehicle;1
+Zeeland;NL34;145;2010;Theft of a motorized land vehicle;1
+Zuid-Nederland;NL4;1891;2008;Robbery;1
+Zuid-Nederland;NL4;1876;2009;Robbery;1
+Zuid-Nederland;NL4;1563;2010;Robbery;1
+Zuid-Nederland;NL4;22661;2008;Burglary of private residential premises;1
+Zuid-Nederland;NL4;23333;2009;Burglary of private residential premises;1
+Zuid-Nederland;NL4;24075;2010;Burglary of private residential premises;1
+Zuid-Nederland;NL4;5392;2008;Theft of a motorized land vehicle;1
+Zuid-Nederland;NL4;4845;2009;Theft of a motorized land vehicle;1
+Zuid-Nederland;NL4;4352;2010;Theft of a motorized land vehicle;1
+Noord-Brabant;NL41;1335;2008;Robbery;1
+Noord-Brabant;NL41;1257;2009;Robbery;1
+Noord-Brabant;NL41;1044;2010;Robbery;1
+Noord-Brabant;NL41;15075;2008;Burglary of private residential premises;1
+Noord-Brabant;NL41;15850;2009;Burglary of private residential premises;1
+Noord-Brabant;NL41;17265;2010;Burglary of private residential premises;1
+Noord-Brabant;NL41;3185;2008;Theft of a motorized land vehicle;1
+Noord-Brabant;NL41;2839;2009;Theft of a motorized land vehicle;1
+Noord-Brabant;NL41;2615;2010;Theft of a motorized land vehicle;1
+Limburg (NL);NL42;556;2008;Robbery;1
+Limburg (NL);NL42;619;2009;Robbery;1
+Limburg (NL);NL42;519;2010;Robbery;1
+Limburg (NL);NL42;7586;2008;Burglary of private residential premises;1
+Limburg (NL);NL42;7483;2009;Burglary of private residential premises;1
+Limburg (NL);NL42;6810;2010;Burglary of private residential premises;1
+Limburg (NL);NL42;2207;2008;Theft of a motorized land vehicle;1
+Limburg (NL);NL42;2006;2009;Theft of a motorized land vehicle;1
+Limburg (NL);NL42;1737;2010;Theft of a motorized land vehicle;1

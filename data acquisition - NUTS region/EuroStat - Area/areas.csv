@@ -1,0 +1,277 @@
+city_name;city_code;value;unit;measurement date;name
+Burgenland (AT);AT11;3780.0;km2;2022;Area by EuroStat
+Burgenland (AT);AT11;3964.0;km2;2022;Area by EuroStat
+Wien;AT13;396.0;km2;2022;Area by EuroStat
+Wien;AT13;415.0;km2;2022;Area by EuroStat
+Kärnten;AT21;9367.0;km2;2022;Area by EuroStat
+Kärnten;AT21;9537.0;km2;2022;Area by EuroStat
+Salzburg;AT32;7057.0;km2;2022;Area by EuroStat
+Salzburg;AT32;7154.0;km2;2022;Area by EuroStat
+Vorarlberg;AT34;2532.0;km2;2022;Area by EuroStat
+Vorarlberg;AT34;2602.0;km2;2022;Area by EuroStat
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;162.0;km2;2022;Area by EuroStat
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE1;162.0;km2;2022;Area by EuroStat
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;162.0;km2;2022;Area by EuroStat
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest;BE10;162.0;km2;2022;Area by EuroStat
+Prov. Antwerpen;BE21;2804.0;km2;2022;Area by EuroStat
+Prov. Antwerpen;BE21;2876.0;km2;2022;Area by EuroStat
+Prov. Limburg (BE);BE22;2391.0;km2;2022;Area by EuroStat
+Prov. Limburg (BE);BE22;2429.0;km2;2022;Area by EuroStat
+Prov. Oost-Vlaanderen;BE23;2970.0;km2;2022;Area by EuroStat
+Prov. Oost-Vlaanderen;BE23;3009.0;km2;2022;Area by EuroStat
+Prov. Vlaams-Brabant;BE24;2114.0;km2;2022;Area by EuroStat
+Prov. Vlaams-Brabant;BE24;2118.0;km2;2022;Area by EuroStat
+Prov. West-Vlaanderen;BE25;3150.0;km2;2022;Area by EuroStat
+Prov. West-Vlaanderen;BE25;3167.0;km2;2022;Area by EuroStat
+Prov. Brabant wallon;BE31;1097.0;km2;2022;Area by EuroStat
+Prov. Brabant wallon;BE31;1097.0;km2;2022;Area by EuroStat
+Prov. Hainaut;BE32;3800.0;km2;2022;Area by EuroStat
+Prov. Hainaut;BE32;3814.0;km2;2022;Area by EuroStat
+Prov. Liège;BE33;3838.0;km2;2022;Area by EuroStat
+Prov. Liège;BE33;3858.0;km2;2022;Area by EuroStat
+Prov. Luxembourg (BE);BE34;4461.0;km2;2022;Area by EuroStat
+Prov. Luxembourg (BE);BE34;4461.0;km2;2022;Area by EuroStat
+Prov. Namur;BE35;3665.0;km2;2022;Area by EuroStat
+Prov. Namur;BE35;3676.0;km2;2022;Area by EuroStat
+Région lémanique;CH01;8256.0;km2;2022;Area by EuroStat
+Région lémanique;CH01;8717.0;km2;2022;Area by EuroStat
+Nordwestschweiz;CH03;1934.0;km2;2022;Area by EuroStat
+Nordwestschweiz;CH03;1958.0;km2;2022;Area by EuroStat
+Zürich;CH04;1654.0;km2;2022;Area by EuroStat
+Zürich;CH04;1728.0;km2;2022;Area by EuroStat
+Zentralschweiz;CH06;4253.0;km2;2022;Area by EuroStat
+Zentralschweiz;CH06;4482.0;km2;2022;Area by EuroStat
+Ticino;CH07;2733.0;km2;2022;Area by EuroStat
+Ticino;CH07;2812.0;km2;2022;Area by EuroStat
+Cyprus;CY;9213.0;km2;2022;Area by EuroStat
+Cyprus;CY;9253.0;km2;2022;Area by EuroStat
+Kypros;CY0;9213.0;km2;2022;Area by EuroStat
+Kypros;CY0;9253.0;km2;2022;Area by EuroStat
+Kypros;CY00;9213.0;km2;2022;Area by EuroStat
+Kypros;CY00;9253.0;km2;2022;Area by EuroStat
+Praha;CZ01;485.0;km2;2022;Area by EuroStat
+Praha;CZ01;496.0;km2;2022;Area by EuroStat
+Severozápad;CZ04;8474.0;km2;2022;Area by EuroStat
+Severozápad;CZ04;8649.0;km2;2022;Area by EuroStat
+Strední Morava;CZ07;9121.0;km2;2022;Area by EuroStat
+Strední Morava;CZ07;9235.0;km2;2022;Area by EuroStat
+Moravskoslezsko;CZ08;5314.0;km2;2022;Area by EuroStat
+Moravskoslezsko;CZ08;5430.0;km2;2022;Area by EuroStat
+Karlsruhe;DE12;6860.0;km2;2022;Area by EuroStat
+Karlsruhe;DE12;6917.0;km2;2022;Area by EuroStat
+Freiburg;DE13;9262.0;km2;2022;Area by EuroStat
+Freiburg;DE13;9355.0;km2;2022;Area by EuroStat
+Tübingen;DE14;8683.0;km2;2022;Area by EuroStat
+Tübingen;DE14;8917.0;km2;2022;Area by EuroStat
+Oberpfalz;DE23;9645.0;km2;2022;Area by EuroStat
+Oberpfalz;DE23;9691.0;km2;2022;Area by EuroStat
+Oberfranken;DE24;7217.0;km2;2022;Area by EuroStat
+Oberfranken;DE24;7232.0;km2;2022;Area by EuroStat
+Mittelfranken;DE25;7214.0;km2;2022;Area by EuroStat
+Mittelfranken;DE25;7243.0;km2;2022;Area by EuroStat
+Unterfranken;DE26;8495.0;km2;2022;Area by EuroStat
+Unterfranken;DE26;8530.0;km2;2022;Area by EuroStat
+Schwaben;DE27;9886.0;km2;2022;Area by EuroStat
+Schwaben;DE27;9991.0;km2;2022;Area by EuroStat
+Berlin;DE3;846.0;km2;2022;Area by EuroStat
+Berlin;DE3;891.0;km2;2022;Area by EuroStat
+Berlin;DE30;846.0;km2;2022;Area by EuroStat
+Berlin;DE30;891.0;km2;2022;Area by EuroStat
+Bremen;DE5;391.0;km2;2022;Area by EuroStat
+Bremen;DE5;420.0;km2;2022;Area by EuroStat
+Bremen;DE50;391.0;km2;2022;Area by EuroStat
+Bremen;DE50;420.0;km2;2022;Area by EuroStat
+Hamburg;DE6;710.0;km2;2022;Area by EuroStat
+Hamburg;DE6;755.0;km2;2022;Area by EuroStat
+Hamburg;DE60;710.0;km2;2022;Area by EuroStat
+Hamburg;DE60;755.0;km2;2022;Area by EuroStat
+Darmstadt;DE71;7395.0;km2;2022;Area by EuroStat
+Darmstadt;DE71;7445.0;km2;2022;Area by EuroStat
+Gießen;DE72;5376.0;km2;2022;Area by EuroStat
+Gießen;DE72;5382.0;km2;2022;Area by EuroStat
+Kassel;DE73;8267.0;km2;2022;Area by EuroStat
+Kassel;DE73;8288.0;km2;2022;Area by EuroStat
+Braunschweig;DE91;8087.0;km2;2022;Area by EuroStat
+Braunschweig;DE91;8116.0;km2;2022;Area by EuroStat
+Hannover;DE92;8991.0;km2;2022;Area by EuroStat
+Hannover;DE92;9065.0;km2;2022;Area by EuroStat
+Köln;DEA2;7293.0;km2;2022;Area by EuroStat
+Köln;DEA2;7365.0;km2;2022;Area by EuroStat
+Münster;DEA3;6903.0;km2;2022;Area by EuroStat
+Münster;DEA3;6918.0;km2;2022;Area by EuroStat
+Detmold;DEA4;6499.0;km2;2022;Area by EuroStat
+Detmold;DEA4;6524.0;km2;2022;Area by EuroStat
+Arnsberg;DEA5;7975.0;km2;2022;Area by EuroStat
+Arnsberg;DEA5;8012.0;km2;2022;Area by EuroStat
+Koblenz;DEB1;8019.0;km2;2022;Area by EuroStat
+Koblenz;DEB1;8075.0;km2;2022;Area by EuroStat
+Trier;DEB2;4902.0;km2;2022;Area by EuroStat
+Trier;DEB2;4926.0;km2;2022;Area by EuroStat
+Rheinhessen-Pfalz;DEB3;6795.0;km2;2022;Area by EuroStat
+Rheinhessen-Pfalz;DEB3;6852.0;km2;2022;Area by EuroStat
+Saarland;DEC;2565.0;km2;2022;Area by EuroStat
+Saarland;DEC;2571.0;km2;2022;Area by EuroStat
+Saarland;DEC0;2565.0;km2;2022;Area by EuroStat
+Saarland;DEC0;2571.0;km2;2022;Area by EuroStat
+Dresden;DED2;7769.0;km2;2022;Area by EuroStat
+Dresden;DED2;7944.0;km2;2022;Area by EuroStat
+Chemnitz;DED4;6509.0;km2;2022;Area by EuroStat
+Chemnitz;DED4;6528.0;km2;2022;Area by EuroStat
+Leipzig;DED5;3898.0;km2;2022;Area by EuroStat
+Leipzig;DED5;3978.0;km2;2022;Area by EuroStat
+Hovedstaden;DK01;2435.0;km2;2022;Area by EuroStat
+Hovedstaden;DK01;2559.0;km2;2022;Area by EuroStat
+Sjælland;DK02;7077.0;km2;2022;Area by EuroStat
+Sjælland;DK02;7224.0;km2;2022;Area by EuroStat
+Nordjylland;DK05;7718.0;km2;2022;Area by EuroStat
+Nordjylland;DK05;7879.0;km2;2022;Area by EuroStat
+Attiki;EL3;3788.0;km2;2022;Area by EuroStat
+Attiki;EL3;3817.0;km2;2022;Area by EuroStat
+Attiki;EL30;3788.0;km2;2022;Area by EuroStat
+Attiki;EL30;3817.0;km2;2022;Area by EuroStat
+Voreio Aigaio;EL41;3801.0;km2;2022;Area by EuroStat
+Voreio Aigaio;EL41;3848.0;km2;2022;Area by EuroStat
+Notio Aigaio;EL42;5231.0;km2;2022;Area by EuroStat
+Notio Aigaio;EL42;5311.0;km2;2022;Area by EuroStat
+Kriti;EL43;8305.0;km2;2022;Area by EuroStat
+Kriti;EL43;8346.0;km2;2022;Area by EuroStat
+Dytiki Makedonia;EL53;9229.0;km2;2022;Area by EuroStat
+Dytiki Makedonia;EL53;9462.0;km2;2022;Area by EuroStat
+Ipeiros;EL54;9073.0;km2;2022;Area by EuroStat
+Ipeiros;EL54;9152.0;km2;2022;Area by EuroStat
+Ionia Nisia;EL62;2276.0;km2;2022;Area by EuroStat
+Ionia Nisia;EL62;2301.0;km2;2022;Area by EuroStat
+Cantabria;ES13;5268.0;km2;2022;Area by EuroStat
+Cantabria;ES13;5326.0;km2;2022;Area by EuroStat
+País Vasco;ES21;7190.0;km2;2022;Area by EuroStat
+País Vasco;ES21;7229.0;km2;2022;Area by EuroStat
+La Rioja;ES23;5031.0;km2;2022;Area by EuroStat
+La Rioja;ES23;5045.0;km2;2022;Area by EuroStat
+Illes Balears;ES53;4973.0;km2;2022;Area by EuroStat
+Illes Balears;ES53;4990.0;km2;2022;Area by EuroStat
+Ciudad de Ceuta;ES63;20.0;km2;2022;Area by EuroStat
+Ciudad de Ceuta;ES63;20.0;km2;2022;Area by EuroStat
+Ciudad de Melilla;ES64;14.0;km2;2022;Area by EuroStat
+Ciudad de Melilla;ES64;14.0;km2;2022;Area by EuroStat
+Canarias;ES7;7422.0;km2;2022;Area by EuroStat
+Canarias;ES7;7447.0;km2;2022;Area by EuroStat
+Canarias;ES70;7422.0;km2;2022;Area by EuroStat
+Canarias;ES70;7447.0;km2;2022;Area by EuroStat
+Helsinki-Uusimaa;FI1B;9097.0;km2;2022;Area by EuroStat
+Helsinki-Uusimaa;FI1B;9568.0;km2;2022;Area by EuroStat
+Åland;FI2;1553.0;km2;2022;Area by EuroStat
+Åland;FI2;1581.0;km2;2022;Area by EuroStat
+Åland;FI20;1553.0;km2;2022;Area by EuroStat
+Åland;FI20;1581.0;km2;2022;Area by EuroStat
+Alsace;FRF1;8264.0;km2;2022;Area by EuroStat
+Alsace;FRF1;8329.0;km2;2022;Area by EuroStat
+Corse;FRM;8678.0;km2;2022;Area by EuroStat
+Corse;FRM;8726.0;km2;2022;Area by EuroStat
+Corse;FRM0;8678.0;km2;2022;Area by EuroStat
+Corse;FRM0;8726.0;km2;2022;Area by EuroStat
+Guadeloupe;FRY1;1680.0;km2;2022;Area by EuroStat
+Guadeloupe;FRY1;1685.0;km2;2022;Area by EuroStat
+Martinique;FRY2;1102.0;km2;2022;Area by EuroStat
+Martinique;FRY2;1108.0;km2;2022;Area by EuroStat
+La Réunion;FRY4;2478.0;km2;2022;Area by EuroStat
+La Réunion;FRY4;2504.0;km2;2022;Area by EuroStat
+Mayotte;FRY5;365.0;km2;2022;Area by EuroStat
+Mayotte;FRY5;367.0;km2;2022;Area by EuroStat
+Grad Zagreb;HR05;634.0;km2;2022;Area by EuroStat
+Grad Zagreb;HR05;641.0;km2;2022;Area by EuroStat
+Sjeverna Hrvatska;HR06;7927.0;km2;2022;Area by EuroStat
+Sjeverna Hrvatska;HR06;8028.0;km2;2022;Area by EuroStat
+Közép-Magyarország;HU1;6791.0;km2;2022;Area by EuroStat
+Közép-Magyarország;HU1;6916.0;km2;2022;Area by EuroStat
+Budapest;HU11;510.0;km2;2022;Area by EuroStat
+Budapest;HU11;525.0;km2;2022;Area by EuroStat
+Pest;HU12;6281.0;km2;2022;Area by EuroStat
+Pest;HU12;6391.0;km2;2022;Area by EuroStat
+Valle d'Aosta/Vallée d'Aoste;ITC2;3245.0;km2;2022;Area by EuroStat
+Valle d'Aosta/Vallée d'Aoste;ITC2;3261.0;km2;2022;Area by EuroStat
+Liguria;ITC3;5408.0;km2;2022;Area by EuroStat
+Liguria;ITC3;5416.0;km2;2022;Area by EuroStat
+Molise;ITF2;4444.0;km2;2022;Area by EuroStat
+Molise;ITF2;4461.0;km2;2022;Area by EuroStat
+Provincia Autonoma di Bolzano/Bozen;ITH1;7370.0;km2;2022;Area by EuroStat
+Provincia Autonoma di Bolzano/Bozen;ITH1;7398.0;km2;2022;Area by EuroStat
+Provincia Autonoma di Trento;ITH2;6156.0;km2;2022;Area by EuroStat
+Provincia Autonoma di Trento;ITH2;6207.0;km2;2022;Area by EuroStat
+Friuli-Venezia Giulia;ITH4;7571.0;km2;2022;Area by EuroStat
+Friuli-Venezia Giulia;ITH4;7862.0;km2;2022;Area by EuroStat
+Umbria;ITI2;8306.0;km2;2022;Area by EuroStat
+Umbria;ITI2;8464.0;km2;2022;Area by EuroStat
+Marche;ITI3;9385.0;km2;2022;Area by EuroStat
+Marche;ITI3;9401.0;km2;2022;Area by EuroStat
+Liechtenstein;LI;158.0;km2;2022;Area by EuroStat
+Liechtenstein;LI;160.0;km2;2022;Area by EuroStat
+Liechtenstein;LI0;158.0;km2;2022;Area by EuroStat
+Liechtenstein;LI0;160.0;km2;2022;Area by EuroStat
+Liechtenstein;LI00;158.0;km2;2022;Area by EuroStat
+Liechtenstein;LI00;160.0;km2;2022;Area by EuroStat
+Sostines regionas;LT01;9422.0;km2;2022;Area by EuroStat
+Sostines regionas;LT01;9730.0;km2;2022;Area by EuroStat
+Luxembourg;LU;2586.0;km2;2022;Area by EuroStat
+Luxembourg;LU;2595.0;km2;2022;Area by EuroStat
+Luxembourg;LU0;2586.0;km2;2022;Area by EuroStat
+Luxembourg;LU0;2595.0;km2;2022;Area by EuroStat
+Luxembourg;LU00;2586.0;km2;2022;Area by EuroStat
+Luxembourg;LU00;2595.0;km2;2022;Area by EuroStat
+Malta;MT;313.0;km2;2022;Area by EuroStat
+Malta;MT;316.0;km2;2022;Area by EuroStat
+Malta;MT0;313.0;km2;2022;Area by EuroStat
+Malta;MT0;316.0;km2;2022;Area by EuroStat
+Malta;MT00;313.0;km2;2022;Area by EuroStat
+Malta;MT00;316.0;km2;2022;Area by EuroStat
+Noord-Nederland;NL1;8428.0;km2;2022;Area by EuroStat
+Noord-Nederland;NL1;9082.0;km2;2022;Area by EuroStat
+Groningen;NL11;2360.0;km2;2022;Area by EuroStat
+Groningen;NL11;2405.0;km2;2022;Area by EuroStat
+Friesland (NL);NL12;3397.0;km2;2022;Area by EuroStat
+Friesland (NL);NL12;3997.0;km2;2022;Area by EuroStat
+Drenthe;NL13;2671.0;km2;2022;Area by EuroStat
+Drenthe;NL13;2680.0;km2;2022;Area by EuroStat
+Overijssel;NL21;3362.0;km2;2022;Area by EuroStat
+Overijssel;NL21;3421.0;km2;2022;Area by EuroStat
+Gelderland;NL22;5000.0;km2;2022;Area by EuroStat
+Gelderland;NL22;5137.0;km2;2022;Area by EuroStat
+Flevoland;NL23;1435.0;km2;2022;Area by EuroStat
+Flevoland;NL23;2413.0;km2;2022;Area by EuroStat
+Utrecht;NL31;1405.0;km2;2022;Area by EuroStat
+Utrecht;NL31;1449.0;km2;2022;Area by EuroStat
+Noord-Holland;NL32;2753.0;km2;2022;Area by EuroStat
+Noord-Holland;NL32;3403.0;km2;2022;Area by EuroStat
+Zuid-Holland;NL33;2884.0;km2;2022;Area by EuroStat
+Zuid-Holland;NL33;3247.0;km2;2022;Area by EuroStat
+Zeeland;NL34;1803.0;km2;2022;Area by EuroStat
+Zeeland;NL34;1935.0;km2;2022;Area by EuroStat
+Zuid-Nederland;NL4;7118.0;km2;2022;Area by EuroStat
+Zuid-Nederland;NL4;7291.0;km2;2022;Area by EuroStat
+Noord-Brabant;NL41;4961.0;km2;2022;Area by EuroStat
+Noord-Brabant;NL41;5082.0;km2;2022;Area by EuroStat
+Limburg (NL);NL42;2157.0;km2;2022;Area by EuroStat
+Limburg (NL);NL42;2209.0;km2;2022;Area by EuroStat
+Opolskie;PL52;9313.0;km2;2022;Area by EuroStat
+Opolskie;PL52;9412.0;km2;2022;Area by EuroStat
+Warszawski stoleczny;PL91;6013.0;km2;2022;Area by EuroStat
+Warszawski stoleczny;PL91;6104.0;km2;2022;Area by EuroStat
+Algarve;PT15;4934.0;km2;2022;Area by EuroStat
+Algarve;PT15;4997.0;km2;2022;Area by EuroStat
+Área Metropolitana de Lisboa;PT17;2810.0;km2;2022;Area by EuroStat
+Área Metropolitana de Lisboa;PT17;3015.0;km2;2022;Area by EuroStat
+Região Autónoma dos Açores (PT);PT2;2305.0;km2;2022;Area by EuroStat
+Região Autónoma dos Açores (PT);PT2;2322.0;km2;2022;Area by EuroStat
+Região Autónoma dos Açores (PT);PT20;2305.0;km2;2022;Area by EuroStat
+Região Autónoma dos Açores (PT);PT20;2322.0;km2;2022;Area by EuroStat
+Região Autónoma da Madeira (PT);PT3;799.0;km2;2022;Area by EuroStat
+Região Autónoma da Madeira (PT);PT3;802.0;km2;2022;Area by EuroStat
+Região Autónoma da Madeira (PT);PT30;799.0;km2;2022;Area by EuroStat
+Região Autónoma da Madeira (PT);PT30;802.0;km2;2022;Area by EuroStat
+Bucuresti - Ilfov;RO32;1754.0;km2;2022;Area by EuroStat
+Bucuresti - Ilfov;RO32;1804.0;km2;2022;Area by EuroStat
+Stockholm;SE11;6524.0;km2;2022;Area by EuroStat
+Stockholm;SE11;7153.0;km2;2022;Area by EuroStat
+Zahodna Slovenija;SI04;7812.0;km2;2022;Area by EuroStat
+Zahodna Slovenija;SI04;7840.0;km2;2022;Area by EuroStat
+Bratislavský kraj;SK01;2021.0;km2;2022;Area by EuroStat
+Bratislavský kraj;SK01;2053.0;km2;2022;Area by EuroStat
