@@ -25,7 +25,7 @@ We employed our computational framework to analyze a selected set of health, env
 ## How you can use it?
 
 ## Access to the pilot app
-The pilot app is available at the following (http://ida4health.bxg2dtcqfabqe0ex.westeurope.azurecontainer.io:7860/app/demo_european_cities)[link].
+The pilot app is available at the following [link](http://ida4health.bxg2dtcqfabqe0ex.westeurope.azurecontainer.io:7860/app/demo_european_cities).
 
 ## References:
 </p>[1] Murilo Borges Ribeiro; Kelly Rosa Braghetto. A Data Integration Architecture for Smart Cities. Proceedings of the 36th Brazilian Symposium on Databases 2021, 205–216. https://doi.org/10.5753/sbbd.2021.17878<br>
