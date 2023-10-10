@@ -11,9 +11,6 @@ To accomplish this mission, our first step was to identify open-source databases
 
 [^1]: Nomenclature of Territorial Units for Statistics (NUTS) classification system for regions
 
-## Structure of a computational framework
-
-
 ## Proof of concept
 We employed our computational framework to analyze a selected set of health, environmental, and urban datasets from corresponding sources – Eurostat [3], European Environment Agency (EEA) [4], and Numbeo [5]. Our integrative analysis focused on 120 European cities with surface area small enough to neglect the heterogeneity of the urban environment. The initial findings indicate modest correlations or no correlations between environmental factors and health outcomes - see *Figure 1*. We are actively striving to optimize our statistical analysis by exploring alternative regression analysis methods and introducing new variables into our models. However, it is worth noting that our existing framework can be readily extended to any other location with accessible datasets, allowing for broader application and analysis.
 
@@ -21,8 +18,6 @@ We employed our computational framework to analyze a selected set of health, env
 <p><sub>Figure 1: Example of a plot from the inference framework:<br> 
   correlation of nitric oxide (NO) with a standardised mortality rate of<br> 
   chronic lower respiratory disease. R² = coefficient of determination.</sub></p>
-
-## How you can use it?
 
 ## Access to the pilot app
 The pilot app is available at the following [link](http://ida4health.bxg2dtcqfabqe0ex.westeurope.azurecontainer.io:7860/app/demo_european_cities).
